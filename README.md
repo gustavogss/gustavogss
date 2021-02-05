@@ -1,4 +1,4 @@
-### Olá mim sou Gustavo Guilherme da Silva Souza, gosto muito de inovação e experimentos em projetos com novas tecnologias ReactJs, JavaScript, NodeJs, e outras stacks.
+### Olá mim sou Gustavo Guilherme da Silva Souza, gosto muito de inovação e experimentos em projetos com novas tecnologias Android, Java, ReactJs, JavaScript, NodeJs, e Magento2.
 
 #### Aqui tem algumas informações interessantes:
 
