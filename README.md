@@ -1,4 +1,4 @@
-### Olá meu nome é Gustavo Souza, gosto muito de inovação e tecnologia. Aqui estão alguns dos projetos que venho desenvolvendo na minha jornada. Utilizando Android, Java, ReactJs, JavaScript, NodeJs e outras stacks.
+### Olá meu nome é Gustavo Souza, gosto muito de inovação e tecnologia. Aqui estão alguns dos projetos que venho desenvolvendo na minha jornada, utilizando Android, Java, ReactJs, JavaScript, NodeJs e outras stacks.
 
 #### Você também pode mim encontrar aqui:
 
