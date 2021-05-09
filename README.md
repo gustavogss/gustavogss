@@ -1,7 +1,7 @@
  
  
  
- Olá meu nome é Gustavo Souza, adoro programação e estou sempre procurando aprender coisas novas.
+ Olá meu nome é Gustavo Souza, programação é meu hobbie preferido e estou sempre procurando aprender novas tecnologias.
  
  Você também pode mim encontrar aqui:
 
