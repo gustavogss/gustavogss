@@ -2,7 +2,7 @@
 ## I'm Gustavo Souza
 - I live in :brazil:, in the city of João Pessoa-PB :sunrise: :sunglasses:
 - I work as a freelancer in mobile web application development :computer: :iphone:
-- I've always been very curious since I was a kid. I love learning new technologies, programming, solving problems and building solutions :heart:
+- I love learning new technologies, programming, solving problems and building solutions :heart:
 
  ### Connect with me: 
  <div align="left">
