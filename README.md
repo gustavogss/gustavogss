@@ -1,4 +1,4 @@
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/gustavogss/618ef18e3bbb7cdfd200f3a4fc1aabc6/raw/201d47c76006c99fe0dc55ea92e76bdca5537f08/githubcard.svg"/>
+
 <h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, Eu sou Gustavo Souza</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gustavogss&color=yellow" alt="Profile views" /> </p>
 
@@ -12,7 +12,7 @@
 
 <br><br>
 
-## &nbsp; Principais Habilidades :robot:
+## :robot: &nbsp;Principais Habilidades 
 
 ![GitHub](https://img.shields.io/badge/-GitHub-184DA5?style=flat&logo=github)&nbsp;
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-184DA5?style=flat&logo=ubuntu)&nbsp;
@@ -28,13 +28,13 @@
 ![Wordpress](https://img.shields.io/badge/-Wordpress-184DA5?style=flat&logo=wordpress)&nbsp;
 ![Magento2](https://img.shields.io/badge/-Magento2-184DA5?style=flat&logo=magento)&nbsp;
 
-## &nbsp; Habilidades que estou estudando :robot:
+## 🛠 &nbsp; Habilidades que estou estudando
 
 ![React](https://img.shields.io/badge/-React-184DA5?style=flat&logo=react)&nbsp;
-![ReactNative](https://img.shields.io/badge/-ReactNative-184DA5?style=flat&logo=reactnative)&nbsp;
-![Node.js](https://img.shields.io/badge/-NodeJs-184DA5?style=flat&logo=node)&nbsp;
+![ReactNative](https://img.shields.io/badge/-ReactNative-184DA5?style=flat&logo=react)&nbsp;
+![Node.js](https://img.shields.io/badge/-NodeJs-184DA5?style=flat&logo=node.js)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-Typescript-184DA5?style=flat&logo=typescript)&nbsp;
-![Liquid](https://img.shields.io/badge/-Liquid-184DA5?style=flat&logo=liquid)&nbsp;
+![Liquid](https://img.shields.io/badge/-Liquid-184DA5?style=flat&logo=shopfy)&nbsp;
 ![JQuery](https://img.shields.io/badge/-JQuery-184DA5?style=flat&logo=jquery)&nbsp;
 ![Jest](https://img.shields.io/badge/-Jest-184DA5?style=flat&logo=jest)&nbsp;
 ![RTL](https://img.shields.io/badge/-RTL-184DA5?style=flat&logo=rtl)&nbsp;
