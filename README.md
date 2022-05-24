@@ -4,9 +4,9 @@
 
 - Moro na cidade de João Pessoa-PB :sunrise: :sunglasses:
 
-- Sou formado em Processamento de Dados pela ![ASPER](https://www.asper.edu.br/) e Pós-graduado em Desenvolvimento Mobile pela ![Estácio de Sá](https://estacio.br/) :computer: :iphone:
+- Sou formado em Processamento de Dados pela [ASPER](https://www.asper.edu.br/) e Pós-graduado em Desenvolvimento Mobile pela ![Estácio de Sá](https://estacio.br/) :computer: :iphone:
 
-- Atualmente estou fazendo um Treinamento na ![TRYBE](https://www.betrybe.com/) para Desenvolvimento Web FullStack, participando de alguns Bootcamps da ![Rocketseat](https://www.rocketseat.com.br/) e ![DIO](https://web.dio.me/), visando uma recolocação no mercado de tecnologia. 😜
+- Atualmente estou fazendo um Treinamento na [TRYBE](https://www.betrybe.com/) para Desenvolvimento Web FullStack, participando de alguns Bootcamps da ![Rocketseat](https://www.rocketseat.com.br/) e [DIO](https://web.dio.me/), visando uma recolocação no mercado de tecnologia. 😜
 
 - Tenho senso de time, gosto de aprender novas stacks, resolver problemas e construir soluções :heart:
 
@@ -32,9 +32,9 @@
 ![ReactNative](https://img.shields.io/badge/React_Native-05122A?style=for-the-badge&logo=react&logoColor=white)&nbsp;
 ![Node.js](https://img.shields.io/badge/Node.js-05122A?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
 ![Jest](https://img.shields.io/badge/Jest-05122A?style=for-the-badge&logo=Jest&logoColor=white)&nbsp;
-![TypeScript]](https://img.shields.io/badge/TypeScript-05122A?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
-![Sequelize]](https://img.shields.io/badge/Sequelize-05122A?style=for-the-badge&logo=Sequelize&logoColor=white)&nbsp;
-![Prisma]](https://img.shields.io/badge/Prisma-05122A?style=for-the-badge&logo=Prisma&logoColor=white)&nbsp;
+![TypeScript](https://img.shields.io/badge/TypeScript-05122A?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
+![Sequelize](https://img.shields.io/badge/Sequelize-05122A?style=for-the-badge&logo=Sequelize&logoColor=white)&nbsp;
+![Prisma](https://img.shields.io/badge/Prisma-05122A?style=for-the-badge&logo=Prisma&logoColor=white)&nbsp;
 <br><br>
 
 ## ⚙️ &nbsp;GitHub Analytics
