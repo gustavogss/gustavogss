@@ -4,9 +4,9 @@
 
 - Moro na cidade de João Pessoa-PB :sunrise: :sunglasses:
 
-- Sou formado em Processamento de Dados pela [ASPER](https://www.asper.edu.br/) e Pós-graduado em Desenvolvimento Mobile pela ![Estácio de Sá](https://estacio.br/) :computer: :iphone:
+- Sou formado em Processamento de Dados pela [ASPER](https://www.asper.edu.br/) e Pós-graduado em Desenvolvimento Mobile pela [Estácio de Sá](https://estacio.br/) :computer: :iphone:
 
-- Atualmente estou fazendo um Treinamento na [TRYBE](https://www.betrybe.com/) para Desenvolvimento Web FullStack, participando de alguns Bootcamps da ![Rocketseat](https://www.rocketseat.com.br/) e [DIO](https://web.dio.me/), visando uma recolocação no mercado de tecnologia. 😜
+- Atualmente estou fazendo um Treinamento na [TRYBE](https://www.betrybe.com/) para Desenvolvimento Web FullStack, participando de alguns Bootcamps da [Rocketseat](https://www.rocketseat.com.br/) e [DIO](https://web.dio.me/), visando uma recolocação no mercado de tecnologia. 😜
 
 - Tenho senso de time, gosto de aprender novas stacks, resolver problemas e construir soluções :heart:
 
@@ -14,27 +14,34 @@
 
 ## &nbsp; Principais Habilidades :robot:
 
-![GitHub](https://img.shields.io/badge/GitHub-05122A?style=for-the-badge&logo=github&logoColor=white)&nbsp;
-![Ubuntu](https://img.shields.io/badge/Ubuntu-05122A?style=for-the-badge&logo=ubuntu&logoColor=white)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![HTML5](https://img.shields.io/badge/HTML5-05122A?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS3](https://img.shields.io/badge/CSS3-105122A?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![Saas](https://img.shields.io/badge/Sass-105122A?style=for-the-badge&logo=sass&logoColor=white)&nbsp;
-![BootStrap](https://img.shields.io/badge/Bootstrap-105122A?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
-![JavaScript](https://img.shields.io/badge/JavaScript-05122A?style=for-the-badge&logo=javascript&logoColor=white)&nbsp;
-![MySQL](https://img.shields.io/badge/MySQL-05122A?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
-![Vercel](https://img.shields.io/badge/Vercel-05122A?style=for-the-badge&logo=vercel&logoColor=white)&nbsp;
-![Wordpress](https://img.shields.io/badge/Wordpress-05122A?style=for-the-badge&logo=wordpress&logoColor=white)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-184DA5?style=flat&logo=github)&nbsp;
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-184DA5?style=flat&logo=ubuntu)&nbsp;
+![HTML5](https://img.shields.io/badge/-HTML5-184DA5?style=flat&logo=html5)&nbsp;
+![CSS3](https://img.shields.io/badge/-gustavogss-184DA5?style=flat&logo=css3)&nbsp;
+![Sass](https://img.shields.io/badge/-SAAS-184DA5?style=flat&logo=sass)&nbsp;
+![BootStrap](https://img.shields.io/badge/-BootStrap-184DA5?style=flat&logo=bootstrap)&nbsp;
+![JavaScript](https://img.shields.io/badge/-Javascript-184DA5?style=flat&logo=javascript)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-184DA5?style=flat&logo=mysql)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-184DA5?style=flat&logo=docker)&nbsp;
+![Firebase](https://img.shields.io/badge/-Firebase-184DA5?style=flat&logo=firebase)&nbsp;
+![Vercel](https://img.shields.io/badge/-Vercel-184DA5?style=flat&logo=vercel)&nbsp;
+![Wordpress](https://img.shields.io/badge/-Wordpress-184DA5?style=flat&logo=wordpress)&nbsp;
+![Magento2](https://img.shields.io/badge/-Magento2-184DA5?style=flat&logo=magento)&nbsp;
 
 ## &nbsp; Habilidades que estou estudando :robot:
 
-![React](https://img.shields.io/badge/React-05122A?style=for-the-badge&logo=react&logoColor=white)&nbsp;
-![ReactNative](https://img.shields.io/badge/React_Native-05122A?style=for-the-badge&logo=react&logoColor=white)&nbsp;
-![Node.js](https://img.shields.io/badge/Node.js-05122A?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
-![Jest](https://img.shields.io/badge/Jest-05122A?style=for-the-badge&logo=Jest&logoColor=white)&nbsp;
-![TypeScript](https://img.shields.io/badge/TypeScript-05122A?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
-![Sequelize](https://img.shields.io/badge/Sequelize-05122A?style=for-the-badge&logo=Sequelize&logoColor=white)&nbsp;
-![Prisma](https://img.shields.io/badge/Prisma-05122A?style=for-the-badge&logo=Prisma&logoColor=white)&nbsp;
+![React](https://img.shields.io/badge/-React-184DA5?style=flat&logo=react)&nbsp;
+![ReactNative](https://img.shields.io/badge/-ReactNative-184DA5?style=flat&logo=reactnative)&nbsp;
+![Node.js](https://img.shields.io/badge/-NodeJs-184DA5?style=flat&logo=node)&nbsp;
+![TypeScript](https://img.shields.io/badge/-Typescript-184DA5?style=flat&logo=typescript)&nbsp;
+![Liquid](https://img.shields.io/badge/-Liquid-184DA5?style=flat&logo=liquid)&nbsp;
+![JQuery](https://img.shields.io/badge/-JQuery-184DA5?style=flat&logo=jquery)&nbsp;
+![Jest](https://img.shields.io/badge/-Jest-184DA5?style=flat&logo=jest)&nbsp;
+![RTL](https://img.shields.io/badge/-RTL-184DA5?style=flat&logo=rtl)&nbsp;
+![Cypress](https://img.shields.io/badge/-Cypress-184DA5?style=flat&logo=cypress)&nbsp;
+![Sequelize](https://img.shields.io/badge/-Sequelize-184DA5?style=flat&logo=sequelize)&nbsp;
+![Prisma](https://img.shields.io/badge/-Prisma-184DA5?style=flat&logo=prisma)&nbsp;
+![GraphQL](https://img.shields.io/badge/-GraphQL-184DA5?style=flat&logo=graphql)&nbsp;
 <br><br>
 
 ## ⚙️ &nbsp;GitHub Analytics
