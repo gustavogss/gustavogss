@@ -17,7 +17,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-184DA5?style=flat&logo=github)&nbsp;
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-184DA5?style=flat&logo=ubuntu)&nbsp;
 ![HTML5](https://img.shields.io/badge/-HTML5-184DA5?style=flat&logo=html5)&nbsp;
-![CSS3](https://img.shields.io/badge/-gustavogss-184DA5?style=flat&logo=css3)&nbsp;
+![CSS3](https://img.shields.io/badge/-CSS3-184DA5?style=flat&logo=css3)&nbsp;
 ![Sass](https://img.shields.io/badge/-SAAS-184DA5?style=flat&logo=sass)&nbsp;
 ![BootStrap](https://img.shields.io/badge/-BootStrap-184DA5?style=flat&logo=bootstrap)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-Javascript-184DA5?style=flat&logo=javascript)&nbsp;
