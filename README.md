@@ -9,8 +9,7 @@
 - Atualmente estou fazendo um Treinamento na [TRYBE](https://www.betrybe.com/) para Desenvolvimento Web FullStack, participando de alguns Bootcamps da [Rocketseat](https://www.rocketseat.com.br/) e [DIO](https://web.dio.me/), visando uma recolocação no mercado de tecnologia. 😜
 
 - Tenho senso de time, gosto de aprender novas stacks, resolver problemas e construir soluções :heart:
-
-<br><br>
+<br />
 
 ## :robot: &nbsp;Principais Habilidades 
 
@@ -27,6 +26,7 @@
 ![Vercel](https://img.shields.io/badge/-Vercel-184DA5?style=flat&logo=vercel)&nbsp;
 ![Wordpress](https://img.shields.io/badge/-Wordpress-184DA5?style=flat&logo=wordpress)&nbsp;
 ![Magento2](https://img.shields.io/badge/-Magento2-184DA5?style=flat&logo=magento)&nbsp;
+<br>
 
 ## 🛠 &nbsp; Habilidades que estou estudando
 
@@ -44,15 +44,6 @@
 ![GraphQL](https://img.shields.io/badge/-GraphQL-184DA5?style=flat&logo=graphql)&nbsp;
 <br><br>
 
-## ⚙️ &nbsp;GitHub Analytics
-
-<p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=gustavogss&show_icons=true&theme=vision-friendly-dark" alt="gustavogss's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavogss&layout=compact&theme=vision-friendly-dark" alt="gustavogss's most languages"/>
-</p>
-
-<br><br>
-
 ## 👨🏽‍🦲 &nbsp;Redes Sociais
 
 <p align="left" style="background:yellow">
@@ -65,4 +56,19 @@
 <a href="https://www.facebook.com/gustavogss.jp/" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-gustavogss-05122A?style=flat&logo=facebook" alt="facebook"/>
 </a>
+</p><br>
+
+
+## ⚙️ &nbsp;GitHub Analytics
+
+<p align="left">
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=gustavogss&show_icons=true&theme=vision-friendly-dark" alt="gustavogss's stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavogss&layout=compact&theme=vision-friendly-dark" alt="gustavogss's most languages"/>
 </p>
+
+<a href="http://www.github.com/gustavogss"><img src="https://github-readme-streak-stats.herokuapp.com/?user=gustavogss&stroke=ffffff&background=171717&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<br>
+
+<a href="http://www.github.com/gustavogss"><img src="https://activity-graph.herokuapp.com/graph?username=gustavogss&bg_color=171717&color=ffffff&line=3382ed&point=ffffff&area_color=171717&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+<a href="https://www.buymeacoffee.com/gustavogss"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
