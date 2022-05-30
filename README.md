@@ -11,15 +11,9 @@
 - Tenho senso de time, gosto de aprender novas stacks, resolver problemas e construir soluções :heart:
 <br />
 
-## :robot: &nbsp;Principais Habilidades 
+## :robot: &nbsp;Principais Habilidades
 
-![Sass](https://img.shields.io/badge/-SAAS-414141?style=flat&logo=sass)&nbsp;
-![BootStrap](https://img.shields.io/badge/-BootStrap-414141?style=flat&logo=bootstrap)&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-414141?style=flat&logo=mysql)&nbsp;
-![Docker](https://img.shields.io/badge/-Docker-414141?style=flat&logo=docker)&nbsp;
-![Firebase](https://img.shields.io/badge/-Firebase-414141?style=flat&logo=firebase)&nbsp;
-![Vercel](https://img.shields.io/badge/-Vercel-414141?style=flat&logo=vercel)&nbsp;
-![Wordpress](https://img.shields.io/badge/-Wordpress-414141?style=flat&logo=wordpress)&nbsp;
+![Wordpress]()&nbsp;
 
 
 <a href="https://git-scm.com/" target="_blank">
@@ -39,6 +33,30 @@
 </a>&nbsp;
 <a href="https://www.w3schools.com/js/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Javascript-414141?style=flat&logo=javascript" alt="Javascript"/>
+</a>&nbsp;
+<a href="https://getbootstrap.com/docs/5.2/getting-started/introduction/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-BootStrap-414141?style=flat&logo=bootstrap" alt="BootStrap"/>
+</a>&nbsp;
+<a href="https://sass-lang.com/documentation" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-SASS-414141?style=flat&logo=sass" alt="SASS"/>
+</a>&nbsp;
+<a href="https://styled-components.com/docs" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-SytedComponents-414141?style=flat&logo=styled-components" alt="StyledComponents"/>
+</a>&nbsp;
+<a href="https://www.mysql.com/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-MySQL-414141?style=flat&logo=mysql" alt="MySQL"/>
+</a>&nbsp;
+<a href="https://docs.docker.com/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Docker-414141?style=flat&logo=docker" alt="Docker"/>
+</a>&nbsp;
+<a href="https://firebase.google.com/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Firebase-414141?style=flat&logo=firebase" alt="Firebase"/>
+</a>&nbsp;
+<a href="https://vercel.com/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Vercel-414141?style=flat&logo=vercel" alt="Vercel"/>
+</a>&nbsp;
+<a href="https://br.wordpress.org/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Wordpress-414141?style=flat&logo=wordpress" alt="Wordpress"/>
 </a>&nbsp;
 <br>
 
