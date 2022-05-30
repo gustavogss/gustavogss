@@ -37,7 +37,7 @@
 ![Cypress](https://img.shields.io/badge/-Cypress-184DA5?style=flat&logo=cypress)&nbsp;
 ![Sequelize](https://img.shields.io/badge/-Sequelize-184DA5?style=flat&logo=sequelize)&nbsp;
 ![Prisma](https://img.shields.io/badge/-Prisma-184DA5?style=flat&logo=prisma)&nbsp;
-![GraphQL](https://img.shields.io/badge/-GraphQL-184DA5?style=flat&logo=graphql)&nbsp
+![GraphQL](https://img.shields.io/badge/-GraphQL-184DA5?style=flat&logo=graphql)&nbsp;
 ![ReactNative](https://img.shields.io/badge/-ReactNative-184DA5?style=flat&logo=react)&nbsp;
 <br><br>
 
@@ -45,13 +45,13 @@
 
 <p align="left" style="background:yellow">
 <a href="https://www.linkedin.com/in/gustavosouza-jp/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-gustavogss-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+  <img align="center" src="https://img.shields.io/badge/-gustavogss-184DA5?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 <a href="https://www.instagram.com/gustavogss.jp/?hl=pt-br" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-gustavogss-05122A?style=flat&logo=instagram" alt="instagram"/>
+ <img align="center" src="https://img.shields.io/badge/-gustavogss-184DA5?style=flat&logo=instagram" alt="instagram"/>
 </a>
 <a href="https://www.facebook.com/gustavogss.jp/" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-gustavogss-05122A?style=flat&logo=facebook" alt="facebook"/>
+ <img align="center" src="https://img.shields.io/badge/-gustavogss-184DA5?style=flat&logo=facebook" alt="facebook"/>
 </a>
 </p><br>
 
