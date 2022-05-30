@@ -13,45 +13,45 @@
 
 ## :robot: &nbsp;Principais Habilidades 
 
-![GitHub](https://img.shields.io/badge/-GitHub-184DA5?style=flat&logo=github)&nbsp;
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-184DA5?style=flat&logo=ubuntu)&nbsp;
-![HTML5](https://img.shields.io/badge/-HTML5-184DA5?style=flat&logo=html5)&nbsp;
-![CSS3](https://img.shields.io/badge/-CSS3-184DA5?style=flat&logo=css3)&nbsp;
-![Sass](https://img.shields.io/badge/-SAAS-184DA5?style=flat&logo=sass)&nbsp;
-![BootStrap](https://img.shields.io/badge/-BootStrap-184DA5?style=flat&logo=bootstrap)&nbsp;
-![JavaScript](https://img.shields.io/badge/-Javascript-184DA5?style=flat&logo=javascript)&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-184DA5?style=flat&logo=mysql)&nbsp;
-![Docker](https://img.shields.io/badge/-Docker-184DA5?style=flat&logo=docker)&nbsp;
-![Firebase](https://img.shields.io/badge/-Firebase-184DA5?style=flat&logo=firebase)&nbsp;
-![Vercel](https://img.shields.io/badge/-Vercel-184DA5?style=flat&logo=vercel)&nbsp;
-![Wordpress](https://img.shields.io/badge/-Wordpress-184DA5?style=flat&logo=wordpress)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-414141?style=flat&logo=github)&nbsp;
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-414141?style=flat&logo=ubuntu)&nbsp;
+![HTML5](https://img.shields.io/badge/-HTML5-414141?style=flat&logo=html5)&nbsp;
+![CSS3](https://img.shields.io/badge/-CSS3-414141?style=flat&logo=css3)&nbsp;
+![Sass](https://img.shields.io/badge/-SAAS-414141?style=flat&logo=sass)&nbsp;
+![BootStrap](https://img.shields.io/badge/-BootStrap-414141?style=flat&logo=bootstrap)&nbsp;
+![JavaScript](https://img.shields.io/badge/-Javascript-414141?style=flat&logo=javascript)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-414141?style=flat&logo=mysql)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-414141?style=flat&logo=docker)&nbsp;
+![Firebase](https://img.shields.io/badge/-Firebase-414141?style=flat&logo=firebase)&nbsp;
+![Vercel](https://img.shields.io/badge/-Vercel-414141?style=flat&logo=vercel)&nbsp;
+![Wordpress](https://img.shields.io/badge/-Wordpress-414141?style=flat&logo=wordpress)&nbsp;
 <br>
 
 ## 🛠 &nbsp; Habilidades que estou estudando
 
-![React](https://img.shields.io/badge/-React-184DA5?style=flat&logo=react)&nbsp;
-![Node.js](https://img.shields.io/badge/-NodeJs-184DA5?style=flat&logo=node.js)&nbsp;
-![TypeScript](https://img.shields.io/badge/-Typescript-184DA5?style=flat&logo=typescript)&nbsp;
-![Jest](https://img.shields.io/badge/-Jest-184DA5?style=flat&logo=jest)&nbsp;
-![RTL](https://img.shields.io/badge/-RTL-184DA5?style=flat&logo=rtl)&nbsp;
-![Cypress](https://img.shields.io/badge/-Cypress-184DA5?style=flat&logo=cypress)&nbsp;
-![Sequelize](https://img.shields.io/badge/-Sequelize-184DA5?style=flat&logo=sequelize)&nbsp;
-![Prisma](https://img.shields.io/badge/-Prisma-184DA5?style=flat&logo=prisma)&nbsp;
-![GraphQL](https://img.shields.io/badge/-GraphQL-184DA5?style=flat&logo=graphql)&nbsp;
-![ReactNative](https://img.shields.io/badge/-ReactNative-184DA5?style=flat&logo=react)&nbsp;
+![React](https://img.shields.io/badge/-React-212121?style=flat&logo=react)&nbsp;
+![Node.js](https://img.shields.io/badge/-NodeJs-212121?style=flat&logo=node.js)&nbsp;
+![TypeScript](https://img.shields.io/badge/-Typescript-212121?style=flat&logo=typescript)&nbsp;
+![Jest](https://img.shields.io/badge/-Jest-212121?style=flat&logo=jest)&nbsp;
+![RTL](https://img.shields.io/badge/-RTL-212121?style=flat&logo=rtl)&nbsp;
+![Cypress](https://img.shields.io/badge/-Cypress-212121?style=flat&logo=cypress)&nbsp;
+![Sequelize](https://img.shields.io/badge/-Sequelize-212121?style=flat&logo=sequelize)&nbsp;
+![Prisma](https://img.shields.io/badge/-Prisma-212121?style=flat&logo=prisma)&nbsp;
+![GraphQL](https://img.shields.io/badge/-GraphQL-212121?style=flat&logo=graphql)&nbsp;
+![ReactNative](https://img.shields.io/badge/-ReactNative-212121?style=flat&logo=react)&nbsp;
 <br><br>
 
 ## 👨🏽‍🦲 &nbsp;Redes Sociais
 
 <p align="left" style="background:yellow">
 <a href="https://www.linkedin.com/in/gustavosouza-jp/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-gustavogss-184DA5?style=flat&logo=linkedin" alt="linkedin"/>
+  <img align="center" src="https://img.shields.io/badge/-gustavogss-51A4F0?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 <a href="https://www.instagram.com/gustavogss.jp/?hl=pt-br" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-gustavogss-184DA5?style=flat&logo=instagram" alt="instagram"/>
+ <img align="center" src="https://img.shields.io/badge/-gustavogss-51A4F0?style=flat&logo=instagram" alt="instagram"/>
 </a>
 <a href="https://www.facebook.com/gustavogss.jp/" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-gustavogss-184DA5?style=flat&logo=facebook" alt="facebook"/>
+ <img align="center" src="https://img.shields.io/badge/-gustavogss-51A4F0?style=flat&logo=facebook" alt="facebook"/>
 </a>
 </p><br>
 
