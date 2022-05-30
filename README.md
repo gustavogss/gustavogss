@@ -45,13 +45,13 @@
 
 <p align="left" style="background:yellow">
 <a href="https://www.linkedin.com/in/gustavosouza-jp/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-gustavogss-51A4F0?style=flat&logo=linkedin" alt="linkedin"/>
+  <img align="center" src="https://img.shields.io/badge/-gustavogss-003399?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 <a href="https://www.instagram.com/gustavogss.jp/?hl=pt-br" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-gustavogss-51A4F0?style=flat&logo=instagram" alt="instagram"/>
+ <img align="center" src="https://img.shields.io/badge/-gustavogss-003399?style=flat&logo=instagram" alt="instagram"/>
 </a>
 <a href="https://www.facebook.com/gustavogss.jp/" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-gustavogss-51A4F0?style=flat&logo=facebook" alt="facebook"/>
+ <img align="center" src="https://img.shields.io/badge/-gustavogss-003399?style=flat&logo=facebook" alt="facebook"/>
 </a>
 </p><br>
 
