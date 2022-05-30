@@ -13,18 +13,33 @@
 
 ## :robot: &nbsp;Principais Habilidades 
 
-![GitHub](https://img.shields.io/badge/-GitHub-414141?style=flat&logo=github)&nbsp;
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-414141?style=flat&logo=ubuntu)&nbsp;
-![HTML5](https://img.shields.io/badge/-HTML5-414141?style=flat&logo=html5)&nbsp;
-![CSS3](https://img.shields.io/badge/-CSS3-414141?style=flat&logo=css3)&nbsp;
 ![Sass](https://img.shields.io/badge/-SAAS-414141?style=flat&logo=sass)&nbsp;
 ![BootStrap](https://img.shields.io/badge/-BootStrap-414141?style=flat&logo=bootstrap)&nbsp;
-![JavaScript](https://img.shields.io/badge/-Javascript-414141?style=flat&logo=javascript)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-414141?style=flat&logo=mysql)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-414141?style=flat&logo=docker)&nbsp;
 ![Firebase](https://img.shields.io/badge/-Firebase-414141?style=flat&logo=firebase)&nbsp;
 ![Vercel](https://img.shields.io/badge/-Vercel-414141?style=flat&logo=vercel)&nbsp;
 ![Wordpress](https://img.shields.io/badge/-Wordpress-414141?style=flat&logo=wordpress)&nbsp;
+
+
+<a href="https://git-scm.com/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Git-414141?style=flat&logo=git" alt="Git"/>
+</a>&nbsp;
+<a href="https://github.com/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-GitHub-414141?style=flat&logo=github" alt="GitHub"/>
+</a>&nbsp;
+<a href="https://ubuntu.com" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Ubuntu-414141?style=flat&logo=ubuntu" alt="Ubuntu"/>
+</a>&nbsp;
+<a href="https://www.w3c.br/Cursos/CursoHTML5" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-HTML5-414141?style=flat&logo=html5" alt="HTML5"/>
+</a>&nbsp;
+<a href="https://www.w3c.br/Cursos/CursoCSS3/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-CSS3-414141?style=flat&logo=css3" alt="CSS3"/>
+</a>&nbsp;
+<a href="https://www.w3schools.com/js/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Javascript-414141?style=flat&logo=javascript" alt="Javascript"/>
+</a>&nbsp;
 <br>
 
 ## 🛠 &nbsp; Habilidades que estou estudando
