@@ -11,10 +11,7 @@
 - Tenho senso de time, gosto de aprender novas stacks, resolver problemas e construir soluções :heart:
 <br />
 
-## :robot: &nbsp;Principais Habilidades
-
-![Wordpress]()&nbsp;
-
+## :robot: &nbsp;Principais Habilidades:
 
 <a href="https://git-scm.com/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Git-414141?style=flat&logo=git" alt="Git"/>
@@ -60,7 +57,7 @@
 </a>&nbsp;
 <br>
 
-## 🛠 &nbsp; Habilidades que estou estudando
+## 🛠 &nbsp; Habilidades que estou estudando:
 
 <a href="https://pt-br.reactjs.org/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-React-212121?style=flat&logo=react" alt="React"/>
