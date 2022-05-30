@@ -12,7 +12,7 @@
 <br />
 
 ## :robot: &nbsp;Principais Habilidades:
-<p align="left" >
+
 <a href="https://git-scm.com/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Git-414141?style=flat&logo=git" alt="Git"/>
 </a>&nbsp;
@@ -55,11 +55,10 @@
 <a href="https://br.wordpress.org/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Wordpress-414141?style=flat&logo=wordpress" alt="Wordpress"/>
 </a>&nbsp;
-</p>  
 <br><br>
 
 ## 🛠 &nbsp; Habilidades que estou estudando:
-<p align="left" >
+
 <a href="https://pt-br.reactjs.org/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-React-212121?style=flat&logo=react" alt="React"/>
 </a>&nbsp;
@@ -90,7 +89,6 @@
 <a href="https://reactnative.dev/docs/getting-started" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-ReactNative-212121?style=flat&logo=react" alt="ReactNative"/>
 </a>
-</p>
 <br><br>
 
 ## 👨🏽‍🦲 &nbsp;Redes Sociais:
