@@ -43,7 +43,7 @@
 
 ## 👨🏽‍🦲 &nbsp;Redes Sociais
 
-<p align="left" style="background:yellow">
+<p align="left" >
 <a href="https://www.linkedin.com/in/gustavosouza-jp/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-gustavogss-003399?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
