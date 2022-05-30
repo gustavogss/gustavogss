@@ -29,16 +29,36 @@
 
 ## 🛠 &nbsp; Habilidades que estou estudando
 
-![React](https://img.shields.io/badge/-React-212121?style=flat&logo=react)&nbsp;
-![Node.js](https://img.shields.io/badge/-NodeJs-212121?style=flat&logo=node.js)&nbsp;
-![TypeScript](https://img.shields.io/badge/-Typescript-212121?style=flat&logo=typescript)&nbsp;
-![Jest](https://img.shields.io/badge/-Jest-212121?style=flat&logo=jest)&nbsp;
-![RTL](https://img.shields.io/badge/-RTL-212121?style=flat&logo=rtl)&nbsp;
-![Cypress](https://img.shields.io/badge/-Cypress-212121?style=flat&logo=cypress)&nbsp;
-![Sequelize](https://img.shields.io/badge/-Sequelize-212121?style=flat&logo=sequelize)&nbsp;
-![Prisma](https://img.shields.io/badge/-Prisma-212121?style=flat&logo=prisma)&nbsp;
-![GraphQL](https://img.shields.io/badge/-GraphQL-212121?style=flat&logo=graphql)&nbsp;
-![ReactNative](https://img.shields.io/badge/-ReactNative-212121?style=flat&logo=react)&nbsp;
+<a href="https://pt-br.reactjs.org/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-React-212121?style=flat&logo=react" alt="React"/>
+</a>&nbsp;
+<a href="https://nodejs.org/en/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-NodeJs-212121?style=flat&logo=node.js" alt="Node"/>
+</a>&nbsp;
+<a href="https://www.typescriptlang.org/docs/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Typescript-212121?style=flat&logo=typescript" alt="Typescript"/>
+</a>&nbsp;
+<a href="https://jestjs.io/pt-BR/docs/getting-started" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Jest-212121?style=flat&logo=jest" alt="Jest"/>
+</a>&nbsp;
+<a href="https://testing-library.com/docs/react-testing-library/intro/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-RTL-212121?style=flat&logo=rtl" alt="RTL"/>
+</a>&nbsp;
+<a href="https://docs.cypress.io/guides/overview/why-cypress" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Cypress-212121?style=flat&logo=cypress" alt="Cypress"/>
+</a>&nbsp;
+<a href="https://sequelize.org/docs/v6/getting-started/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Sequelize-212121?style=flat&logo=sequelize" alt="Sequelize"/>
+</a>&nbsp;
+<a href="https://www.prisma.io/docs/getting-started" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Prisma-212121?style=flat&logo=prisma" alt="Prisma"/>
+</a>&nbsp;
+<a href="https://docs.graphcdn.io/docs" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-GraphQL-212121?style=flat&logo=graphql" alt="GraphQL"/>
+</a>&nbsp;
+<a href="https://reactnative.dev/docs/getting-started" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-ReactNative-212121?style=flat&logo=react" alt="ReactNative"/>
+</a>
 <br><br>
 
 ## 👨🏽‍🦲 &nbsp;Redes Sociais
