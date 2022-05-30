@@ -25,23 +25,20 @@
 ![Firebase](https://img.shields.io/badge/-Firebase-184DA5?style=flat&logo=firebase)&nbsp;
 ![Vercel](https://img.shields.io/badge/-Vercel-184DA5?style=flat&logo=vercel)&nbsp;
 ![Wordpress](https://img.shields.io/badge/-Wordpress-184DA5?style=flat&logo=wordpress)&nbsp;
-![Magento2](https://img.shields.io/badge/-Magento2-184DA5?style=flat&logo=magento)&nbsp;
 <br>
 
 ## 🛠 &nbsp; Habilidades que estou estudando
 
 ![React](https://img.shields.io/badge/-React-184DA5?style=flat&logo=react)&nbsp;
-![ReactNative](https://img.shields.io/badge/-ReactNative-184DA5?style=flat&logo=react)&nbsp;
 ![Node.js](https://img.shields.io/badge/-NodeJs-184DA5?style=flat&logo=node.js)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-Typescript-184DA5?style=flat&logo=typescript)&nbsp;
-![Liquid](https://img.shields.io/badge/-Liquid-184DA5?style=flat&logo=shopfy)&nbsp;
-![JQuery](https://img.shields.io/badge/-JQuery-184DA5?style=flat&logo=jquery)&nbsp;
 ![Jest](https://img.shields.io/badge/-Jest-184DA5?style=flat&logo=jest)&nbsp;
 ![RTL](https://img.shields.io/badge/-RTL-184DA5?style=flat&logo=rtl)&nbsp;
 ![Cypress](https://img.shields.io/badge/-Cypress-184DA5?style=flat&logo=cypress)&nbsp;
 ![Sequelize](https://img.shields.io/badge/-Sequelize-184DA5?style=flat&logo=sequelize)&nbsp;
 ![Prisma](https://img.shields.io/badge/-Prisma-184DA5?style=flat&logo=prisma)&nbsp;
-![GraphQL](https://img.shields.io/badge/-GraphQL-184DA5?style=flat&logo=graphql)&nbsp;
+![GraphQL](https://img.shields.io/badge/-GraphQL-184DA5?style=flat&logo=graphql)&nbsp
+![ReactNative](https://img.shields.io/badge/-ReactNative-184DA5?style=flat&logo=react)&nbsp;
 <br><br>
 
 ## 👨🏽‍🦲 &nbsp;Redes Sociais
