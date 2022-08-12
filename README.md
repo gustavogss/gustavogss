@@ -58,6 +58,12 @@
 <a href="https://br.wordpress.org/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Wordpress-414141?style=flat&logo=wordpress" alt="Wordpress"/>
 </a>&nbsp;
+<a href="https://developer.android.com/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Android-212121?style=flat&logo=android" alt="Android"/>
+</a>&nbsp;
+<a href="https://reactnative.dev/docs/getting-started" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-ReactNative-212121?style=flat&logo=react" alt="ReactNative"/>
+</a>
 <br><br>
 
 ## 🛠 &nbsp; Habilidades que estou estudando:
@@ -89,9 +95,6 @@
 <a href="https://docs.graphcdn.io/docs" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-GraphQL-212121?style=flat&logo=graphql" alt="GraphQL"/>
 </a>&nbsp;
-<a href="https://reactnative.dev/docs/getting-started" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-ReactNative-212121?style=flat&logo=react" alt="ReactNative"/>
-</a>
 <br><br>
 
 ## 👨🏽‍🦲 &nbsp;Redes Sociais:
