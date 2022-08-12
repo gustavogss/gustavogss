@@ -63,6 +63,9 @@
 </a>&nbsp;
 <a href="https://reactnative.dev/docs/getting-started" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-ReactNative-212121?style=flat&logo=react" alt="ReactNative"/>
+</a>&nbsp;
+<a href="https://www.figma.com/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Figma-212121?style=flat&logo=figma" alt="Figma"/>
 </a>
 <br><br>
 
