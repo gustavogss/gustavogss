@@ -58,6 +58,9 @@
 <a href="https://br.wordpress.org/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Wordpress-414141?style=flat&logo=wordpress" alt="Wordpress"/>
 </a>&nbsp;
+<a href="https://business.adobe.com/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Magento2-212121?style=flat&logo=magento" alt="Magento2"/>
+</a>&nbsp;
 <a href="https://developer.android.com/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Android-212121?style=flat&logo=android" alt="Android"/>
 </a>&nbsp;
