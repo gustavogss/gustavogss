@@ -31,11 +31,23 @@
 <a href="https://www.w3c.br/Cursos/CursoCSS3/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-CSS3-414141?style=flat&logo=css3" alt="CSS3"/>
 </a>&nbsp;
+<a href="https://getbootstrap.com/docs/5.2/getting-started/introduction/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-BootStrap-414141?style=flat&logo=bootstrap" alt="BootStrap"/>
+</a>&nbsp;
 <a href="https://www.w3schools.com/js/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Javascript-414141?style=flat&logo=javascript" alt="Javascript"/>
 </a>&nbsp;
-<a href="https://getbootstrap.com/docs/5.2/getting-started/introduction/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-BootStrap-414141?style=flat&logo=bootstrap" alt="BootStrap"/>
+<a href="https://jestjs.io/pt-BR/docs/getting-started" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Jest-212121?style=flat&logo=jest" alt="Jest"/>
+</a>&nbsp;
+<a href="https://testing-library.com/docs/react-testing-library/intro/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-RTL-212121?style=flat&logo=rtl" alt="RTL"/>
+</a>&nbsp;
+<a href="https://docs.cypress.io/guides/overview/why-cypress" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Cypress-212121?style=flat&logo=cypress" alt="Cypress"/>
+</a>&nbsp;
+<a href="https://pt-br.reactjs.org/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-React-212121?style=flat&logo=react" alt="React"/>
 </a>&nbsp;
 <a href="https://sass-lang.com/documentation" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-SASS-414141?style=flat&logo=sass" alt="SASS"/>
@@ -46,6 +58,9 @@
 <a href="https://www.mysql.com/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-MySQL-414141?style=flat&logo=mysql" alt="MySQL"/>
 </a>&nbsp;
+<a href="https://www.postgresql.org/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Postgresql-414141?style=flat&logo=postgresql" alt="Postgresql"/>
+</a>&nbsp;
 <a href="https://docs.docker.com/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Docker-414141?style=flat&logo=docker" alt="Docker"/>
 </a>&nbsp;
@@ -54,6 +69,9 @@
 </a>&nbsp;
 <a href="https://vercel.com/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Vercel-414141?style=flat&logo=vercel" alt="Vercel"/>
+</a>&nbsp;
+<a href="https://vercel.com/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Heroku-414141?style=flat&logo=heroku" alt="Heroku"/>
 </a>&nbsp;
 <a href="https://br.wordpress.org/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Wordpress-414141?style=flat&logo=wordpress" alt="Wordpress"/>
@@ -67,6 +85,9 @@
 <a href="https://reactnative.dev/docs/getting-started" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-ReactNative-212121?style=flat&logo=react" alt="ReactNative"/>
 </a>&nbsp;
+<a href="https://www.typescriptlang.org/docs/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Typescript-212121?style=flat&logo=typescript" alt="Typescript"/>
+</a>&nbsp;
 <a href="https://www.figma.com/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Figma-212121?style=flat&logo=figma" alt="Figma"/>
 </a>
@@ -74,23 +95,8 @@
 
 ## 🛠 &nbsp; Habilidades que estou estudando:
 
-<a href="https://pt-br.reactjs.org/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-React-212121?style=flat&logo=react" alt="React"/>
-</a>&nbsp;
 <a href="https://nodejs.org/en/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-NodeJs-212121?style=flat&logo=node.js" alt="Node"/>
-</a>&nbsp;
-<a href="https://www.typescriptlang.org/docs/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Typescript-212121?style=flat&logo=typescript" alt="Typescript"/>
-</a>&nbsp;
-<a href="https://jestjs.io/pt-BR/docs/getting-started" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Jest-212121?style=flat&logo=jest" alt="Jest"/>
-</a>&nbsp;
-<a href="https://testing-library.com/docs/react-testing-library/intro/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-RTL-212121?style=flat&logo=rtl" alt="RTL"/>
-</a>&nbsp;
-<a href="https://docs.cypress.io/guides/overview/why-cypress" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Cypress-212121?style=flat&logo=cypress" alt="Cypress"/>
 </a>&nbsp;
 <a href="https://sequelize.org/docs/v6/getting-started/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Sequelize-212121?style=flat&logo=sequelize" alt="Sequelize"/>
@@ -100,6 +106,9 @@
 </a>&nbsp;
 <a href="https://docs.graphcdn.io/docs" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-GraphQL-212121?style=flat&logo=graphql" alt="GraphQL"/>
+</a>&nbsp;
+<a href="https://flutter.dev" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Flutter-212121?style=flat&logo=flutter" alt="Flutter"/>
 </a>&nbsp;
 <br><br>
 
