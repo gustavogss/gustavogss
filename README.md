@@ -38,16 +38,16 @@
   <img align="center" src="https://img.shields.io/badge/-Javascript-414141?style=flat&logo=javascript" alt="Javascript"/>
 </a>&nbsp;
 <a href="https://jestjs.io/pt-BR/docs/getting-started" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Jest-212121?style=flat&logo=jest" alt="Jest"/>
+  <img align="center" src="https://img.shields.io/badge/-Jest-414141?style=flat&logo=jest" alt="Jest"/>
 </a>&nbsp;
 <a href="https://testing-library.com/docs/react-testing-library/intro/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-RTL-212121?style=flat&logo=rtl" alt="RTL"/>
+  <img align="center" src="https://img.shields.io/badge/-RTL-414141?style=flat&logo=rtl" alt="RTL"/>
 </a>&nbsp;
 <a href="https://docs.cypress.io/guides/overview/why-cypress" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Cypress-212121?style=flat&logo=cypress" alt="Cypress"/>
+  <img align="center" src="https://img.shields.io/badge/-Cypress-414141?style=flat&logo=cypress" alt="Cypress"/>
 </a>&nbsp;
 <a href="https://pt-br.reactjs.org/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-React-212121?style=flat&logo=react" alt="React"/>
+  <img align="center" src="https://img.shields.io/badge/-React-414141?style=flat&logo=react" alt="React"/>
 </a>&nbsp;
 <a href="https://sass-lang.com/documentation" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-SASS-414141?style=flat&logo=sass" alt="SASS"/>
@@ -77,38 +77,38 @@
   <img align="center" src="https://img.shields.io/badge/-Wordpress-414141?style=flat&logo=wordpress" alt="Wordpress"/>
 </a>&nbsp;
 <a href="https://business.adobe.com/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Magento2-212121?style=flat&logo=magento" alt="Magento2"/>
+  <img align="center" src="https://img.shields.io/badge/-Magento2-414141?style=flat&logo=magento" alt="Magento2"/>
 </a>&nbsp;
 <a href="https://developer.android.com/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Android-212121?style=flat&logo=android" alt="Android"/>
+  <img align="center" src="https://img.shields.io/badge/-Android-414141?style=flat&logo=android" alt="Android"/>
 </a>&nbsp;
 <a href="https://reactnative.dev/docs/getting-started" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-ReactNative-212121?style=flat&logo=react" alt="ReactNative"/>
+  <img align="center" src="https://img.shields.io/badge/-ReactNative-414141?style=flat&logo=react" alt="ReactNative"/>
 </a>&nbsp;
 <a href="https://www.typescriptlang.org/docs/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Typescript-212121?style=flat&logo=typescript" alt="Typescript"/>
+  <img align="center" src="https://img.shields.io/badge/-Typescript-414141?style=flat&logo=typescript" alt="Typescript"/>
 </a>&nbsp;
 <a href="https://www.figma.com/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Figma-212121?style=flat&logo=figma" alt="Figma"/>
+  <img align="center" src="https://img.shields.io/badge/-Figma-414141?style=flat&logo=figma" alt="Figma"/>
 </a>
 <br><br>
 
 ## 🛠 &nbsp; Habilidades que estou estudando:
 
 <a href="https://nodejs.org/en/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-NodeJs-212121?style=flat&logo=node.js" alt="Node"/>
+  <img align="center" src="https://img.shields.io/badge/-NodeJs-414141?style=flat&logo=node.js" alt="Node"/>
 </a>&nbsp;
 <a href="https://sequelize.org/docs/v6/getting-started/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Sequelize-212121?style=flat&logo=sequelize" alt="Sequelize"/>
+  <img align="center" src="https://img.shields.io/badge/-Sequelize-414141?style=flat&logo=sequelize" alt="Sequelize"/>
 </a>&nbsp;
 <a href="https://www.prisma.io/docs/getting-started" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Prisma-212121?style=flat&logo=prisma" alt="Prisma"/>
+  <img align="center" src="https://img.shields.io/badge/-Prisma-414141?style=flat&logo=prisma" alt="Prisma"/>
 </a>&nbsp;
 <a href="https://docs.graphcdn.io/docs" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-GraphQL-212121?style=flat&logo=graphql" alt="GraphQL"/>
+  <img align="center" src="https://img.shields.io/badge/-GraphQL-414141?style=flat&logo=graphql" alt="GraphQL"/>
 </a>&nbsp;
 <a href="https://flutter.dev" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Flutter-212121?style=flat&logo=flutter" alt="Flutter"/>
+  <img align="center" src="https://img.shields.io/badge/-Flutter-414141?style=flat&logo=flutter" alt="Flutter"/>
 </a>&nbsp;
 <br><br>
 
