@@ -104,6 +104,9 @@
 <a href="https://www.prisma.io/docs/getting-started" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Prisma-414141?style=flat&logo=prisma" alt="Prisma"/>
 </a>&nbsp;
+<a href="https://cloud.mongodb.com/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Mongo-414141?style=flat&logo=mongodb" alt="mongodb"/>
+</a>&nbsp;
 <a href="https://docs.graphcdn.io/docs" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-GraphQL-414141?style=flat&logo=graphql" alt="GraphQL"/>
 </a>&nbsp;
