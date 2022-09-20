@@ -93,7 +93,7 @@
 </a>
 <br><br>
 
-## 🛠 &nbsp; Habilidades que estou estudando:
+## :rocket: &nbsp; Habilidades que estou estudando:
 
 <a href="https://nodejs.org/en/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-NodeJs-414141?style=flat&logo=node.js" alt="Node"/>
