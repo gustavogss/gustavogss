@@ -9,7 +9,7 @@
 
 - Sou formado em Processamento de Dados pela [ASPER](https://www.asper.edu.br/) e Pós-graduado em Desenvolvimento Mobile pela [Estácio de Sá](https://estacio.br/) :computer: :iphone:
 
-- Já tive experiências com algumas áreas da Tecnologia, desde a parte de Infra ao Desenvolvimento de Sistemas para Desktop com Delphi e SQL em 1996, VB com Acess, Desenvolvimento Mobile com Android e Java, Desenvolvimento de Sites com HTML, CSS e JavaScript, Desenvolvimento de Ecommerces com WordPress e Magento2. :robot:
+- Atuo na área de tecnologia desde 1996, começando pela área de Infra com instalação de redes LAN, Servidores ao Desenvolvimento de Sistemas para Desktop com Delphi e SQL, VB com Acess, Desenvolvimento Mobile com Android e Java, Desenvolvimento de Sites com HTML, CSS e JavaScript, Desenvolvimento de Ecommerces com WordPress e Magento2. :robot:
 
 - Atualmente estou fazendo um Treinamento intensivo na [TRYBE](https://www.betrybe.com/) para Desenvolvimento Web FullStack, participando de alguns Bootcamps da [Rocketseat](https://www.rocketseat.com.br/) e [DIO](https://web.dio.me/), visando uma recolocação no mercado de TI. 😜
 
