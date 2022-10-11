@@ -11,7 +11,7 @@
 
 - Atuo na área de tecnologia desde 1996, já passei por várias áreas desde a Infra com instalação de redes LAN e Servidores ao Desenvolvimento de Sistemas para Desktop com Delphi e SQL, VB e Acess. Tive experiências com Desenvolvimento Mobile: Android e Java, Ionic e PhoneGap. Trabalhei como freela no desenvolvimento de sites com HTML, CSS e JavaScript, Wordpress e Ecommerces com Magento2. Agora estou mais focado no Desenvolvimento Web Fullstack com ReactJs e NodeJs, e Mobile com ReactNative. :robot:
 
-- Atualmente estou fazendo um Treinamento intensivo na [TRYBE](https://www.betrybe.com/) para Desenvolvimento Web FullStack, participando de alguns Bootcamps da [Rocketseat](https://www.rocketseat.com.br/) e [DIO](https://web.dio.me/), visando uma recolocação no mercado de TI. 😜
+- Além disso, estou fazendo um Treinamento intensivo na [TRYBE](https://www.betrybe.com/) para Desenvolvimento Web FullStack, participando de alguns Bootcamps da [Rocketseat](https://www.rocketseat.com.br/) e [DIO](https://web.dio.me/), visando uma recolocação no mercado de TI. 😜
 
 - Tenho senso de time, gosto de aprender novas tecnologias, resolver problemas e construir soluções :heart:
 <br />
