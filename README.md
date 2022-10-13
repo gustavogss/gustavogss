@@ -11,7 +11,7 @@
 
 - Atuo na área de tecnologia desde 1996, passei por diversas áreas desde a Infra com instalação de Redes e Servidores ao Desenvolvimento de Sistemas para Desktop, Desenvolvimento Sites, Mobile, Ecoomerces.  :robot:
 
-- Atualmente estou fazendo um Treinamento intensivo na [TRYBE](https://www.betrybe.com/) para Desenvolvimento Web FullStack, participando de alguns Bootcamps da [Rocketseat](https://www.rocketseat.com.br/) e [DIO](https://web.dio.me/), visando uma recolocação no mercado de TI. 😜
+- Recentemente estou fazendo um Treinamento intensivo na [TRYBE](https://www.betrybe.com/) para Desenvolvimento Web FullStack, participando de alguns Bootcamps da [Rocketseat](https://www.rocketseat.com.br/) e [DIO](https://web.dio.me/), visando uma recolocação no mercado de TI. 😜
 
 - Tenho senso de time, gosto de aprender novas tecnologias, resolver problemas e construir soluções :heart:
 <br />
