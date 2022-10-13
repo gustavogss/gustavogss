@@ -9,9 +9,9 @@
 
 - Sou formado em Processamento de Dados pela [ASPER](https://www.asper.edu.br/) e Pós-graduado em Desenvolvimento Mobile pela [Estácio de Sá](https://estacio.br/) :computer: :iphone:
 
-- Atuo na área de tecnologia desde 1996, já passei por várias áreas desde a Infra com instalação de redes LAN e Servidores ao Desenvolvimento de Sistemas para Desktop com Delphi e SQL, VB e Acess. Tive experiências com Desenvolvimento Mobile: Android e Java, Ionic e PhoneGap. Trabalhei como freela no desenvolvimento de sites com HTML, CSS e JavaScript, Wordpress e Ecommerces com Magento2. Agora estou mais focado no Desenvolvimento Web Fullstack com ReactJs e NodeJs, e Mobile com ReactNative. :robot:
+- Atuo na área de tecnologia desde 1996, passei por diversas áreas desde a Infra com instalação de Redes e Servidores ao Desenvolvimento de Sistemas para Desktop, Desenvolvimento Sites, Mobile, Ecoomerces.  :robot:
 
-- Além disso, estou fazendo um Treinamento intensivo na [TRYBE](https://www.betrybe.com/) para Desenvolvimento Web FullStack, participando de alguns Bootcamps da [Rocketseat](https://www.rocketseat.com.br/) e [DIO](https://web.dio.me/), visando uma recolocação no mercado de TI. 😜
+- Atualmente estou fazendo um Treinamento intensivo na [TRYBE](https://www.betrybe.com/) para Desenvolvimento Web FullStack, participando de alguns Bootcamps da [Rocketseat](https://www.rocketseat.com.br/) e [DIO](https://web.dio.me/), visando uma recolocação no mercado de TI. 😜
 
 - Tenho senso de time, gosto de aprender novas tecnologias, resolver problemas e construir soluções :heart:
 <br />
