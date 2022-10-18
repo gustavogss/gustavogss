@@ -7,11 +7,9 @@
 
 - Moro na cidade de João Pessoa-PB :sunrise: :sunglasses:
 
+- Sou um entusiasta por tecnologia, sempre procuro me manter atualizado sobre as novas tendências do mercado. Recentemente estou fazendo um Treinamento intensivo na [TRYBE](https://www.betrybe.com/) para Desenvolvimento Web FullStack, participando de alguns Bootcamps da [Rocketseat](https://www.rocketseat.com.br/) e [DIO](https://web.dio.me/), visando uma recolocação no mercado de TI. 😜
+
 - Sou formado em Processamento de Dados pela [ASPER](https://www.asper.edu.br/) e Pós-graduado em Desenvolvimento Mobile pela [Estácio de Sá](https://estacio.br/) :computer: :iphone:
-
-- Atuo na área de tecnologia desde 1996, passando por diversas áreas desde a Infra com instalação de Redes e Servidores ao Desenvolvimento de Sistemas para Desktop, Desenvolvimento de Sites, Aplicativos Móveis e Ecommerces.  :robot:
-
-- Recentemente estou fazendo um Treinamento intensivo na [TRYBE](https://www.betrybe.com/) para Desenvolvimento Web FullStack, participando de alguns Bootcamps da [Rocketseat](https://www.rocketseat.com.br/) e [DIO](https://web.dio.me/), visando uma recolocação no mercado de TI. 😜
 
 - Tenho senso de time, gosto de aprender novas tecnologias, resolver problemas e construir soluções :heart:
 <br />
