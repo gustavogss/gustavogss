@@ -7,7 +7,7 @@
 
 - Moro na cidade de João Pessoa-PB :sunrise: :sunglasses:
 
-- Sou um entusiasta por tecnologia, sempre procuro me manter atualizado sobre as novas tendências do mercado. Recentemente estou fazendo um Treinamento intensivo na [TRYBE](https://www.betrybe.com/) para Desenvolvimento Web FullStack, participando de alguns Bootcamps da [Alura](https://www.alura.com.br/), [DIO](https://web.dio.me/) e [Rocketseat](https://www.rocketseat.com.br/), visando uma recolocação como Desenvolvedor Mobile ou Web. 😜
+- Sou um entusiasta por tecnologia, principalmente Desenvolvimento Mobile e Ecommerces. Sempre procuro me manter atualizado com novas tedências participando de eventos, desafios, bootcamps na [Alura](https://www.alura.com.br/), [DIO](https://web.dio.me/) e [Rocketseat](https://www.rocketseat.com.br/). Recentemente estou fazendo um Treinamento intensivo na [TRYBE](https://www.betrybe.com/) para Desenvolvimento Web FullStack, visando uma recolocação no mercado. 😜
 
 - Sou formado em Processamento de Dados pela [ASPER](https://www.asper.edu.br/) e Pós-graduado em Desenvolvimento Mobile pela [Estácio de Sá](https://estacio.br/) :computer: :iphone:
 
