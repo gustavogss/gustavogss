@@ -132,10 +132,14 @@
 
 ## ⚙️ &nbsp;GitHub Analytics
 
-<p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=gustavogss&show_icons=true&theme=vision-friendly-dark" alt="gustavogss's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavogss&layout=compact&theme=vision-friendly-dark" alt="gustavogss's most languages"/>
-</p>
+<div align="left">
 
-<a href="http://www.github.com/gustavogss"><img src="https://github-readme-streak-stats.herokuapp.com/?user=gustavogss&stroke=ffffff&background=171717&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavogss&show_icons=true&theme=chartreuse-dark&hide_border=true&card_width=125&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=gustavogss&theme=highcontrast&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=DD2727" alt="gustavogss" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavogss&layout=compact&card_width=100&hide_border=true&langs_count=7&theme=chartreuse-dark"/>
+  <img height="180em" src="https://activity-graph.herokuapp.com/graph?username=gustavogss&bg_color=000000&color=6ad600&line=fb8c00&point=dd2727&area=true&radius=14&hide_border=true" alt="gustavogss" />
+
 <br>
+ <p> <img src="https://github-profile-trophy.vercel.app/?username=gustavogss&theme=darkhub" alt="gustavogss" /></a> </p>
+
+</div>
