@@ -7,7 +7,7 @@
 
 - Moro na cidade de João Pessoa-PB :sunrise: :sunglasses:
 
-- Amo tecnologia, principalmente Desenvolvimento de Ecommerces. E para acompanhar as novas tedências e me manter atualizado, gosto de participar de comunidades, eventos, desafios e bootcamps na [Alura](https://www.alura.com.br/), [DIO](https://web.dio.me/) e [Rocketseat](https://www.rocketseat.com.br/). Além disso, estou fazendo um Treinamento intensivo na [TRYBE](https://www.betrybe.com/) para Desenvolvimento Web FullStack, revisando alguns conteúdos, aprendendo outras stacks e desenvolvendo algumas habilidades comportamentais como colaboração, resiliência, empatia, escuta ativa, visando uma recolocação no mercado de TI. 😜
+- Amo tecnologia, principalmente Desenvolvimento Mobile, seja híbrido ou nativo, e Desenvolvimento de Ecommerce. E para acompanhar essas novas tedências e me manter atualizado, gosto de participar de comunidades, eventos, desafios e bootcamps na [Alura](https://www.alura.com.br/), [DIO](https://web.dio.me/) e [Rocketseat](https://www.rocketseat.com.br/). Além disso, estou fazendo um Treinamento intensivo na [TRYBE](https://www.betrybe.com/) para Desenvolvimento Web FullStack, revisando alguns conteúdos, aprendendo outras stacks e desenvolvendo algumas habilidades comportamentais como colaboração, resiliência, empatia, escuta ativa, visando uma recolocação no mercado de TI. 😜
 
 - Sou formado em Processamento de Dados pela [ASPER](https://www.asper.edu.br/) e Pós-graduado em Desenvolvimento Mobile e Embarcados pela [Estácio de Sá](https://estacio.br/) :computer: :iphone:
 
@@ -82,6 +82,12 @@
 <a href="https://www.figma.com/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Figma-414141?style=flat&logo=figma" alt="Figma"/>
 </a>
+<a href="https://developer.android.com/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Android-414141?style=flat&logo=android" alt="Android"/>
+</a>&nbsp;
+<a href="https://reactnative.dev/docs/getting-started" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-ReactNative-414141?style=flat&logo=react" alt="ReactNative"/>
+</a>&nbsp;
 <br><br>
 
 ## :rocket: &nbsp; Habilidades que estou estudando:
@@ -100,6 +106,12 @@
 </a>&nbsp;
 <a href="https://docs.graphcdn.io/docs" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-GraphQL-414141?style=flat&logo=graphql" alt="GraphQL"/>
+</a>&nbsp;
+<a href="https://firebase.google.com/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Firebase-414141?style=flat&logo=firebase" alt="Firebase"/>
+</a>&nbsp;
+<a href="https://flutter.dev" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Flutter-414141?style=flat&logo=flutter" alt="Flutter"/>
 </a>&nbsp;
 <br><br>
 
