@@ -7,7 +7,7 @@
 
 - Moro na cidade de João Pessoa-PB :sunrise: :sunglasses:
 
-- Amo tecnologia, principalmente Desenvolvimento Mobile e Ecommerces. E para acompanhar essas novas tedências e me manter atualizado, gosto de participar de comunidades, eventos, desafios e bootcamps na [Alura](https://www.alura.com.br/), [DIO](https://web.dio.me/) e [Rocketseat](https://www.rocketseat.com.br/). Além disso, estou fazendo um Treinamento intensivo na [TRYBE](https://www.betrybe.com/) para Desenvolvimento Web FullStack, revisando alguns conteúdos, aprendendo outras stacks e desenvolvendo algumas habilidades comportamentais como colaboração, resiliência, empatia, escuta ativa, visando uma recolocação no mercado de TI. 😜
+- Amo tecnologia, principalmente Desenvolvimento Mobile, seja híbrido ou nativo. E para acompanhar essas novas tedências e me manter atualizado, gosto de participar de comunidades, eventos, desafios e bootcamps na [Alura](https://www.alura.com.br/), [DIO](https://web.dio.me/) e [Rocketseat](https://www.rocketseat.com.br/). Além disso, estou fazendo um Treinamento intensivo na [TRYBE](https://www.betrybe.com/) para Desenvolvimento Web FullStack, para complementar meus estudos, revisando alguns conteúdos, aprendendo outras stacks e desenvolvendo algumas habilidades comportamentais como colaboração, resiliência, empatia, escuta ativa, visando uma recolocação no mercado de TI. 😜
 
 - Sou formado em Processamento de Dados pela [ASPER](https://www.asper.edu.br/) e Pós-graduado em Desenvolvimento Mobile e Sistemas Embarcados pela [Estácio de Sá](https://estacio.br/) :computer: :iphone:
 
@@ -25,6 +25,29 @@
 <a href="https://ubuntu.com" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Ubuntu-414141?style=flat&logo=ubuntu" alt="Ubuntu"/>
 </a>&nbsp;
+<a href="https://developer.android.com/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Android-414141?style=flat&logo=android" alt="Android"/>
+</a>&nbsp;
+<a href="https://reactnative.dev/docs/getting-started" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-ReactNative-414141?style=flat&logo=react" alt="ReactNative"/>
+</a>&nbsp;
+<br><br>
+<a href="https://styled-components.com/docs" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-SytedComponents-414141?style=flat&logo=styled-components" alt="StyledComponents"/>
+</a>&nbsp;
+<a href="https://sass-lang.com/documentation" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-SASS-414141?style=flat&logo=sass" alt="SASS"/>
+</a>&nbsp;
+<a href="https://www.typescriptlang.org/docs/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Typescript-414141?style=flat&logo=typescript" alt="Typescript"/>
+</a>&nbsp;
+<a href="https://www.figma.com/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Figma-414141?style=flat&logo=figma" alt="Figma"/>
+</a>
+
+
+## :rocket: &nbsp; Habilidades aprendidas na Trybe:
+
 <a href="https://www.w3c.br/Cursos/CursoHTML5" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-HTML5-414141?style=flat&logo=html5" alt="HTML5"/>
 </a>&nbsp;
@@ -49,12 +72,6 @@
 <a href="https://pt-br.reactjs.org/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-React-414141?style=flat&logo=react" alt="React"/>
 </a>&nbsp;
-<a href="https://sass-lang.com/documentation" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-SASS-414141?style=flat&logo=sass" alt="SASS"/>
-</a>&nbsp;
-<a href="https://styled-components.com/docs" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-SytedComponents-414141?style=flat&logo=styled-components" alt="StyledComponents"/>
-</a>&nbsp;
 <a href="https://www.mysql.com/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-MySQL-414141?style=flat&logo=mysql" alt="MySQL"/>
 </a>&nbsp;
@@ -70,43 +87,18 @@
 <a href="https://vercel.com/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Heroku-414141?style=flat&logo=heroku" alt="Heroku"/>
 </a>&nbsp;
-<a href="https://br.wordpress.org/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Wordpress-414141?style=flat&logo=wordpress" alt="Wordpress"/>
-</a>&nbsp;
-<a href="https://business.adobe.com/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Magento2-414141?style=flat&logo=magento" alt="Magento2"/>
-</a>&nbsp;
-<a href="https://www.typescriptlang.org/docs/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Typescript-414141?style=flat&logo=typescript" alt="Typescript"/>
-</a>&nbsp;
-<a href="https://www.figma.com/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Figma-414141?style=flat&logo=figma" alt="Figma"/>
-</a>
-<a href="https://developer.android.com/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Android-414141?style=flat&logo=android" alt="Android"/>
-</a>&nbsp;
-<a href="https://reactnative.dev/docs/getting-started" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-ReactNative-414141?style=flat&logo=react" alt="ReactNative"/>
-</a>&nbsp;
-<br><br>
-
-## :rocket: &nbsp; Habilidades que estou estudando:
-
 <a href="https://nodejs.org/en/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-NodeJs-414141?style=flat&logo=node.js" alt="Node"/>
 </a>&nbsp;
 <a href="https://sequelize.org/docs/v6/getting-started/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Sequelize-414141?style=flat&logo=sequelize" alt="Sequelize"/>
 </a>&nbsp;
-<a href="https://www.prisma.io/docs/getting-started" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Prisma-414141?style=flat&logo=prisma" alt="Prisma"/>
-</a>&nbsp;
 <a href="https://cloud.mongodb.com/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Mongo-414141?style=flat&logo=mongodb" alt="mongodb"/>
 </a>&nbsp;
-<a href="https://docs.graphcdn.io/docs" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-GraphQL-414141?style=flat&logo=graphql" alt="GraphQL"/>
-</a>&nbsp;
+
+## :rocket: &nbsp; Habilidades que estou estudando:
+
 <a href="https://firebase.google.com/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Firebase-414141?style=flat&logo=firebase" alt="Firebase"/>
 </a>&nbsp;
