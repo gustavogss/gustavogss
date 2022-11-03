@@ -46,7 +46,7 @@
 </a>
 
 
-## :rocket: &nbsp; Habilidades aprendidas na Trybe:
+## :rocket: &nbsp; Habilidades revisadas e aprendidas na Trybe:
 
 <a href="https://www.w3c.br/Cursos/CursoHTML5" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-HTML5-414141?style=flat&logo=html5" alt="HTML5"/>
