@@ -18,7 +18,7 @@
 - Tenho senso de time, gosto de aprender novas tecnologias, resolver problemas e construir soluções :heart:
 <br />
 
-## :robot: &nbsp;Habilidades que já passei e utilizei para desenvolver projetos:
+## :robot: &nbsp;Habilidades que já trabalhei e desenvolvi projetos:
 
 <a href="https://git-scm.com/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Git-414141?style=flat&logo=git" alt="Git"/>
@@ -29,25 +29,12 @@
 <a href="https://ubuntu.com" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Ubuntu-414141?style=flat&logo=ubuntu" alt="Ubuntu"/>
 </a>&nbsp;
-<a href="https://developer.android.com/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Android-414141?style=flat&logo=android" alt="Android"/>
-</a>&nbsp;
-<a href="https://reactnative.dev/docs/getting-started" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-ReactNative-414141?style=flat&logo=react" alt="ReactNative"/>
-</a>&nbsp;
-<br><br>
-<a href="https://styled-components.com/docs" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-SytedComponents-414141?style=flat&logo=styled-components" alt="StyledComponents"/>
-</a>&nbsp;
 <a href="https://sass-lang.com/documentation" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-SASS-414141?style=flat&logo=sass" alt="SASS"/>
 </a>&nbsp;
 <a href="https://www.typescriptlang.org/docs/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Typescript-414141?style=flat&logo=typescript" alt="Typescript"/>
 </a>&nbsp;
-<a href="https://www.figma.com/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Figma-414141?style=flat&logo=figma" alt="Figma"/>
-</a>
 <a href="https://www.w3c.br/Cursos/CursoHTML5" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-HTML5-414141?style=flat&logo=html5" alt="HTML5"/>
 </a>&nbsp;
@@ -78,15 +65,6 @@
 <a href="https://www.postgresql.org/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Postgresql-414141?style=flat&logo=postgresql" alt="Postgresql"/>
 </a>&nbsp;
-<a href="https://docs.docker.com/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Docker-414141?style=flat&logo=docker" alt="Docker"/>
-</a>&nbsp;
-<a href="https://vercel.com/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Vercel-414141?style=flat&logo=vercel" alt="Vercel"/>
-</a>&nbsp;
-<a href="https://vercel.com/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Heroku-414141?style=flat&logo=heroku" alt="Heroku"/>
-</a>&nbsp;
 <a href="https://nodejs.org/en/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-NodeJs-414141?style=flat&logo=node.js" alt="Node"/>
 </a>&nbsp;
@@ -96,12 +74,34 @@
 <a href="https://cloud.mongodb.com/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Mongo-414141?style=flat&logo=mongodb" alt="mongodb"/>
 </a>&nbsp;
+<a href="https://docs.docker.com/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Docker-414141?style=flat&logo=docker" alt="Docker"/>
+</a>&nbsp;
+<a href="https://vercel.com/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Vercel-414141?style=flat&logo=vercel" alt="Vercel"/>
+</a>&nbsp;
+<a href="https://vercel.com/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Heroku-414141?style=flat&logo=heroku" alt="Heroku"/>
+</a>&nbsp;
+<a href="https://developer.android.com/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Android-414141?style=flat&logo=android" alt="Android"/>
+</a>&nbsp;
+<a href="https://reactnative.dev/docs/getting-started" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-ReactNative-414141?style=flat&logo=react" alt="ReactNative"/>
+</a>&nbsp;
+<a href="https://styled-components.com/docs" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-SytedComponents-414141?style=flat&logo=styled-components" alt="StyledComponents"/>
+</a>&nbsp;
+<br>
 
 ## :rocket: &nbsp; Habilidades que estou estudando:
 
 <a href="https://firebase.google.com/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Firebase-414141?style=flat&logo=firebase" alt="Firebase"/>
 </a>&nbsp;
+<a href="https://www.figma.com/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Figma-414141?style=flat&logo=figma" alt="Figma"/>
+</a>
 <a href="https://flutter.dev" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Flutter-414141?style=flat&logo=flutter" alt="Flutter"/>
 </a>&nbsp;
