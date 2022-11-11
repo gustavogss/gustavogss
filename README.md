@@ -5,9 +5,13 @@
          width="45" />, Eu sou Gustavo Souza</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gustavogss&color=yellow" alt="Profile views" /> </p>
 
-- Moro na cidade de João Pessoa-PB :sunrise: :sunglasses:
+-  Moro na cidade de João Pessoa-PB :sunrise: :sunglasses:
 
-- Amo tecnologia, principalmente Desenvolvimento Mobile e Web. Para acompanhar as novas tedências e me manter atualizado, gosto de participar de comunidades, eventos, desafios e bootcamps na [Alura](https://www.alura.com.br/), [DIO](https://web.dio.me/) e [Rocketseat](https://www.rocketseat.com.br/). Além disso, estou fazendo um Treinamento intensivo na [TRYBE](https://www.betrybe.com/) para Desenvolvimento Web FullStack, para complementar meus estudos, revisando alguns conteúdos, vivenciando o trabalho em equipe com métodologias agéis e desenvolvendo algumas habilidades comportamentais como colaboração, resiliência, empatia, escuta ativa, visando uma recolocação no mercado de TI. 😜
+- Amo tecnologia, principalmente Desenvolvimento Mobile, Web e Cibersegurança. 📱 💻 🔐
+
+- Para acompanhar as novas tedências e me manter atualizado, gosto de participar de comunidades, eventos, desafios e bootcamps na [Alura](https://www.alura.com.br/), [DIO](https://web.dio.me/) e [Rocketseat](https://www.rocketseat.com.br/). 🧑‍💻
+
+- Sou aluno da [TRYBE](https://www.betrybe.com/) uma escola de programação em Desenvolvimento Web FullStack, que ensina além das tecnologias fullstack mais cobiçadas do mercado, a vivência em trabalhar em equipe com métodos ágeis, e também de algumas habilidades comportamentais como colaboração, resiliência, empatia, escuta ativa, autogestão. ⭐
 
 - Sou formado em Processamento de Dados pela [ASPER](https://www.asper.edu.br/) e Pós-graduado em Desenvolvimento Mobile e Sistemas Embarcados pela [Estácio de Sá](https://estacio.br/) :computer: :iphone:
 
