@@ -9,7 +9,7 @@
 
 - Amo tecnologia, principalmente Desenvolvimento Mobile, Web e Cibersegurança. 📱 💻 🔐
 
-- Para acompanhar as novas tedências e me manter atualizado, gosto de participar de comunidades, eventos, desafios e bootcamps na [Alura](https://www.alura.com.br/), [DIO](https://web.dio.me/) e [Rocketseat](https://www.rocketseat.com.br/). 🧑‍💻
+- Para acompanhar as novas tedências e me manter atualizado, gosto de participar de comunidades, eventos, desafios e bootcamps na [Alura](https://www.alura.com.br/), [DIO](https://web.dio.me/), [Rocketseat](https://www.rocketseat.com.br/) e [HackerRank](https://www.hackerrank.com/products/main/). 🧑‍💻
 
 - Sou aluno da [TRYBE](https://www.betrybe.com/) uma escola de programação em Desenvolvimento Web FullStack, que ensina além das tecnologias fullstack mais cobiçadas do mercado, a vivência em trabalhar em equipe com métodos ágeis, e também de algumas habilidades comportamentais como colaboração, resiliência, empatia, escuta ativa, autogestão. ⭐
 
