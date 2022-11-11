@@ -18,7 +18,7 @@
 - Tenho senso de time, gosto de aprender novas tecnologias, resolver problemas e construir soluções :heart:
 <br />
 
-## :robot: &nbsp;Principais Habilidades:
+## :robot: &nbsp;Habilidades que já passei e utilizei para desenvolver projetos:
 
 <a href="https://git-scm.com/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Git-414141?style=flat&logo=git" alt="Git"/>
@@ -48,10 +48,6 @@
 <a href="https://www.figma.com/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Figma-414141?style=flat&logo=figma" alt="Figma"/>
 </a>
-
-
-## :rocket: &nbsp; Habilidades revisadas e aprendidas na Trybe:
-
 <a href="https://www.w3c.br/Cursos/CursoHTML5" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-HTML5-414141?style=flat&logo=html5" alt="HTML5"/>
 </a>&nbsp;
