@@ -18,7 +18,7 @@
 - Tenho senso de time, gosto de aprender novas tecnologias, resolver problemas e construir soluções :heart:
 <br />
 
-## :robot: &nbsp;Habilidades que já trabalhei e desenvolvi projetos:
+## :robot: &nbsp;Habilidades que já desenvolvi projetos:
 
 <a href="https://git-scm.com/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Git-414141?style=flat&logo=git" alt="Git"/>
