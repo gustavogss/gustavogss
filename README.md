@@ -7,7 +7,7 @@
 
 -  Moro na cidade de João Pessoa-PB :sunrise: :sunglasses:
 
-- Amo tecnologia, principalmente Desenvolvimento Mobile, Web e Cibersegurança. 📱 💻 🔐
+- Amo tecnologia, principalmente Desenvolvimento Mobile, Web e Bug Bounty. 📱 💻 🔐
 
 - Para acompanhar as novas tedências e me manter atualizado, gosto de participar de comunidades, eventos, desafios e bootcamps na [Alura](https://www.alura.com.br/), [DIO](https://web.dio.me/), [Rocketseat](https://www.rocketseat.com.br/) e [HackerOne](https://www.hackerone.com/). 🧑‍💻
 
