@@ -11,7 +11,7 @@
 
 - Para acompanhar as novas tedências e me manter atualizado, participo de comunidades, eventos, desafios e bootcamps na [Alura](https://www.alura.com.br/), [DIO](https://web.dio.me/), [Rocketseat](https://www.rocketseat.com.br/) e [HackerOne](https://www.hackerone.com/). 🧑‍💻
 
-- Sou aluno da [TRYBE](https://www.betrybe.com/) uma escola de programação para Desenvolvimento Web FullStack, que ensina além das tecnologias full stack mais cobiçadas do mercado, a experiência de trabalhar em equipe com métodos ágeis, e também habilidades comportamentais como colaboração, comunicação, resiliência, empatia, escuta ativa, autogestão. ⭐
+- Sou aluno da [TRYBE](https://www.betrybe.com/) uma escola de programação para Desenvolvimento Web Full Stack, que ensina além das tecnologias full stack mais cobiçadas do mercado, a experiência de trabalhar em equipe com métodos ágeis, e também habilidades comportamentais como colaboração, comunicação, resiliência, empatia, escuta ativa, autogestão. ⭐
 
 - Sou formado em Processamento de Dados pela [ASPER](https://www.asper.edu.br/) e Pós-graduado em Desenvolvimento Mobile e Sistemas Embarcados pela [Estácio de Sá](https://estacio.br/) :computer: :iphone:
 
