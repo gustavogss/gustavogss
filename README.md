@@ -7,7 +7,7 @@
 
 -  Moro na cidade de João Pessoa-PB :sunrise: :sunglasses:
 
-- Amo tecnologia, principalmente Desenvolvimento Mobile, Web e Bug Bounty. 📱 💻 🔐
+- Amo tecnologia, principalmente Desenvolvimento Mobile, Web e Bug Bounty. 📱 💻 🔐 Gosto também de documentar através de posts as soluções que encontrei durante a minha jornada como dev no meu [blog](https://gustavosouza.dev.br/blog/) como uma forma de contribuir não somente para a comunidade de Devs, como aqueles principalmente que estão em inicio de carreira. 
 
 - Para acompanhar as novas tedências e me manter atualizado, gosto de participar de comunidades, eventos, desafios e bootcamps na [Alura](https://www.alura.com.br/), [DIO](https://web.dio.me/), [Rocketseat](https://www.rocketseat.com.br/) e [HackerOne](https://www.hackerone.com/). 🧑‍💻
 
@@ -15,7 +15,7 @@
 
 - Sou formado em Processamento de Dados pela [ASPER](https://www.asper.edu.br/) e Pós-graduado em Desenvolvimento Mobile e Sistemas Embarcados pela [Estácio de Sá](https://estacio.br/) :computer: :iphone:
 
-- Também faço parte da comunidade [Google Developers](https://g.dev/gustavosouza) onde tenho conquistado alguns selos, e [Vtex commnunity](https://community.vtex.com/u/gustavosouzajp). 
+- Faço parte da comunidade [Google Developers](https://g.dev/gustavosouza) onde tenho conquistado alguns selos, e [Vtex commnunity](https://community.vtex.com/u/gustavosouzajp). 
 
 - Tenho senso de time, gosto de aprender novas tecnologias, resolver problemas e construir soluções :heart:
 <br />
