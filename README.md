@@ -9,7 +9,7 @@
 
 - Amo tecnologia, principalmente Desenvolvimento Mobile, Web e Bug Bounty. 📱 💻 🔐 Gosto também de documentar através de posts as soluções que encontrei durante a minha jornada como dev no meu [blog](https://gustavosouza.dev.br/blog/) como uma forma de contribuir não somente para a comunidade de Devs, como aqueles principalmente que estão em inicio de carreira. 
 
-- Para acompanhar as novas tedências e me manter atualizado, gosto de participar de comunidades, eventos, desafios e bootcamps na [Alura](https://www.alura.com.br/), [DIO](https://web.dio.me/), [Rocketseat](https://www.rocketseat.com.br/) e [HackerOne](https://www.hackerone.com/). 🧑‍💻
+- Para acompanhar as novas tedências e me manter atualizado, participo de comunidades, eventos, desafios e bootcamps na [Alura](https://www.alura.com.br/), [DIO](https://web.dio.me/), [Rocketseat](https://www.rocketseat.com.br/) e [HackerOne](https://www.hackerone.com/). 🧑‍💻
 
 - Sou aluno da [TRYBE](https://www.betrybe.com/) uma escola de programação para Desenvolvimento Web FullStack, que ensina além das tecnologias full stack mais cobiçadas do mercado, a experiência de trabalhar em equipe com métodos ágeis, e também habilidades comportamentais como colaboração, comunicação, resiliência, empatia, escuta ativa, autogestão. ⭐
 
