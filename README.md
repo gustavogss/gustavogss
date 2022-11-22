@@ -15,6 +15,8 @@
 
 - Sou formado em Processamento de Dados pela [ASPER](https://www.asper.edu.br/) e Pós-graduado em Desenvolvimento Mobile e Sistemas Embarcados pela [Estácio de Sá](https://estacio.br/) :computer: :iphone:
 
+- Também faço parte da comunidade [Google Developers](https://g.dev/gustavosouza) onde tenho conquistado alguns selos, e Vtex commnunity(https://community.vtex.com/u/gustavosouzajp). 
+
 - Tenho senso de time, gosto de aprender novas tecnologias, resolver problemas e construir soluções :heart:
 <br />
 
