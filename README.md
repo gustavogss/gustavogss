@@ -131,8 +131,8 @@
 <div align="left">
 
 
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=gustavogss&theme=highcontrast&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=DD2727" alt="gustavogss" />
- 
-  <img height="180em" src="https://activity-graph.herokuapp.com/graph?username=gustavogss&bg_color=000000&color=6ad600&line=fb8c00&point=dd2727&area=true&radius=14&hide_border=true" alt="gustavogss" />
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gustavogss&theme=dark&hide_border=true&locale=pt-br&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)       
+         
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavogss&layout=compact&langs_count=7&theme=dark"/> 
 
 </div>
