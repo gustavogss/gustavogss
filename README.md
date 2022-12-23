@@ -106,8 +106,8 @@
 <a href="https://www.figma.com/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Figma-414141?style=flat&logo=figma" alt="Figma"/>
 </a>
-<a href="https://flutter.dev" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Flutter-414141?style=flat&logo=flutter" alt="Flutter"/>
+<a href="https://docs.python.org/3/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Python-414141?style=flat&logo=python" alt="Python"/>
 </a>&nbsp;
 <br><br>
 
