@@ -7,17 +7,13 @@
 
 -  Moro na cidade de João Pessoa-PB :sunrise: :sunglasses:
 
-- Amo tecnologia, principalmente Desenvolvimento Mobile, Web e Bug Bounty 📱 💻 🔐 
+- Amo tecnologia, principalmente Desenvolvimento Mobile, Web e Ciber Segurança 📱 💻 🔐 
 
-- Gosto também de documentar através de posts as soluções que encontrei durante a minha jornada como programador no meu [blog](https://gustavosouza.dev.br/blog/) como uma forma de contribuir não somente para a comunidade de Devs, como também para aqueles que estão em inicio e transição de carreira. 
-
-- Para acompanhar as novas tedências e me manter atualizado, participo de comunidades, eventos, desafios e bootcamps na [Alura](https://www.alura.com.br/), [DIO](https://web.dio.me/), [Rocketseat](https://www.rocketseat.com.br/) e [HackerOne](https://www.hackerone.com/). 🧑‍💻
+- E para acompanhar as novas tedências e me manter atualizado, gosto de participar de comunidades, eventos, desafios e bootcamps na [Alura](https://www.alura.com.br/), [DIO](https://web.dio.me/), [Rocketseat](https://www.rocketseat.com.br/) 🧑‍💻
 
 - Sou aluno da [TRYBE](https://www.betrybe.com/) uma escola de programação para Desenvolvimento Web Full Stack, que ensina além das tecnologias mais cobiçadas do mercado, a experiência de trabalhar em equipe com métodos ágeis, e também habilidades comportamentais como colaboração, comunicação, resiliência, empatia, escuta ativa, autogestão. ⭐
 
 - Sou formado em Processamento de Dados pela [ASPER](https://www.asper.edu.br/) e Pós-graduado em Desenvolvimento Mobile e Sistemas Embarcados pela [Estácio de Sá](https://estacio.br/) :computer: :iphone:
-
-- Faço parte da comunidade [Google Developers](https://g.dev/gustavosouza) onde tenho conquistado alguns selos, e [Vtex commnunity](https://community.vtex.com/u/gustavosouzajp) direcionada para ecommerces. 
 
 - Tenho senso de time, gosto de aprender novas tecnologias, resolver problemas e construir soluções :heart:
 <br />
