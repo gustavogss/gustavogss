@@ -124,10 +124,7 @@
 
 ## ⚙️ &nbsp;GitHub Analytics
 
-<div align="left">
-
-
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gustavogss&theme=dark&hide_border=true&locale=pt-br&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)       
+<div align="left">   
          
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavogss&layout=compact&langs_count=7&theme=dark"/> 
 
