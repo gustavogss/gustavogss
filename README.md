@@ -93,15 +93,15 @@
 
 ## :rocket: &nbsp; Habilidades que estou estudando:
 
+<a href="https://docs.python.org/3/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Python-414141?style=flat&logo=python" alt="Python"/>
+</a>&nbsp;
 <a href="https://firebase.google.com/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Firebase-414141?style=flat&logo=firebase" alt="Firebase"/>
 </a>&nbsp;
 <a href="https://www.figma.com/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Figma-414141?style=flat&logo=figma" alt="Figma"/>
 </a>
-<a href="https://docs.python.org/3/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Python-414141?style=flat&logo=python" alt="Python"/>
-</a>&nbsp;
 <br><br>
 
 ## 👨🏽‍🦲 &nbsp;Redes Sociais:
