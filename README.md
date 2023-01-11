@@ -7,7 +7,7 @@
 
 -  Moro na cidade de João Pessoa-PB :sunrise: :sunglasses:
 
-- Amo tecnologia, especialmente Desenvolvimento Mobile, Web e Ciber Segurança 📱 💻 🔐 
+- Tenho senso de time, amo tecnologia, resolver problemas e construir soluções :heart: 
 
 - E para acompanhar as novas tedências e me manter atualizado, gosto de participar de comunidades, eventos, desafios e bootcamps na [Alura](https://www.alura.com.br/), [DIO](https://web.dio.me/), [Rocketseat](https://www.rocketseat.com.br/) 🧑‍💻
 
@@ -15,7 +15,6 @@
 
 - Sou formado em Processamento de Dados pela [ASPER](https://www.asper.edu.br/) e Pós-graduado em Desenvolvimento Mobile e Sistemas Embarcados pela [Estácio de Sá](https://estacio.br/) :computer: :iphone:
 
-- Tenho senso de time, gosto de aprender novas tecnologias, resolver problemas e construir soluções :heart:
 <br />
 
 ## :robot: &nbsp;Habilidades que já desenvolvi projetos:
