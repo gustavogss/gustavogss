@@ -9,7 +9,7 @@
 
 - Tenho senso de time, amo tecnologia, gosto resolver problemas e construir soluções :heart: 
 
-- Atualmente sou aluno da [TRYBE](https://www.betrybe.com/) uma escola de programação para Desenvolvimento Web Full Stack, que ensina além das tecnologias mais cobiçadas do mercado, a experiência de trabalhar em equipe com métodos ágeis, e também habilidades comportamentais como colaboração, comunicação, resiliência, empatia, escuta ativa, autogestão. ⭐
+- Atualmente sestudo na [TRYBE](https://www.betrybe.com/), uma escola de programação para Desenvolvimento Web Full Stack, que ensina além das tecnologias mais cobiçadas do mercado, a experiência de trabalhar em equipe com métodos ágeis, e também habilidades comportamentais como colaboração, comunicação, resiliência, empatia, escuta ativa, autogestão. ⭐
 
 - Sou formado em Processamento de Dados pela [ASPER](https://www.asper.edu.br/) e Pós-graduado em Desenvolvimento Mobile e Sistemas Embarcados pela [Estácio de Sá](https://estacio.br/) :computer: :iphone:
 
