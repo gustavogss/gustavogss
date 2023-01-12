@@ -9,7 +9,7 @@
 
 - Tenho senso de time, amo tecnologia, gosto resolver problemas e construir soluções :heart: 
 
-- Atualmente estudo na [TRYBE](https://www.betrybe.com/), uma escola de programação para Desenvolvimento Web Full Stack, que ensina além das tecnologias mais cobiçadas do mercado, a experiência de trabalhar em equipe com métodos ágeis, e também habilidades comportamentais como colaboração, comunicação, resiliência, empatia, escuta ativa, autogestão. ⭐
+- Atualmente estou fazendo um treinamento na [TRYBE](https://www.betrybe.com/) direcionado para Desenvolvimento Web Full Stack, também participo do programa da [Rocketseat](https://app.rocketseat.com.br/ignite), o Ignite e Bootcamps na [DIO](https://web.dio.me/home)  ⭐
 
 - Sou formado em Processamento de Dados pela [ASPER](https://www.asper.edu.br/) e Pós-graduado em Desenvolvimento Mobile e Sistemas Embarcados pela [Estácio de Sá](https://estacio.br/) :computer: :iphone:
 
