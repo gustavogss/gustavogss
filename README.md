@@ -104,7 +104,7 @@
 </a>
 <br><br>
 
-## 👨🏽‍🦲 &nbsp;Redes Sociais:
+## 👨🏽‍🦲 &nbsp;Você pode me encontrar também aqui:
 
 <p align="left" >
 <a href="https://www.linkedin.com/in/gustavosouza-jp/" target="_blank">
@@ -115,8 +115,9 @@
 </a>
 <a href="https://www.facebook.com/gustavogss.jp/" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-gustavogss-003399?style=flat&logo=facebook" alt="facebook"/>
-</a>
+</a> 
 </p><br>
+ <a href=mailto:gustavogss@gmail.com?subject="HTML link" target="_blank">gustavogss.dev@gmail.com</a>
 
 
 ## ⚙️ &nbsp;GitHub Analytics
