@@ -7,7 +7,7 @@
 
 -  Moro na cidade de João Pessoa-PB :sunrise: :sunglasses:
 
-- Sou um entusiasta em tecnologia, preocupado no desenvolvimento seguro de aplicações. Também tenho senso de time, gosto resolver problemas e construir soluções :heart: 
+- Sou um entusiasta em tecnologia com foco no desenvolvimento seguro de aplicações. Também tenho senso de time, gosto resolver problemas e construir soluções :heart: 
 
 - Atualmente estou fazendo um treinamento na [TRYBE](https://www.betrybe.com/) direcionado para Desenvolvimento Web Full Stack, o Ignite - programa da [Rocketseat](https://app.rocketseat.com.br/ignite), e Bootcamps na [DIO](https://web.dio.me/home)  ⭐
 
