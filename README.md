@@ -27,12 +27,6 @@
 <a href="https://ubuntu.com" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Ubuntu-414141?style=flat&logo=ubuntu" alt="Ubuntu"/>
 </a>&nbsp;
-<a href="https://sass-lang.com/documentation" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-SASS-414141?style=flat&logo=sass" alt="SASS"/>
-</a>&nbsp;
-<a href="https://www.typescriptlang.org/docs/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Typescript-414141?style=flat&logo=typescript" alt="Typescript"/>
-</a>&nbsp;
 <a href="https://www.w3c.br/Cursos/CursoHTML5" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-HTML5-414141?style=flat&logo=html5" alt="HTML5"/>
 </a>&nbsp;
@@ -42,11 +36,23 @@
 <a href="https://getbootstrap.com/docs/5.2/getting-started/introduction/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-BootStrap-414141?style=flat&logo=bootstrap" alt="BootStrap"/>
 </a>&nbsp;
+<a href="https://sass-lang.com/documentation" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-SASS-414141?style=flat&logo=sass" alt="SASS"/>
+</a>&nbsp;
 <a href="https://www.w3schools.com/js/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Javascript-414141?style=flat&logo=javascript" alt="Javascript"/>
 </a>&nbsp;
+<a href="https://www.typescriptlang.org/docs/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Typescript-414141?style=flat&logo=typescript" alt="Typescript"/>
+</a>&nbsp;
 <a href="https://pt-br.reactjs.org/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-React-414141?style=flat&logo=react" alt="React"/>
+</a>&nbsp;
+<a href="https://br.wordpress.org/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Wordpress-414141?style=flat&logo=wordpress" alt="Wordpress"/>
+</a>&nbsp;
+<a href="https://marketplace.magento.com/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Magento2-414141?style=flat&logo=magento" alt="Magento2"/>
 </a>&nbsp;
 
 ### &nbsp;Back-end:
