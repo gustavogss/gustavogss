@@ -90,21 +90,16 @@
 <a href="https://reactnative.dev/docs/getting-started" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-ReactNative-414141?style=flat&logo=react" alt="ReactNative"/>
 </a>&nbsp;
-<a href="https://styled-components.com/docs" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-SytedComponents-414141?style=flat&logo=styled-components" alt="StyledComponents"/>
-</a>&nbsp;
 <a href="https://ionicframework.com/docs/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Ionic-414141?style=flat&logo=ionic" alt="Ionic"/>
 </a>&nbsp;
-<a href="https://cordova.apache.org/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Cordova-414141?style=flat&logo=cordova" alt="Cordova"/>
+<a href="https://styled-components.com/docs" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-SytedComponents-414141?style=flat&logo=styled-components" alt="StyledComponents"/>
 </a>&nbsp;
 <a href="https://firebase.google.com/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Firebase-414141?style=flat&logo=firebase" alt="Firebase"/>
 </a>&nbsp;
-<a href="https://fbflipper.com/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Flipper-414141?style=flat&logo=fbflipper" alt="Flipper"/>
-</a>&nbsp;
+
 
 ### &nbsp;Testes:
 
