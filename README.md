@@ -137,7 +137,9 @@
 <a href="https://docs.python.org/3/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Python-414141?style=flat&logo=python" alt="Python"/>
 </a>&nbsp;
-
+<a href="https://securityblue.team/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Cybersecurity-414141?style=flat&logo=cybersecurity" alt="Cybersecurity"/>
+</a>&nbsp;
 <br><br>
 ## 👨🏽‍🦲 &nbsp;Você pode me encontrar aqui:
 
