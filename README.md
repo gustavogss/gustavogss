@@ -15,8 +15,9 @@
 
 <br />
 
-## :robot: &nbsp;Habilidades que já tive experiências:
+## :robot: &nbsp;Tech Stack:
 
+### &nbsp;Front-end:
 <a href="https://git-scm.com/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Git-414141?style=flat&logo=git" alt="Git"/>
 </a>&nbsp;
@@ -44,18 +45,12 @@
 <a href="https://www.w3schools.com/js/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Javascript-414141?style=flat&logo=javascript" alt="Javascript"/>
 </a>&nbsp;
-<a href="https://jestjs.io/pt-BR/docs/getting-started" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Jest-414141?style=flat&logo=jest" alt="Jest"/>
-</a>&nbsp;
-<a href="https://testing-library.com/docs/react-testing-library/intro/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-RTL-414141?style=flat&logo=rtl" alt="RTL"/>
-</a>&nbsp;
-<a href="https://docs.cypress.io/guides/overview/why-cypress" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Cypress-414141?style=flat&logo=cypress" alt="Cypress"/>
-</a>&nbsp;
 <a href="https://pt-br.reactjs.org/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-React-414141?style=flat&logo=react" alt="React"/>
 </a>&nbsp;
+
+### &nbsp;Back-end:
+
 <a href="https://www.mysql.com/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-MySQL-414141?style=flat&logo=mysql" alt="MySQL"/>
 </a>&nbsp;
@@ -77,9 +72,12 @@
 <a href="https://vercel.com/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Vercel-414141?style=flat&logo=vercel" alt="Vercel"/>
 </a>&nbsp;
-<a href="https://vercel.com/" target="_blank">
+<a href="https://heroku.com/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Heroku-414141?style=flat&logo=heroku" alt="Heroku"/>
 </a>&nbsp;
+
+### &nbsp;Mobile:
+
 <a href="https://developer.android.com/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Android-414141?style=flat&logo=android" alt="Android"/>
 </a>&nbsp;
@@ -89,22 +87,46 @@
 <a href="https://styled-components.com/docs" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-SytedComponents-414141?style=flat&logo=styled-components" alt="StyledComponents"/>
 </a>&nbsp;
-<br>
+<a href="https://ionicframework.com/docs/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Ionic-414141?style=flat&logo=ionic" alt="Ionic"/>
+</a>&nbsp;
+<a href="https://cordova.apache.org/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Cordova-414141?style=flat&logo=cordova" alt="Cordova"/>
+</a>&nbsp;
+<a href="https://firebase.google.com/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Firebase-414141?style=flat&logo=firebase" alt="Firebase"/>
+</a>&nbsp;
+<a href="https://fbflipper.com/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Flipper-414141?style=flat&logo=fbflipper" alt="Flipper"/>
+</a>&nbsp;
+
+### &nbsp;Testes:
+
+<a href="https://jestjs.io/pt-BR/docs/getting-started" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Jest-414141?style=flat&logo=jest" alt="Jest"/>
+</a>&nbsp;
+<a href="https://testing-library.com/docs/react-testing-library/intro/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-RTL-414141?style=flat&logo=rtl" alt="RTL"/>
+</a>&nbsp;
+<a href="https://docs.cypress.io/guides/overview/why-cypress" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Cypress-414141?style=flat&logo=cypress" alt="Cypress"/>
+</a>&nbsp;
+
+### &nbsp;Outras Ferramentas:
+
+<a href="https://www.figma.com/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Figma-414141?style=flat&logo=figma" alt="Figma"/>
+</a>
+<br><br>
 
 ## :rocket: &nbsp; Habilidades que estou estudando:
 
 <a href="https://docs.python.org/3/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Python-414141?style=flat&logo=python" alt="Python"/>
 </a>&nbsp;
-<a href="https://firebase.google.com/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Firebase-414141?style=flat&logo=firebase" alt="Firebase"/>
-</a>&nbsp;
-<a href="https://www.figma.com/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Figma-414141?style=flat&logo=figma" alt="Figma"/>
-</a>
-<br><br>
 
-## 👨🏽‍🦲 &nbsp;Você pode me encontrar também aqui:
+
+## 👨🏽‍🦲 &nbsp;Redes Sociais:
 
 <p align="left" >
 <a href="https://www.linkedin.com/in/gustavosouza-jp/" target="_blank">
