@@ -130,6 +130,9 @@
 <a href="https://trello.com/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Trello-414141?style=flat&logo=trello" alt="Trello"/>
 </a>
+<a href="https://zoom.us/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Zoom-414141?style=flat&logo=zoom" alt="Zoom"/>
+</a>
 <br><br>
 
 ## :rocket: &nbsp; Habilidades que estou estudando:
@@ -140,7 +143,8 @@
 <a href="https://securityblue.team/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Cybersecurity-414141?style=flat&logo=cybersecurity" alt="Cybersecurity"/>
 </a>&nbsp;
-<br><br>
+<br><br><br>
+
 ## 👨🏽‍🦲 &nbsp;Você pode me encontrar aqui:
 
 <p align="left" >
@@ -156,10 +160,8 @@
  <a href=mailto:gustavogss@gmail.com?subject="HTML link" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-gustavogss.dev@gmail.com-003399?style=flat&logo=gmail" alt="email"/>
 </a> 
-</p>
-
-
 <br><br>
+         
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gustavogss&color=yellow" alt="Profile views" /> </p>
