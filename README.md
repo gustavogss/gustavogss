@@ -3,7 +3,7 @@
          alt="Waving hand animated gif"
          height="45"
          width="45" />, Eu sou Gustavo Souza</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gustavogss&color=yellow" alt="Profile views" /> </p>
+
 
 -  Moro na cidade de João Pessoa-PB :sunrise: :sunglasses:
 
@@ -114,8 +114,20 @@
 
 ### &nbsp;Outras Ferramentas:
 
+<a href="https://www.postman.com/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Postman-414141?style=flat&logo=postman" alt="Postman"/>
+</a>
+<a href="https://insomnia.rest/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Insomnia-414141?style=flat&logo=insomnia" alt="Insomnia"/>
+</a>
 <a href="https://www.figma.com/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Figma-414141?style=flat&logo=figma" alt="Figma"/>
+</a>
+<a href="https://slack.com" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Slack-414141?style=flat&logo=slack" alt="Slack"/>
+</a>
+<a href="https://trello.com/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Trello-414141?style=flat&logo=trello" alt="Trello"/>
 </a>
 <br><br>
 
@@ -125,8 +137,8 @@
   <img align="center" src="https://img.shields.io/badge/-Python-414141?style=flat&logo=python" alt="Python"/>
 </a>&nbsp;
 
-
-## 👨🏽‍🦲 &nbsp;Redes Sociais:
+<br><br>
+## 👨🏽‍🦲 &nbsp;Você pode me encontrar aqui:
 
 <p align="left" >
 <a href="https://www.linkedin.com/in/gustavosouza-jp/" target="_blank">
@@ -138,11 +150,16 @@
 <a href="https://www.facebook.com/gustavogss.jp/" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-gustavogss-003399?style=flat&logo=facebook" alt="facebook"/>
 </a> 
+ <a href=mailto:gustavogss@gmail.com?subject="HTML link" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-gustavogss.dev@gmail.com-003399?style=flat&logo=gmail" alt="email"/>
+</a> 
 </p>
- <a href=mailto:gustavogss@gmail.com?subject="HTML link" target="_blank">gustavogss.dev@gmail.com</a>
 
 
+<br><br>
 ## ⚙️ &nbsp;GitHub Analytics
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gustavogss&color=yellow" alt="Profile views" /> </p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavogss&theme=radical&show_icons=true)
 
