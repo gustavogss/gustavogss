@@ -137,14 +137,15 @@
 
 ## :rocket: &nbsp; Habilidades que estou estudando:
 
-<a href="https://docs.python.org/3/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Python-414141?style=flat&logo=python" alt="Python"/>
-</a>&nbsp;
+
 <a href="https://flutter.dev/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Flutter-414141?style=flat&logo=flutter" alt="Flutter"/>
 </a>&nbsp;
+<a href="https://docs.python.org/3/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Python-414141?style=flat&logo=python" alt="Python"/>
+</a>&nbsp;
 <a href="https://securityblue.team/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Cybersecurity-414141?style=flat&logo=cybersecurity" alt="Cybersecurity"/>
+  <img align="center" src="https://img.shields.io/badge/-Cyber Security-414141?style=flat&logo=cybersecurity" alt="Cyber Security"/>
 </a>&nbsp;
 <br><br><br>
 
