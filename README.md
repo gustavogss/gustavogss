@@ -7,9 +7,9 @@
 
 -  Moro na cidade de João Pessoa-PB :sunrise: :sunglasses:
 
-- Sou um entusiasta em tecnologia, tenho senso de time, gosto resolver problemas, aprender novas stacks e construir soluções :heart: 
+- Sou um entusiasta por tecnologia, tenho senso de time, gosto resolver problemas, aprender novas stacks e construir soluções :heart: 
 
-- Atualmente estou fazendo um treinamento na [TRYBE](https://www.betrybe.com/) direcionado para Desenvolvimento Web Full Stack, o Ignite - programa da [Rocketseat](https://app.rocketseat.com.br/ignite), e Bootcamps na [DIO](https://web.dio.me/home)  ⭐
+- Atualmente estou fazendo um treinamento na [TRYBE](https://www.betrybe.com/) para Desenvolvimento Web Full Stack, o Ignite - programa da [Rocketseat](https://app.rocketseat.com.br/ignite), e Bootcamps na [DIO](https://web.dio.me/home). Buscando uma recolocação no mercado de TI  ⭐
 
 - Sou formado em Processamento de Dados pela [ASPER](https://www.asper.edu.br/) e Pós-graduado em Desenvolvimento Mobile e Sistemas Embarcados pela [Estácio de Sá](https://estacio.br/) :computer: :iphone:
 
