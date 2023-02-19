@@ -5,13 +5,13 @@
          width="45" />, Eu sou Gustavo Souza</h1>
 
 
--  Moro na cidade de João Pessoa-PB :sunrise: :sunglasses:
+- Moro na cidade de João Pessoa-PB :sunrise: :sunglasses:
 
-- Sou um entusiasta por tecnologia, tenho senso de time, gosto resolver problemas, aprender novas stacks e construir soluções :heart: 
+- Sou um entusiasta por tecnologia, tenho senso de time, gosto aprender novas stacks, resolver problemas e construir soluções :heart: 
 
-- Atualmente estou fazendo um treinamento na [TRYBE](https://www.betrybe.com/) para Desenvolvimento Web Full Stack, o Ignite - programa da [Rocketseat](https://app.rocketseat.com.br/ignite), e Bootcamps na [DIO](https://web.dio.me/home). Buscando uma recolocação no mercado de TI  ⭐
+- Estou focado no Desenvolvimento Mobile e Web Full Stack no momento, buscando uma recolocação no mercado de TI  ⭐
 
-- Sou formado em Processamento de Dados pela [ASPER](https://www.asper.edu.br/) e Pós-graduado em Desenvolvimento Mobile e Sistemas Embarcados pela [Estácio de Sá](https://estacio.br/) :computer: :iphone:
+- Tenho graduação em Processamento de Dados pela [ASPER](https://www.asper.edu.br/), Pós-graduação em Desenvolvimento Mobile e Sistemas Embarcados pela [Estácio de Sá](https://estacio.br/) e atualmente estou concluindo mais uma especialização em Desenvolvimento Web Full Stack pela [Trybe](https://www.betrybe.com/). :computer: :iphone:
 
 <br />
 
