@@ -9,7 +9,7 @@
 
 - Sou um entusiasta por tecnologia, tenho senso de time, gosto aprender novas stacks, resolver problemas e construir soluções :heart: 
 
-- Estou focado no Desenvolvimento Mobile e Web Full Stack no momento, buscando uma recolocação no mercado de TI  ⭐
+- Atualmente estou focado no Desenvolvimento Mobile e Web Full Stack, buscando uma recolocação no mercado de TI  ⭐
 
 - Tenho graduação em Processamento de Dados pela [ASPER](https://www.asper.edu.br/), Pós-graduação em Desenvolvimento Mobile e Sistemas Embarcados pela [Estácio de Sá](https://estacio.br/) e atualmente estou concluindo mais uma especialização em Desenvolvimento Web Full Stack pela [Trybe](https://www.betrybe.com/). :computer: :iphone:
 
