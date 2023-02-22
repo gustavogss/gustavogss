@@ -5,9 +5,9 @@
          width="45" />, Eu sou Gustavo Souza</h1>
 
 
-- Moro na cidade de João Pessoa-PB :sunrise: :sunglasses:
+- Moro na cidade de João Pessoa na Paraiba :sunrise: :sunglasses:
 
-- Sou um entusiasta por tecnologia, tenho senso de time, gosto aprender novas stacks, resolver problemas e construir soluções :heart: 
+- Tenho senso de time, gosto muito de tecnologia, aprender novas stacks, resolver problemas e construir soluções :heart: 
 
 - Atualmente estou focado no Desenvolvimento Mobile e Web Full Stack, buscando uma recolocação no mercado de TI  ⭐
 
