@@ -7,7 +7,7 @@
 
 - Moro na cidade de João Pessoa na Paraiba :sunrise: :sunglasses:
 
-- Tenho senso de time, gosto muito de tecnologia, aprender novas stacks, resolver problemas e construir soluções :heart: 
+- Tenho senso de time, gosto de tecnologia, aprender novas stacks, resolver problemas e construir soluções :heart: 
 
 - Tenho graduação em Processamento de Dados pela [ASPER](https://www.asper.edu.br/), Pós-graduação em Desenvolvimento Mobile e Sistemas Embarcados pela [Estácio de Sá](https://estacio.br/) e atualmente estou concluindo mais uma especialização em Desenvolvimento Web Full Stack pela [Trybe](https://www.betrybe.com/). :computer: :iphone:
 
