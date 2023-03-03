@@ -9,7 +9,7 @@
 
 - Tenho senso de time, gosto de tecnologia, aprender novas stacks, resolver problemas e construir soluções :heart: 
 
-- Tenho graduação em Processamento de Dados pela [ASPER](https://www.asper.edu.br/), Pós-graduação em Desenvolvimento Mobile e Sistemas Embarcados pela [Estácio de Sá](https://estacio.br/) . Atualmente estou concluindo mais uma especialização em Desenvolvimento Web Full Stack pela [Trybe](https://www.betrybe.com/) e participando de alguns bootcamps na DIO e Rocketseat :computer: :iphone:
+- Sou formado em Processamento de Dados pela [ASPER](https://www.asper.edu.br/) e Pós-graduado em Desenvolvimento Mobile e Sistemas Embarcados pela [Estácio de Sá](https://estacio.br/). Atualmente estou concluindo uma especialização em Desenvolvimento Web Full Stack pela [Trybe](https://www.betrybe.com/) e participando de alguns bootcamps na DIO e Rocketseat :computer: :iphone:
 
 <br />
 
