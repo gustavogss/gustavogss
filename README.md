@@ -7,7 +7,7 @@
 
 - Moro na cidade de João Pessoa na Paraiba :sunrise: :sunglasses:
 
-- Sou um entusiasta em tecnologia, tenho senso de time, gosto de resolver problemas e tento usar minha criatividade para contruir soluções que possam impactar a vida das pessoas :heart: 
+- Sou um entusiasta em tecnologia, preocupado com o desenvolvimento seguro de aplicações, tenho senso de time, gosto de resolver problemas e contruir soluções que possam impactar a vida das pessoas :heart: 
 
 - Tenho graduação em Processamento de Dados pela [ASPER](https://www.asper.edu.br/) e Pós-graduação em Desenvolvimento Mobile e Sistemas Embarcados pela [Estácio de Sá](https://estacio.br/). :computer: :iphone:
 
