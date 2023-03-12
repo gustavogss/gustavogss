@@ -16,7 +16,7 @@
     
  >   Sobre mim: 
   
-  <p>Iniciei na tecnologia mais como hobbie na minha adolecência, consertando computadores de amigos e vizinhos. Em 1996 entrei na Faculdade na área de TI e a partir daí passei por diversos setores: Infra, Desenvolvimento de Aplicações Desktop, Web e Mobile. Hoje procuro me manter atualizado sobre as novas tendências do mercado, participando de Bootcamps, Desafios e Comunidades. Tenho senso de time, gosto de resolver problemas e construir soluções que possam impactar a vida das pessoas. Meu hobbie favorito é ir para a academia, malhar . :weight_lifting_man: :green_heart:</p>
+  <p>Iniciei na tecnologia mais como hobbie na minha adolecência, consertando computadores de amigos e vizinhos. Em 1996 entrei na Faculdade na área de TI e a partir daí, passei por diversos setores: Infra, Desenvolvimento de Aplicações Desktop, Web e Mobile. Hoje procuro me manter atualizado sobre as novas tendências do mercado, participando de Bootcamps, Desafios e Comunidades. Tenho senso de time, gosto de resolver problemas e construir soluções que possam impactar a vida das pessoas. Meu hobbie favorito é ir para a academia, malhar . :weight_lifting_man: :green_heart:</p>
 </div>
 
  
