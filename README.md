@@ -165,22 +165,6 @@
 </a>&nbsp;
 <br><br><br>
 
-## 👨🏽‍🦲 &nbsp;Você pode me encontrar aqui:
-
-<p align="left" >
-<a href="https://www.linkedin.com/in/gustavosouza-jp/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-gustavogss-003399?style=flat&logo=linkedin" alt="linkedin"/>
-</a>
-<a href="https://www.instagram.com/gustavogss.jp/?hl=pt-br" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-gustavogss-003399?style=flat&logo=instagram" alt="instagram"/>
-</a>
-<a href="https://www.facebook.com/gustavogss.jp/" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-gustavogss-003399?style=flat&logo=facebook" alt="facebook"/>
-</a> 
- <a href=mailto:gustavogss.dev@gmail.com?subject="HTML link" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-gustavogss.dev@gmail.com-003399?style=flat&logo=gmail" alt="email"/>
-</a> 
-<br><br>
          
 ## ⚙️ &nbsp;GitHub Analytics
          
