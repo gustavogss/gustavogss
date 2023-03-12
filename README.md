@@ -16,14 +16,13 @@
     
  >   Sobre mim: 
   
-  <p>Entrei na tecnologia mais como hobbie na minha adolecência, consertando computadores de amigos e vizinhos. Em 1996 entrei na Faculdade e a partir daí passei por diversas áreas: Infra, Desenvolvimento de Aplicações Desktop, Web e Mobile. Hoje procuro me manter atualizado sobre as novas tendências do mercado, participando de Bootcamps, Desafios e Comunidades. Tenho senso de time, gosto de desafios e construir soluções que possam impactar a vida das pessoas. Meu hobbie favorito é ir para academia me exercitar.  :heart:</p>
+  <p>Me interessei na tecnologia mais como hobbie na minha adolecência, consertando computadores de amigos e vizinhos. Em 1996 entrei na Faculdade e a partir daí passei por diversas áreas: Infra, Desenvolvimento de Aplicações Desktop, Web e Mobile. Hoje procuro me manter atualizado sobre as novas tendências do mercado, participando de Bootcamps, Desafios e Comunidades. Tenho senso de time, gosto de resolver problemas e construir soluções que possam impactar a vida das pessoas. Meu hobbie favorito é ir para a academia, malhar .  :heart:</p>
 </div>
 
  
   -   :mortar_board: &nbsp; Graduação:  &nbsp; Processamento de Dados pela [ASPER](https://www.asper.edu.br/)
   -   :mortar_board:  &nbsp; Pós-graduação:  &nbsp; Desenvolvimento Mobile e Sistemas Embarcados pela [Estácio de Sá](https://estacio.br/). 
-  -   :mortar_board:  &nbsp; Especilização:  &nbsp; Desenvolvimento Web Full Stack pela [Trybe](https://www.betrybe.com/)
-  -   :handbag:  &nbsp; Trabalho voluntário: &nbsp;  Conserto de computadores - [FIR Informática](https://www.firpb.com.br/)
+  -   :mortar_board:  &nbsp; Especilização:  &nbsp; Desenvolvimento Web Full Stack pela [Trybe](https://www.betrybe.com/)  
   -   :handbag:  &nbsp; Estágio: &nbsp;  Desenvolvedor de Software - [Projeto Cooperar](https://cooperar.pb.gov.br/)
   -   :handbag:  &nbsp; Desenvolvedor Web: &nbsp;  Desenvolvimento de sites e Ecommerces - [Way TI](https://wayti.com.br)
   -   :handbag:  &nbsp; Desenvolvedor Web: &nbsp;  Desenvolvimento de sites institucionais - [Agência Diastec](http://www.diastec.com.br/)
