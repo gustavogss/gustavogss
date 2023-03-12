@@ -165,12 +165,10 @@
          
  <div align="left">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gustavogss&color=yellow" alt="Profile views" /> </p>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavogss&show_icons=true&theme=radical" />
+<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavogss&show_icons=true&theme=radical" /> -->
  </div>
  
-<!--  <p align="left"> <img src="https://komarev.com/ghpvc/?username=gustavogss&color=yellow" alt="Profile views" /> </p>
-  <a href="https://github.com/gustavogss">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavogss&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> -->
+
                                                                                                 
 
 
