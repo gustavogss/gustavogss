@@ -16,7 +16,7 @@
     
  >   Sobre mim: 
   
-  <p>Comecei na área de tecnologia trabalhando como voluntário consertando computadores, mesmo antes da Faculdade. Tive experiências em diversas áreas: Infra, Desenvolvimento de Aplicações Desktop, Web e Mobile. Hoje procuro me manter atualizado sobre as novas tendências do mercado, participando de Bootcamps, Desafios e Comunidades. Também adoro um cafezinho, e nas horas vagas gosto de caminhar.  :heart:</p>
+  <p>Comecei na área de tecnologia trabalhando como voluntário consertando computadores, mesmo antes da Faculdade. Tive experiências em diversas áreas: Infra, Desenvolvimento de Aplicações Desktop, Web e Mobile. Hoje procuro me manter atualizado sobre as novas tendências do mercado, participando de Bootcamps, Desafios e Comunidades. Tenho senso de time, gosto de desafios e construir soluções que possam impactar a vida das pessoas. Nas horas vagas vou para academia me exercitar.  :heart:</p>
 </div>
 
  
