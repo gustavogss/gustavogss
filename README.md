@@ -119,7 +119,6 @@
   <img align="center" src="https://img.shields.io/badge/-Firebase-414141?style=flat&logo=firebase" alt="Firebase"/>
 </a>&nbsp;
 
-
 ### &nbsp;Testes:
 
 <a href="https://jestjs.io/pt-BR/docs/getting-started" target="_blank">
@@ -132,8 +131,11 @@
   <img align="center" src="https://img.shields.io/badge/-Cypress-414141?style=flat&logo=cypress" alt="Cypress"/>
 </a>&nbsp;
 
-### &nbsp;Outras Ferramentas:
+### &nbsp;Outras:
 
+<a href="https://docs.python.org/3/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Python-414141?style=flat&logo=python" alt="Python"/>
+</a>&nbsp;
 <a href="https://www.postman.com/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Postman-414141?style=flat&logo=postman" alt="Postman"/>
 </a>
@@ -153,17 +155,6 @@
   <img align="center" src="https://img.shields.io/badge/-Zoom-414141?style=flat&logo=zoom" alt="Zoom"/>
 </a>
 <br><br>
-
-## :rocket: &nbsp; Habilidades que estou estudando:
-
-
-<a href="https://docs.python.org/3/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Python-414141?style=flat&logo=python" alt="Python"/>
-</a>&nbsp;
-<a href="https://securityblue.team/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Cyber Security-414141?style=flat&logo=cybersecurity" alt="Cyber Security"/>
-</a>&nbsp;
-<br><br><br>
 
          
 ## ⚙️ &nbsp;GitHub Analytics
