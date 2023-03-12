@@ -35,7 +35,7 @@
 
 ## :robot: &nbsp;Tech Stack:
 
-### &nbsp;Front-end:
+> Front-end:
 <a href="https://git-scm.com/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Git-414141?style=flat&logo=git" alt="Git"/>
 </a>&nbsp;
@@ -71,9 +71,9 @@
 </a>&nbsp;
 <a href="https://marketplace.magento.com/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Magento2-414141?style=flat&logo=magento" alt="Magento2"/>
-</a>&nbsp;
+</a> <br />&nbsp;
 
-### &nbsp;Back-end:
+> Back-end:
 
 <a href="https://www.mysql.com/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-MySQL-414141?style=flat&logo=mysql" alt="MySQL"/>
@@ -98,9 +98,9 @@
 </a>&nbsp;
 <a href="https://heroku.com/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Heroku-414141?style=flat&logo=heroku" alt="Heroku"/>
-</a>&nbsp;
+</a><br />&nbsp;
 
-### &nbsp;Mobile:
+> Mobile:
 
 <a href="https://developer.android.com/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Android-414141?style=flat&logo=android" alt="Android"/>
@@ -116,9 +116,9 @@
 </a>&nbsp;
 <a href="https://firebase.google.com/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Firebase-414141?style=flat&logo=firebase" alt="Firebase"/>
-</a>&nbsp;
+</a><br />&nbsp;
 
-### &nbsp;Testes:
+> Testes:
 
 <a href="https://jestjs.io/pt-BR/docs/getting-started" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Jest-414141?style=flat&logo=jest" alt="Jest"/>
@@ -128,13 +128,25 @@
 </a>&nbsp;
 <a href="https://docs.cypress.io/guides/overview/why-cypress" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Cypress-414141?style=flat&logo=cypress" alt="Cypress"/>
-</a>&nbsp;
+</a><br />&nbsp;
 
-### &nbsp;Outras:
+
+> Cyber Security:
 
 <a href="https://docs.python.org/3/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Python-414141?style=flat&logo=python" alt="Python"/>
 </a>&nbsp;
+<a href="https://www.kali.org/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/Kali Linux-414141?style=flat&logo=kalilinux" alt="Kali Linux"/>
+</a>&nbsp;
+<a href="https://www.torproject.org/download/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/Tor-414141?style=flat&logo=Tor-Browser" alt="Tor"/>
+</a><br />&nbsp;
+
+
+> Outras:
+
+
 <a href="https://www.postman.com/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Postman-414141?style=flat&logo=postman" alt="Postman"/>
 </a>
