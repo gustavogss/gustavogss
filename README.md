@@ -16,7 +16,7 @@
     
  >   Sobre mim: 
   
-  <p>Comecei na área de tecnologia em 1996 trabalhando como voluntário, consertando computadores, mesmo antes da Faculdade. Tive experiências em diversas áreas: Infra, Desenvolvimento de Aplicações Desktop, Web e Mobile. Hoje procuro me manter atualizado sobre as novas tendências do mercado, participando de Bootcamps, Desafios e Comunidades. Tenho senso de time, gosto de desafios e construir soluções que possam impactar a vida das pessoas. Meu hobbie favorito é ir para academia me exercitar.  :heart:</p>
+  <p>Entrei na tecnologia mais como hobbie na minha adolecência, consertando computadores de amigos e vizinhos. Em 1996 entrei na Faculdade e a partir daí passei por diversas áreas: Infra, Desenvolvimento de Aplicações Desktop, Web e Mobile. Hoje procuro me manter atualizado sobre as novas tendências do mercado, participando de Bootcamps, Desafios e Comunidades. Tenho senso de time, gosto de desafios e construir soluções que possam impactar a vida das pessoas. Meu hobbie favorito é ir para academia me exercitar.  :heart:</p>
 </div>
 
  
