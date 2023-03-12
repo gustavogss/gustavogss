@@ -16,7 +16,7 @@
     
  >   Sobre mim: 
   
-  <p>Entrei na tecnologia mais como hobbie na minha adolecência, consertando computadores de amigos e vizinhos. Em 1996 entrei na Faculdade e a partir daí passei por diversas áreas: Infra, Desenvolvimento de Aplicações Desktop, Web e Mobile. Hoje procuro me manter atualizado sobre as novas tendências do mercado, participando de Bootcamps, Desafios e Comunidades. Tenho senso de time, gosto de resolver problemas e construir soluções que possam impactar a vida das pessoas. Meu hobbie favorito é ir para a academia, malhar .  :heart:</p>
+  <p>Iniciei na tecnologia mais como hobbie na minha adolecência, consertando computadores de amigos e vizinhos. Em 1996 entrei na Faculdade e a partir daí passei por diversas áreas: Infra, Desenvolvimento de Aplicações Desktop, Web e Mobile. Hoje procuro me manter atualizado sobre as novas tendências do mercado, participando de Bootcamps, Desafios e Comunidades. Tenho senso de time, gosto de resolver problemas e construir soluções que possam impactar a vida das pessoas. Meu hobbie favorito é ir para a academia, malhar .  :heart:</p>
 </div>
 
  
