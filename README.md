@@ -1,5 +1,7 @@
-<div  align="center"> 
+<div  align="left"> 
   <div style="display: inline_block"><br>
+  <img style="background: #212121" align="rigth" height="250" alt="coding-time" src="dev.gif">
+  
 <h1 align="left">Olá  <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
          height="45"
@@ -11,7 +13,7 @@
 - Sou um entusiasta em tecnologia, preocupado com o desenvolvimento seguro de aplicações, tenho senso de time, gosto de resolver problemas e construir soluções que possam impactar a vida das pessoas :heart: 
 
 - Tenho graduação em Processamento de Dados pela [ASPER](https://www.asper.edu.br/) e Pós-graduação em Desenvolvimento Mobile e Sistemas Embarcados pela [Estácio de Sá](https://estacio.br/). :computer: :iphone:
- <img align="left" height="250" alt="coding-time" src="code.gif">
+ 
  </div>
  
 </div>
