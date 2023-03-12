@@ -1,22 +1,36 @@
-<div  align="left"> 
-  <div style="display: inline_block"><br>
-  <img style="background: #212121" align="rigth" height="250" alt="coding-time" src="dev-web.gif">
-  
-<h1 align="left">Olá  <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+<h1 align="center">Olá  <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
          height="45"
          width="45" />, Eu sou Gustavo Souza</h1>
 
-
-- Moro na cidade de João Pessoa na Paraiba :sunrise: :sunglasses:
-
-- Sou um entusiasta em tecnologia, preocupado com o desenvolvimento seguro de aplicações, tenho senso de time, gosto de resolver problemas e construir soluções que possam impactar a vida das pessoas :heart: 
-
-- Tenho graduação em Processamento de Dados pela [ASPER](https://www.asper.edu.br/) e Pós-graduação em Desenvolvimento Mobile e Sistemas Embarcados pela [Estácio de Sá](https://estacio.br/). :computer: :iphone:
- 
- </div>
- 
+<div align="center">
+  <a href="https://www.linkedin.com/in/gustavosouza-jp/" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+</a>
+<a href="mailto:gustavogss.dev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://api.whatsapp.com/send?phone=5583998015475" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+<a href="https://t.me/gustavosouzajp" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 </div>
+<br />
+<div align="justify">
+    
+ >   Sobre mim: 
+  
+  <p>Comecei na área de tecnologia trabalhando como voluntário consertando computadores para uma empresa, mesmo antes da Faculdade. Passei por diversas áreas: Infra, Desenvolvimento de aplicações Desktop, Web e Mobile. Hoje procuro me manter atualizado sobre as novas tendências do mercado, participando de Bootcamps, Desafios e Comunidades. Também adoro um cafezinho, e nas horas vagas gosto de caminhar.  :heart:</p>
+</div>
+
+ 
+  -   :mortar_board: &nbsp; Graduação:  &nbsp; Processamento de Dados pela [ASPER](https://www.asper.edu.br/)
+  -   :mortar_board:  &nbsp; Pós-graduação:  &nbsp; Desenvolvimento Mobile e Sistemas Embarcados pela [Estácio de Sá](https://estacio.br/). 
+  -   :mortar_board:  &nbsp; Especilização:  &nbsp; Desenvolvimento Web Full Stack pela [Trybe](https://www.betrybe.com/)
+  -   :handbag:  &nbsp; Trabalho voluntário: &nbsp;  Conserto de computadores - [FIR Informática](https://www.firpb.com.br/)
+  -   :handbag:  &nbsp; Estágio: &nbsp;  Desenvolvedor de Software - [Projeto Cooperar](https://cooperar.pb.gov.br/)
+  -   :handbag:  &nbsp; Desenvolvedor Web: &nbsp;  Desenvolvimento de sites e Ecommerces - [Way TI](https://wayti.com.br)
+  -   :handbag:  &nbsp; Desenvolvedor Web: &nbsp;  Desenvolvimento de sites institucionais - [Agência Diastec](http://www.diastec.com.br/)
+  
+  -   :round_pushpin: João Pessoa, Paraiba, Brasil  
+
+
 
 <br />
 
