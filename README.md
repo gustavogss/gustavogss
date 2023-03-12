@@ -1,6 +1,6 @@
 <div  align="left"> 
   <div style="display: inline_block"><br>
-  <img style="background: #212121" align="rigth" height="250" alt="coding-time" src="dev.gif">
+  <img style="background: #212121" align="rigth" height="250" alt="coding-time" src="dev-web.gif">
   
 <h1 align="left">Olá  <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
