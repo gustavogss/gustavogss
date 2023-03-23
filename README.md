@@ -21,8 +21,8 @@
 
  
   -   :mortar_board: &nbsp; Graduação:  &nbsp; Processamento de Dados pela [ASPER](https://www.asper.edu.br/)
-  -   :mortar_board:  &nbsp; Pós-graduação:  &nbsp; Desenvolvimento Mobile e Sistemas Embarcados pela [Estácio de Sá](https://estacio.br/). 
-  -   :mortar_board:  &nbsp; Especilização:  &nbsp; Desenvolvimento Web Full Stack pela [Trybe](https://www.betrybe.com/)  
+  -   :mortar_board:  &nbsp; Pós-graduação (Especialização):  &nbsp; Desenvolvimento Mobile e Sistemas Embarcados pela [Estácio de Sá](https://estacio.br/). 
+  -   :mortar_board:  &nbsp; Certificação:  &nbsp; Desenvolvimento Web Full Stack pela [Trybe](https://www.betrybe.com/)  
   -   :handbag:  &nbsp; Estágio: &nbsp;  Desenvolvedor de Software - [Projeto Cooperar](https://cooperar.pb.gov.br/)
   -   :handbag:  &nbsp; Desenvolvedor Web: &nbsp;  Desenvolvimento de sites e Ecommerces - [Way TI](https://wayti.com.br)
   -   :handbag:  &nbsp; Desenvolvedor Web: &nbsp;  Desenvolvimento de sites institucionais - [Agência Diastec](http://www.diastec.com.br/)
