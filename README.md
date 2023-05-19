@@ -24,7 +24,7 @@
   -   :mortar_board:  &nbsp; Pós-graduação:  &nbsp; Desenvolvimento Mobile e Sistemas Embarcados pela [Estácio de Sá](https://estacio.br/). 
   -   :mortar_board:  &nbsp; Especialização:  &nbsp; Desenvolvimento Web Full Stack pela [Trybe](https://www.betrybe.com/)  
   -   :handbag:  &nbsp; Estágio: &nbsp;  Desenvolvedor de Software - [Projeto Cooperar](https://cooperar.pb.gov.br/)
-  -   :handbag:  &nbsp; Desenvolvedor Web: &nbsp;  Desenvolvedor Web (Freelancer) [Way TI](https://wayti.com.br), [Agência Diastec](https://www.diastec.com.br/), [TbMaquinaseEquipamentos](https://tbmaquinas.com/)
+  -   :handbag:  &nbsp; Desenvolvedor Web (Freelancer) - [Way TI](https://wayti.com.br), [Agência Diastec](https://www.diastec.com.br/), [TbMaquinaseEquipamentos](https://tbmaquinas.com/)
   
   -   :round_pushpin: João Pessoa, Paraiba, Brasil  
 
