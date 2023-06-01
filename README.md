@@ -16,7 +16,7 @@
     
  >   Sobre mim: 
   
-  <p>Iniciei no mundo da tecnologia como um hobbie na minha adolecência, fazendo pequenos projetos e consertando computadores para amigos e vizinhos. Em 1996 entrei na Faculdade na área de TI e a partir de então, passei por diversos setores: Infra, Desenvolvimento de Aplicações Desktop, Web e Mobile. Hoje procuro implementar aplicações utlizando as boas práticas com metodologias ágeis, clean code e TDD, com o objetivo de desenvolver soluções sólidas, seguras e escaláveis junto com empresas inovadoras em busca de melhores resultados. :green_heart:</p>
+  <p>Iniciei no mundo da tecnologia como um hobbie na minha adolecência, fazendo pequenos projetos e consertando computadores para amigos e vizinhos. Em 1996 entrei na Faculdade na área de TI e a partir de então, passei por diversos setores: Infra, Desenvolvimento de Aplicações Desktop e Web Full Stack. Hoje estou trabalhando no desenvolvimento mobile, utlizando metodologias ágeis, clean code e TDD, em busca de soluções mais sólidas, seguras e escaláveis junto com empresas inovadoras. :green_heart:</p>
 </div>
 
  
