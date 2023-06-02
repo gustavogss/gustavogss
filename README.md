@@ -23,8 +23,8 @@
   -   :mortar_board: &nbsp; Graduação:  &nbsp; Processamento de Dados pela [ASPER](https://www.asper.edu.br/)
   -   :mortar_board:  &nbsp; Pós-graduação:  &nbsp; Desenvolvimento Mobile e Sistemas Embarcados pela [Estácio de Sá](https://estacio.br/). 
   -   :mortar_board:  &nbsp; Especialização:  &nbsp; Desenvolvimento Web Full Stack pela [Trybe](https://www.betrybe.com/)  
-  -   :handbag:  &nbsp; Estágio: &nbsp;  Desenvolvedor de Software - [Projeto Cooperar](https://cooperar.pb.gov.br/)
-  -   :handbag:  &nbsp; Freelancer: Desenvolvedor Web - landpages, sites e aplicativos móveis.
+  -   :handbag:  &nbsp; Estágio: &nbsp;  Analista de TI - [Projeto Cooperar](https://cooperar.pb.gov.br/)
+  -   :handbag:  &nbsp; Freelancer: Desenvolvedor de Software - Landpages, sites e aplicativos móveis.
   
   -   :round_pushpin: João Pessoa, Paraiba, Brasil  
 
