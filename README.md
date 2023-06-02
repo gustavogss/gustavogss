@@ -16,7 +16,7 @@
     
  >   Sobre mim: 
   
-  <p> Iniciei no mundo da tecnologia, própriamente dita, na Faculdade em 1996, e partir de então, passei por diversas áreas: Infra, Desenvolvimento de Aplicações Desktop, Web e Mobile. Hoje aproveito das minhas experiências com metodologias ágeis para implementar soluções mais sólidas, seguras e escaláveis junto com empresas inovadoras. :green_heart:</p>
+  <p> Iniciei no mundo da tecnologia mais como um voluntário, consertando computadores e pegando pequenos projetos de amigos e vizinhos. E 1996 entre na Faculdade, e partir de então, passei por diversas áreas: Infra, Desenvolvimento de Aplicações Desktop, Web e Mobile. Hoje aproveito das minhas experiências com metodologias ágeis para implementar soluções mais sólidas, seguras e escaláveis junto com empresas inovadoras. :green_heart:</p>
 </div>
 
  
