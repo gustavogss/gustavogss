@@ -16,7 +16,7 @@
     
  >   Sobre mim: 
   
-  <p> Iniciei no mundo da programação na Faculdade em 1996, e partir de então, passei por diversos setores: Infra, Desenvolvimento de Aplicações Desktop, Web e Mobile. Hoje aproveito as minhas experiências utilizando metodologias ágeis para implementar soluções mais sólidas, seguras e escaláveis junto com empresas inovadoras. :green_heart:</p>
+  <p> Iniciei no mundo da programação na Faculdade em 1996, e partir de então, passei por diversos setores: Infra, Desenvolvimento de Aplicações Desktop, Web e Mobile. Hoje aproveito das minhas experiências com metodologias ágeis para implementar soluções mais sólidas, seguras e escaláveis junto com empresas inovadoras. :green_heart:</p>
 </div>
 
  
