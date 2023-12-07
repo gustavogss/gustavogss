@@ -32,7 +32,7 @@
 
 <br />
 
-## :robot: &nbsp;Tech Stack:
+## :robot: &nbsp;Tech Stack 
 
 > Front-end:
 <a href="https://git-scm.com/" target="_blank">
