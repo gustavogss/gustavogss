@@ -145,7 +145,9 @@
 
 > Outras:
 
-
+<a href="https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-GitFlow-414141?style=flat&logo=gitflow" alt="GitFlow"/>
+</a>
 <a href="https://www.postman.com/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Postman-414141?style=flat&logo=postman" alt="Postman"/>
 </a>
