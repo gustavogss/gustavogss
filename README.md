@@ -16,7 +16,7 @@
     
  >   Sobre mim: 
   
-  <p> Conheci o mundo da programação em 1996 quando entrei na Faculdade, e partir de então, passei por diversas áreas: Desenvolvimento de Aplicações Desktop, Web e Mobile. Hoje aproveito as minhas habilidades técnicas com uso de metodologias ágeis para implementar soluções mais sólidas, seguras e escaláveis junto com empresas inovadoras. :green_heart:</p>
+  <p> Sou um estusiasta em tecnologia, gosto de aprender e colaborar. Já tive experiências no Desenvolvimento de Aplicações Desktop, Web e Mobile. Hoje aproveito as minhas habilidades técnicas com uso de metodologias ágeis para implementar soluções mais sólidas, seguras e escaláveis junto com empresas inovadoras. :green_heart:</p>
 </div>
 
  
