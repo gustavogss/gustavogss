@@ -108,6 +108,9 @@
 <a href="https://reactnative.dev/docs/getting-started" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-ReactNative-414141?style=flat&logo=react" alt="ReactNative"/>
 </a>&nbsp;
+<a href="https://expo.dev/" target="_blank">
+   <img align="center" src="https://img.shields.io/badge/expo-414141?style=for-the-badge&logo=expo&logoColor=#414141 alt="Expo"/>           
+</a>&nbsp;
 <a href="https://ionicframework.com/docs/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Ionic-414141?style=flat&logo=ionic" alt="Ionic"/>
 </a>&nbsp;
