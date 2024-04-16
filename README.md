@@ -16,7 +16,7 @@
     
  >   Sobre mim: 
   
-  <p> Sou um estusiasta em tecnologia, gosto de aprender e colaborar. Tive algumas experiências com Desenvolvimento de Aplicações Desktop, Web e Mobile. E atualmente estou connhendo o mundo dos Pentests com o objetivo de implementar soluções mais seguras, sólidas e escaláveis. :green_heart:</p>
+  <p> Sou um estusiasta em tecnologia, gosto de aprender e colaborar. Tive algumas experiências com Desenvolvimento de Aplicações Desktop, Web e Mobile. Atualmente estou me especializando em Pentests com o objetivo de implementar soluções mais seguras e escaláveis. :green_heart:</p>
 </div>
 
  
