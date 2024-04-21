@@ -76,14 +76,17 @@
 
 > Back-end:
 
+<a href="https://nodejs.org/en/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-NodeJs-414141?style=flat&logo=node.js" alt="Node"/>
+</a>&nbsp;
+<a href="https://www.java.com/pt-BR/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Java-414141?style=flat&logo=node.js" alt="Java"/>
+</a>&nbsp;
 <a href="https://www.mysql.com/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-MySQL-414141?style=flat&logo=mysql" alt="MySQL"/>
 </a>&nbsp;
 <a href="https://www.postgresql.org/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Postgresql-414141?style=flat&logo=postgresql" alt="Postgresql"/>
-</a>&nbsp;
-<a href="https://nodejs.org/en/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-NodeJs-414141?style=flat&logo=node.js" alt="Node"/>
 </a>&nbsp;
 <a href="https://sequelize.org/docs/v6/getting-started/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Sequelize-414141?style=flat&logo=sequelize" alt="Sequelize"/>
