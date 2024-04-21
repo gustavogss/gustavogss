@@ -16,7 +16,8 @@
     
  >   Sobre mim: 
   
-  <p> Sou um estusiasta em tecnologia, gosto de aprender e colaborar. Tive algumas experiências com Desenvolvimento de Aplicações Desktop, Web e Mobile. Atualmente estou me especializando em Pentests com o objetivo de implementar soluções mais seguras e escaláveis. :green_heart:</p>
+  <p> Sou um desenvolvedor Full Stack apaixonado por criar aplicações interativas Web e Mobile com apoio das metodologias ágeis. Também já tive experiências com Infraestrutura e aplicações Desktop. Tenho senso de time, aprendo rápido e estou sempre buscando expandir meus conhecimentos e habilidades. </p>      
+          
 </div>
 
  
