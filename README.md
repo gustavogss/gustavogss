@@ -77,7 +77,7 @@
 > Back-end:
 
 <a href="https://nodejs.org/en/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-NodeJs-414141?style=flat&logo=node.js" alt="Node"/>
+  <img align="center" src="https://img.shields.io/badge/-NodeJs-414141?style=flat&logo=java" alt="Node"/>
 </a>&nbsp;
 <a href="https://www.java.com/pt-BR/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Java-414141?style=flat&logo=node.js" alt="Java"/>
