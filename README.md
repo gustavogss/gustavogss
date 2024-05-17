@@ -16,7 +16,8 @@
     
  >   Sobre mim: 
   
-  <p> Sou um desenvolvedor Full Stack apaixonado por criar aplicações interativas Web e Mobile com apoio das metodologias ágeis. Também já tive experiências com Infraestrutura e aplicações Desktop. Tenho senso de time, aprendo rápido e estou sempre buscando expandir meus conhecimentos e habilidades. </p>      
+  <p> Sou Desenvolvedor Full Stack Web e Mobile focado em criar soluções inovadoras, seguras e escaláveis com o apoio de metodologias ágeis. Também já tive experiências em outras áreas como empreendedorismo. </p>
+<p>Tenho senso de time, aprendo rápido e estou sempre buscando expandir meus conhecimentos e habilidades. </p>     
           
 </div>
 
