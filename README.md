@@ -16,7 +16,7 @@
     
  >   Sobre mim: 
   
-  <p> Sou Desenvolvedor Full Stack Web e Mobile focado em criar soluções inovadoras com o apoio de metodologias ágeis. Migrando para área de Cyber Segurança em busca de um desenvolvimento seguro </p>
+  <p> Sou Desenvolvedor Full Stack Web focado em criar soluções inovadoras e seguras com o apoio de metodologias ágeis. </p>
 <p>Tenho senso de time, aprendo rápido e estou sempre buscando expandir meus conhecimentos e habilidades. </p>     
           
 </div>
