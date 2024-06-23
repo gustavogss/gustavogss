@@ -16,7 +16,7 @@
     
  >   Sobre mim: 
   
-  <p> Sou Desenvolvedor Web Full Stack focado em criar soluções inovadoras e seguras com o apoio de metodologias ágeis. </p>
+  <p> Sou Desenvolvedor Web Full Stack focado em criar soluções inovadoras e seguras com o apoio de metodologias ágeis e ferramentas de análise de vulnerabilidades. </p>
 <p>Tenho senso de time, aprendo rápido e estou sempre buscando expandir meus conhecimentos e habilidades. </p>     
           
 </div>
