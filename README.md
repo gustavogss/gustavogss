@@ -104,27 +104,6 @@
   <img align="center" src="https://img.shields.io/badge/-Heroku-414141?style=flat&logo=heroku" alt="Heroku"/>
 </a><br />&nbsp;
 
-> Mobile:
-
-<a href="https://developer.android.com/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Android-414141?style=flat&logo=android" alt="Android"/>
-</a>&nbsp;
-<a href="https://reactnative.dev/docs/getting-started" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-ReactNative-414141?style=flat&logo=react" alt="ReactNative"/>
-</a>&nbsp;
-<a href="https://expo.dev/" target="_blank">
-   <img align="center" src="https://img.shields.io/badge/expo-414141?style=for-the-badge&logo=expo&logoColor=#414141 alt="Expo"/>           
-</a>&nbsp;
-<a href="https://ionicframework.com/docs/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Ionic-414141?style=flat&logo=ionic" alt="Ionic"/>
-</a>&nbsp;
-<a href="https://styled-components.com/docs" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-SytedComponents-414141?style=flat&logo=styled-components" alt="StyledComponents"/>
-</a>&nbsp;
-<a href="https://firebase.google.com/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Firebase-414141?style=flat&logo=firebase" alt="Firebase"/>
-</a><br />&nbsp;
-
 > Testes:
 
 <a href="https://jestjs.io/pt-BR/docs/getting-started" target="_blank">
@@ -135,19 +114,6 @@
 </a>&nbsp;
 <a href="https://docs.cypress.io/guides/overview/why-cypress" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Cypress-414141?style=flat&logo=cypress" alt="Cypress"/>
-</a><br />&nbsp;
-
-
-> Cyber Security:
-
-<a href="https://docs.python.org/3/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Python-414141?style=flat&logo=python" alt="Python"/>
-</a>&nbsp;
-<a href="https://www.kali.org/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/Kali Linux-414141?style=flat&logo=kalilinux" alt="Kali Linux"/>
-</a>&nbsp;
-<a href="https://www.torproject.org/download/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/Tor-414141?style=flat&logo=Tor-Browser" alt="Tor"/>
 </a><br />&nbsp;
 
 
