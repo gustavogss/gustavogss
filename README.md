@@ -59,16 +59,13 @@
   <img align="center" src="https://img.shields.io/badge/-React-414141?style=flat&logo=react" alt="React"/>
 </a>&nbsp;
 <a href="https://nextjs.org/docs" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Next-414141?style=flat&logo=next" alt="Next"/>
+  <img align="center" src="https://img.shields.io/badge/-Next-414141?style=flat&logo=next.js" alt="Next"/>
 </a><br />&nbsp;
 
 > Back-end:
 
 <a href="https://nodejs.org/en/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-NodeJs-414141?style=flat&logo=node.js" alt="Node"/>
-</a>&nbsp;
-<a href="https://www.prisma.io/docs" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Prisma-414141?style=flat&logo=prisma" alt="Prisma"/>
 </a>&nbsp;
 <a href="https://www.mysql.com/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-MySQL-414141?style=flat&logo=mysql" alt="MySQL"/>
@@ -78,6 +75,9 @@
 </a>&nbsp;
 <a href="https://sequelize.org/docs/v6/getting-started/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Sequelize-414141?style=flat&logo=sequelize" alt="Sequelize"/>
+</a>&nbsp;
+<a href="https://www.prisma.io/docs" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Prisma-414141?style=flat&logo=prisma" alt="Prisma"/>
 </a>&nbsp;
 <a href="https://cloud.mongodb.com/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Mongo-414141?style=flat&logo=mongodb" alt="mongodb"/>
@@ -119,7 +119,7 @@
   <img align="center" src="https://img.shields.io/badge/-Mendix-414141?style=flat&logo=mendix" alt="Mendix"/>
 </a>&nbsp;
 <a href="https://docs.flutterflow.io/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-FlutterFlow-414141?style=flat&logo=flutterflow" alt="Flutter-Flow"/>
+  <img align="center" src="https://img.shields.io/badge/-FlutterFlow-414141?style=flat&logo=Flutterflow" alt="Flutter-Flow"/>
 </a><br />&nbsp;
 
 > Outras:
