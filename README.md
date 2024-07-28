@@ -37,16 +37,6 @@
 ## :robot: &nbsp;Tech Stack 
 
 > Front-end:
-
-<a href="https://git-scm.com/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Git-414141?style=flat&logo=git" alt="Git"/>
-</a>&nbsp;
-<a href="https://github.com/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-GitHub-414141?style=flat&logo=github" alt="GitHub"/>
-</a>&nbsp;
-<a href="https://ubuntu.com" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Ubuntu-414141?style=flat&logo=ubuntu" alt="Ubuntu"/>
-</a>&nbsp;
 <a href="https://www.w3c.br/Cursos/CursoHTML5" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-HTML5-414141?style=flat&logo=html5" alt="HTML5"/>
 </a>&nbsp;
@@ -70,15 +60,15 @@
 </a>&nbsp;
 <a href="https://nextjs.org/docs" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Next-414141?style=flat&logo=next" alt="Next"/>
-</a>&nbsp;
+</a><br />&nbsp;
 
 > Back-end:
 
 <a href="https://nodejs.org/en/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-NodeJs-414141?style=flat&logo=node.js" alt="Node"/>
 </a>&nbsp;
-<a href="https://www.java.com/pt-BR/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Java-414141?style=flat&logo=java" alt="Java"/>
+<a href="https://www.prisma.io/docs" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Prisma-414141?style=flat&logo=prisma" alt="Prisma"/>
 </a>&nbsp;
 <a href="https://www.mysql.com/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-MySQL-414141?style=flat&logo=mysql" alt="MySQL"/>
@@ -118,7 +108,7 @@
 
 <a href="https://marketplace.magento.com/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Magento2-414141?style=flat&logo=magento" alt="Magento2"/>
-</a> <br />&nbsp;
+</a>&nbsp;
 <a href="https://codex.wordpress.org/pt-br:P%C3%A1gina_Inicial" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Wordpress-414141?style=flat&logo=wordpress" alt="Wordpress"/>
 </a>&nbsp;
@@ -127,13 +117,21 @@
 </a>&nbsp;
 <a href="https://www.mendix.com/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Mendix-414141?style=flat&logo=mendix" alt="Mendix"/>
-</a><br />&nbsp;
+</a>&nbsp;
 <a href="https://docs.flutterflow.io/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Flutter-414141?style=flat&logo=flutter" alt="Flutter"/>
+  <img align="center" src="https://img.shields.io/badge/-FlutterFlow-414141?style=flat&logo=flutterflow" alt="Flutter-Flow"/>
 </a><br />&nbsp;
 
 > Outras:
-
+<a href="https://git-scm.com/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Git-414141?style=flat&logo=git" alt="Git"/>
+</a>&nbsp;
+<a href="https://github.com/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-GitHub-414141?style=flat&logo=github" alt="GitHub"/>
+</a>&nbsp;
+<a href="https://ubuntu.com" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Ubuntu-414141?style=flat&logo=ubuntu" alt="Ubuntu"/>
+</a>&nbsp;
 <a href="https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-GitFlow-414141?style=flat&logo=gitflow" alt="GitFlow"/>
 </a>
