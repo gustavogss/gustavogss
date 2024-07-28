@@ -15,7 +15,7 @@
     
  >   Sobre mim: 
   
-  <p> Sou Desenvolvedor Web Full Stack focado em criar soluções criativas e inovadoras com o apoio de metodologias ágeis. </p>
+  <p> Sou Desenvolvedor Full Stack focado em resultados e produtividade. Trabalho com tecnologias hard code, low code, no code e com o auxilio de metodologias ágeis para criar soluções criativas e inovadoras. </p>
 <p>Tenho senso de time, aprendo rápido e estou sempre buscando expandir meus conhecimentos e habilidades. </p>     
           
 </div>
@@ -37,6 +37,7 @@
 ## :robot: &nbsp;Tech Stack 
 
 > Front-end:
+
 <a href="https://git-scm.com/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Git-414141?style=flat&logo=git" alt="Git"/>
 </a>&nbsp;
@@ -67,12 +68,9 @@
 <a href="https://pt-br.reactjs.org/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-React-414141?style=flat&logo=react" alt="React"/>
 </a>&nbsp;
-<a href="https://br.wordpress.org/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Wordpress-414141?style=flat&logo=wordpress" alt="Wordpress"/>
+<a href="https://nextjs.org/docs" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Next-414141?style=flat&logo=next" alt="Next"/>
 </a>&nbsp;
-<a href="https://marketplace.magento.com/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Magento2-414141?style=flat&logo=magento" alt="Magento2"/>
-</a> <br />&nbsp;
 
 > Back-end:
 
@@ -116,6 +114,23 @@
   <img align="center" src="https://img.shields.io/badge/-Cypress-414141?style=flat&logo=cypress" alt="Cypress"/>
 </a><br />&nbsp;
 
+> Low Code e No Code:
+
+<a href="https://marketplace.magento.com/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Magento2-414141?style=flat&logo=magento" alt="Magento2"/>
+</a> <br />&nbsp;
+<a href="https://codex.wordpress.org/pt-br:P%C3%A1gina_Inicial" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Wordpress-414141?style=flat&logo=wordpress" alt="Wordpress"/>
+</a>&nbsp;
+<a href="https://www.outsystems.com/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Outsystem-414141?style=flat&logo=outsystem" alt="Outsystem"/>
+</a>&nbsp;
+<a href="https://www.mendix.com/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Mendix-414141?style=flat&logo=mendix" alt="Mendix"/>
+</a><br />&nbsp;
+<a href="https://docs.flutterflow.io/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Flutter-414141?style=flat&logo=flutter" alt="Flutter"/>
+</a><br />&nbsp;
 
 > Outras:
 
