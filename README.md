@@ -15,7 +15,7 @@
     
  >   Sobre mim: 
   
-  <p> Sou Desenvolvedor Full Stack focado em resultados e produtividade. Trabalho com tecnologias high-code, low-code, no-code e com o auxilio de metodologias ágeis para criar soluções criativas e inovadoras. </p>
+  <p> Sou Desenvolvedor Full Stack focado em resultados e produtividade. Utilizo tecnologias high-code, low-code, no-code, com o auxilio de metodologias ágeis para criar soluções criativas e inovadoras. </p>
 <p>Tenho senso de time, aprendo rápido e estou sempre buscando expandir meus conhecimentos e habilidades. </p>     
           
 </div>
