@@ -118,12 +118,13 @@
 <a href="https://www.zaproxy.org/docs/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-OWASP_ZAP-414141?style=flat&logo=owasp" alt="OWASP ZAP"/>
 </a>&nbsp;
-<a href="https://developer.hashicorp.com/terraform/docs" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Terraform-414141?style=flat&logo=terraform" alt="Terraform"/>
-</a><br />&nbsp;
 <a href="https://docs.gitlab.com/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-GitLab-414141?style=flat&logo=gitlab" alt="GitLab"/>
 </a>&nbsp;
+<a href="https://developer.hashicorp.com/terraform/docs" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Terraform-414141?style=flat&logo=terraform" alt="Terraform"/>
+</a><br />&nbsp;
+
 
 > Outras:
 <a href="https://git-scm.com/" target="_blank">
