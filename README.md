@@ -37,14 +37,18 @@
 ## :robot: &nbsp;Tech Stack 
 
 > Front-end:
+
 <a href="https://www.w3c.br/Cursos/CursoHTML5" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-HTML5-414141?style=flat&logo=html5" alt="HTML5"/>
 </a>&nbsp;
 <a href="https://www.w3c.br/Cursos/CursoCSS3/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-CSS3-414141?style=flat&logo=css3" alt="CSS3"/>
 </a>&nbsp;
-<a href="https://getbootstrap.com/docs/5.2/getting-started/introduction/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-BootStrap-414141?style=flat&logo=bootstrap" alt="BootStrap"/>
+<a href="https://tailwindcss.com/docs" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Tailwind%20CSS-414141?style=flat&logo=tailwindcss" alt="Tailwind CSS"/>
+</a>&nbsp;
+<a href="https://styled-components.com/docs" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Styled%20Components-414141?style=flat&logo=styled-components" alt="Styled Components"/>
 </a>&nbsp;
 <a href="https://sass-lang.com/documentation" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-SASS-414141?style=flat&logo=sass" alt="SASS"/>
@@ -61,6 +65,7 @@
 <a href="https://nextjs.org/docs" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Next-414141?style=flat&logo=next.js" alt="Next"/>
 </a><br />&nbsp;
+
 
 > Mobile:
 
