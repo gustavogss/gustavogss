@@ -104,23 +104,26 @@
   <img align="center" src="https://img.shields.io/badge/-Cypress-414141?style=flat&logo=cypress" alt="Cypress"/>
 </a><br />&nbsp;
 
-> Low Code e No Code:
+> DevSecOps:
 
-<a href="https://marketplace.magento.com/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Magento2-414141?style=flat&logo=magento" alt="Magento2"/>
+<a href="https://prometheus.io/docs/introduction/overview/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Prometheus-414141?style=flat&logo=prometheus" alt="Prometheus"/>
 </a>&nbsp;
-<a href="https://codex.wordpress.org/pt-br:P%C3%A1gina_Inicial" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Wordpress-414141?style=flat&logo=wordpress" alt="Wordpress"/>
+<a href="https://grafana.com/docs/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Grafana-414141?style=flat&logo=grafana" alt="Grafana"/>
 </a>&nbsp;
-<a href="https://www.outsystems.com/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Outsystem-414141?style=flat&logo=outsystem" alt="Outsystem"/>
+<a href="https://portswigger.net/burp/documentation" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-BurpSuite-414141?style=flat&logo=burp-suite" alt="BurpSuite"/>
 </a>&nbsp;
-<a href="https://www.mendix.com/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Mendix-414141?style=flat&logo=mendix" alt="Mendix"/>
+<a href="https://www.zaproxy.org/docs/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-OWASP_ZAP-414141?style=flat&logo=owasp" alt="OWASP ZAP"/>
 </a>&nbsp;
-<a href="https://docs.flutterflow.io/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-FlutterFlow-414141?style=flat&logo=Flutterflow" alt="Flutter-Flow"/>
+<a href="https://developer.hashicorp.com/terraform/docs" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Terraform-414141?style=flat&logo=terraform" alt="Terraform"/>
 </a><br />&nbsp;
+<a href="https://docs.gitlab.com/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-GitLab-414141?style=flat&logo=gitlab" alt="GitLab"/>
+</a>&nbsp;
 
 > Outras:
 <a href="https://git-scm.com/" target="_blank">
