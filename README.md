@@ -62,6 +62,22 @@
   <img align="center" src="https://img.shields.io/badge/-Next-414141?style=flat&logo=next.js" alt="Next"/>
 </a><br />&nbsp;
 
+> Mobile:
+
+<a href="https://reactnative.dev/docs/getting-started" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-React%20Native-414141?style=flat&logo=react" alt="React Native"/>
+</a>&nbsp;
+<a href="https://docs.expo.dev/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Expo-414141?style=flat&logo=expo" alt="Expo"/>
+</a>&nbsp;
+<a href="https://docs.flutter.dev/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Flutter-414141?style=flat&logo=flutter" alt="Flutter"/>
+</a>&nbsp;
+<a href="https://developer.android.com/docs" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Android-414141?style=flat&logo=android" alt="Android"/>
+</a><br />&nbsp;
+
+
 > Back-end:
 
 <a href="https://nodejs.org/en/" target="_blank">
@@ -81,9 +97,6 @@
 </a>&nbsp;
 <a href="https://cloud.mongodb.com/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Mongo-414141?style=flat&logo=mongodb" alt="mongodb"/>
-</a>&nbsp;
-<a href="https://docs.docker.com/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Docker-414141?style=flat&logo=docker" alt="Docker"/>
 </a>&nbsp;
 <a href="https://vercel.com/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Vercel-414141?style=flat&logo=vercel" alt="Vercel"/>
@@ -106,6 +119,12 @@
 
 > DevSecOps:
 
+<a href="https://docs.docker.com/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Docker-414141?style=flat&logo=docker" alt="Docker"/>
+</a>&nbsp;
+<a href="https://docs.gitlab.com/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-GitLab-414141?style=flat&logo=gitlab" alt="GitLab"/>
+</a>&nbsp;
 <a href="https://prometheus.io/docs/introduction/overview/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Prometheus-414141?style=flat&logo=prometheus" alt="Prometheus"/>
 </a>&nbsp;
@@ -117,9 +136,6 @@
 </a>&nbsp;
 <a href="https://www.zaproxy.org/docs/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-OWASP_ZAP-414141?style=flat&logo=owasp" alt="OWASP ZAP"/>
-</a>&nbsp;
-<a href="https://docs.gitlab.com/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-GitLab-414141?style=flat&logo=gitlab" alt="GitLab"/>
 </a>&nbsp;
 <a href="https://developer.hashicorp.com/terraform/docs" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Terraform-414141?style=flat&logo=terraform" alt="Terraform"/>
