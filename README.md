@@ -15,7 +15,7 @@
     
  >   Sobre mim: 
   
-  <p> Sou Desenvolvedor Full Stack focado em resultados e produtividade. Utilizo tecnologias modernas e metodologias ágeis para criar soluções eficientes e inovadoras.. </p>
+  <p> Sou Desenvolvedor Full Stack focado em resultados e produtividade. Utilizo tecnologias modernas e metodologias ágeis para criar soluções eficientes e inovadoras. </p>
 <p>Tenho senso de time, aprendo rápido e estou sempre buscando expandir meus conhecimentos e habilidades. </p>     
           
 </div>
