@@ -15,7 +15,7 @@
     
  >   Sobre mim: 
   
-  <p> Sou Full Stack Developer, Mobile Developer e entusiasta de DevSecOps, sempre focado em criar soluções inovadoras e seguras com alta qualidade e eficiência. Atualmente estou aprofundando meus conhecimentos em segurança de software e metodologias ágeis. </p>
+  <p> Sou Full Stack Developer, Mobile Developer e entusiasta de DevSecOps, sempre focado em criar soluções inovadoras e seguras com alta qualidade e eficiência. Atualmente estou me capacitando em segurança de software e programação de IAs Generativas. </p>
 <p>Tenho senso de time, aprendo rápido e estou sempre buscando expandir meus conhecimentos e habilidades. </p>     
           
 </div>
