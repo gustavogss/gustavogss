@@ -15,8 +15,8 @@
     
  >   Sobre mim: 
   
-  <p> Sou Full Stack Developer, Mobile Developer e entusiasta de DevSecOps, sempre focado em criar soluções inovadoras e seguras com alta qualidade e eficiência. Atualmente estou me capacitando em segurança de software e programação de IAs Generativas. </p>
-<p>Tenho senso de time, aprendo rápido e estou sempre buscando expandir meus conhecimentos e habilidades. </p>     
+  <p> Sou Mobile Developer e entusiasta de DevSecOps,focado em criar soluções seguras, eficientes e escaláveis.</p>
+<p>Sou um profissional orientado a resultados, sempre em busca de inovação e aprendizado contínuo. Estou pronto para colaborar em projetos desafiadores e compartilhar conhecimento com profissionais de todo o mundo. </p>     
           
 </div>
 
@@ -24,7 +24,7 @@
   -   :mortar_board: &nbsp; Graduação:  &nbsp; Processamento de Dados pela [ASPER](https://www.asper.edu.br/)
   -   :mortar_board:  &nbsp; Pós-graduação:  &nbsp; Desenvolvimento Mobile e Sistemas Embarcados pela [Estácio de Sá](https://estacio.br/). 
   -   :mortar_board:  &nbsp; Imersão técnica:  &nbsp; Desenvolvimento Web Full Stack pela [Trybe](https://www.betrybe.com/)
-  -   :mortar_board: &nbsp; Em formação:  &nbsp; DevSecOps pelo programa [Hackers do Bem](https://conteudo.hackersdobem.org.br/)
+  -   :mortar_board: &nbsp; Especialização:  &nbsp; DevSecOps pelo programa [Hackers do Bem](https://conteudo.hackersdobem.org.br/)
   -   :handbag:  &nbsp; Estágio: &nbsp;  Analista de TI - [Projeto Cooperar](https://cooperar.pb.gov.br/)
   -   :handbag:  &nbsp; Freelancer: Desenvolvedor de Software - Landpages, sites e aplicativos móveis.
   
@@ -35,36 +35,6 @@
 <br />
 
 ## :robot: &nbsp;Tech Stack 
-
-> Front-end:
-
-<a href="https://www.w3c.br/Cursos/CursoHTML5" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-HTML5-414141?style=flat&logo=html5" alt="HTML5"/>
-</a>&nbsp;
-<a href="https://www.w3c.br/Cursos/CursoCSS3/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-CSS3-414141?style=flat&logo=css3" alt="CSS3"/>
-</a>&nbsp;
-<a href="https://tailwindcss.com/docs" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Tailwind%20CSS-414141?style=flat&logo=tailwindcss" alt="Tailwind CSS"/>
-</a>&nbsp;
-<a href="https://styled-components.com/docs" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Styled%20Components-414141?style=flat&logo=styled-components" alt="Styled Components"/>
-</a>&nbsp;
-<a href="https://sass-lang.com/documentation" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-SASS-414141?style=flat&logo=sass" alt="SASS"/>
-</a>&nbsp;
-<a href="https://www.w3schools.com/js/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Javascript-414141?style=flat&logo=javascript" alt="Javascript"/>
-</a>&nbsp;
-<a href="https://www.typescriptlang.org/docs/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Typescript-414141?style=flat&logo=typescript" alt="Typescript"/>
-</a>&nbsp;
-<a href="https://pt-br.reactjs.org/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-React-414141?style=flat&logo=react" alt="React"/>
-</a>&nbsp;
-<a href="https://nextjs.org/docs" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Next-414141?style=flat&logo=next.js" alt="Next"/>
-</a><br />&nbsp;
 
 
 > Mobile:
@@ -108,18 +78,6 @@
 </a>&nbsp;
 <a href="https://heroku.com/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Heroku-414141?style=flat&logo=heroku" alt="Heroku"/>
-</a><br />&nbsp;
-
-> Testes:
-
-<a href="https://jestjs.io/pt-BR/docs/getting-started" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Jest-414141?style=flat&logo=jest" alt="Jest"/>
-</a>&nbsp;
-<a href="https://testing-library.com/docs/react-testing-library/intro/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-RTL-414141?style=flat&logo=rtl" alt="RTL"/>
-</a>&nbsp;
-<a href="https://docs.cypress.io/guides/overview/why-cypress" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Cypress-414141?style=flat&logo=cypress" alt="Cypress"/>
 </a><br />&nbsp;
 
 > DevSecOps:
