@@ -15,7 +15,7 @@
     
  >   Sobre mim: 
   
-  <p> Sou Mobile Developer e entusiasta de DevSecOps,focado em criar soluções seguras, eficientes e escaláveis.</p>
+  <p> Sou Mobile Developer e entusiasta de DevSecOps, focado em criar soluções seguras, eficientes e escaláveis.</p>
 <p>Sou um profissional orientado a resultados, sempre em busca de inovação e aprendizado contínuo. Estou pronto para colaborar em projetos desafiadores e compartilhar conhecimento com profissionais de todo o mundo. </p>     
           
 </div>
