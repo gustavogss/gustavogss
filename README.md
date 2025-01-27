@@ -15,8 +15,8 @@
     
  >   Sobre mim: 
   
-  <p> Sou Mobile Developer e entusiasta de DevSecOps, focado em criar soluções seguras, eficientes e escaláveis.</p>
-<p>Sou um profissional orientado a resultados, sempre em busca de inovação e aprendizado contínuo. Estou pronto para colaborar em projetos desafiadores e compartilhar conhecimento com profissionais de todo o mundo. </p>     
+  <p>Sou Mobile Developer e entusiasta de DevSecOps, com foco em criar soluções seguras, eficientes e escaláveis.</p>
+<p>Possuo forte senso de equipe, sou orientado a resultados e tenho paixão por inovação e aprendizado contínuo. Estou sempre em busca de aprimorar minhas habilidades e contribuir para o sucesso de projetos desafiadores. </p>     
           
 </div>
 
@@ -36,57 +36,58 @@
 
 ## :robot: &nbsp;Tech Stack 
 
-
-> Mobile:
-
+> Frontend:
 <a href="https://reactnative.dev/docs/getting-started" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-React%20Native-414141?style=flat&logo=react" alt="React Native"/>
 </a>&nbsp;
-<a href="https://docs.expo.dev/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Expo-414141?style=flat&logo=expo" alt="Expo"/>
+<a href="https://www.typescriptlang.org/docs/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-TypeScript-414141?style=flat&logo=typescript" alt="TypeScript"/>
 </a>&nbsp;
-<a href="https://docs.flutter.dev/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Flutter-414141?style=flat&logo=flutter" alt="Flutter"/>
+<a href="https://styled-components.com/docs" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Styled--components-414141?style=flat&logo=styled-components" alt="Styled-components"/>
+</a>&nbsp;
+<a href="https://tailwindcss.com/docs" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-TailwindCSS-414141?style=flat&logo=tailwindcss" alt="Tailwind"/>
 </a>&nbsp;
 <a href="https://developer.android.com/docs" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Android-414141?style=flat&logo=android" alt="Android"/>
+</a>&nbsp;
+<a href="https://docs.flutter.dev/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Flutter-414141?style=flat&logo=flutter" alt="Flutter"/>
 </a><br />&nbsp;
 
-
-> Back-end:
-
+> Backend:
 <a href="https://nodejs.org/en/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-NodeJs-414141?style=flat&logo=node.js" alt="Node"/>
+</a>&nbsp;
+<a href="https://expressjs.com/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Express-414141?style=flat&logo=express" alt="Express"/>
+</a>&nbsp;
+<a href="https://www.fastify.io/docs/latest/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Fastify-414141?style=flat&logo=fastify" alt="Fastify"/>
+</a>&nbsp;
+<a href="https://firebase.google.com/docs" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Firebase-414141?style=flat&logo=firebase" alt="Firebase"/>
+</a>&nbsp;
+<a href="https://supabase.com/docs" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Supabase-414141?style=flat&logo=supabase" alt="Supabase"/>
 </a>&nbsp;
 <a href="https://www.mysql.com/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-MySQL-414141?style=flat&logo=mysql" alt="MySQL"/>
 </a>&nbsp;
-<a href="https://www.postgresql.org/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Postgresql-414141?style=flat&logo=postgresql" alt="Postgresql"/>
-</a>&nbsp;
-<a href="https://sequelize.org/docs/v6/getting-started/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Sequelize-414141?style=flat&logo=sequelize" alt="Sequelize"/>
-</a>&nbsp;
-<a href="https://www.prisma.io/docs" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Prisma-414141?style=flat&logo=prisma" alt="Prisma"/>
-</a>&nbsp;
-<a href="https://cloud.mongodb.com/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Mongo-414141?style=flat&logo=mongodb" alt="mongodb"/>
-</a>&nbsp;
-<a href="https://vercel.com/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Vercel-414141?style=flat&logo=vercel" alt="Vercel"/>
-</a>&nbsp;
-<a href="https://heroku.com/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Heroku-414141?style=flat&logo=heroku" alt="Heroku"/>
-</a><br />&nbsp;
-
-> DevSecOps:
-
 <a href="https://docs.docker.com/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Docker-414141?style=flat&logo=docker" alt="Docker"/>
 </a>&nbsp;
-<a href="https://docs.gitlab.com/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-GitLab-414141?style=flat&logo=gitlab" alt="GitLab"/>
+<a href="https://sqlite.org/docs.html" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-SQLite-414141?style=flat&logo=sqlite" alt="SQLite"/>
+</a>&nbsp;
+<a href="https://strapi.io/documentation" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Strapi-414141?style=flat&logo=strapi" alt="Strapi"/>
+</a><br />&nbsp;
+
+> DevSecOps:
+<a href="https://developer.hashicorp.com/terraform/docs" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Terraform-414141?style=flat&logo=terraform" alt="Terraform"/>
 </a>&nbsp;
 <a href="https://prometheus.io/docs/introduction/overview/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Prometheus-414141?style=flat&logo=prometheus" alt="Prometheus"/>
@@ -94,47 +95,50 @@
 <a href="https://grafana.com/docs/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Grafana-414141?style=flat&logo=grafana" alt="Grafana"/>
 </a>&nbsp;
-<a href="https://portswigger.net/burp/documentation" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-BurpSuite-414141?style=flat&logo=burp-suite" alt="BurpSuite"/>
+<a href="https://sonarqube.org/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-SonarQube-414141?style=flat&logo=sonarqube" alt="SonarQube"/>
 </a>&nbsp;
 <a href="https://www.zaproxy.org/docs/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-OWASP_ZAP-414141?style=flat&logo=owasp" alt="OWASP ZAP"/>
 </a>&nbsp;
-<a href="https://developer.hashicorp.com/terraform/docs" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Terraform-414141?style=flat&logo=terraform" alt="Terraform"/>
+<a href="https://owasp.org/www-project-dependency-check/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-OWASP_Dependency_Check-414141?style=flat&logo=owasp" alt="OWASP Dependency Check"/>
+</a>&nbsp;
+<a href="https://bandit.readthedocs.io/en/latest/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Bandit-414141?style=flat&logo=python" alt="Bandit"/>
 </a><br />&nbsp;
 
-
-> Outras:
-<a href="https://git-scm.com/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Git-414141?style=flat&logo=git" alt="Git"/>
-</a>&nbsp;
-<a href="https://github.com/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-GitHub-414141?style=flat&logo=github" alt="GitHub"/>
-</a>&nbsp;
-<a href="https://ubuntu.com" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Ubuntu-414141?style=flat&logo=ubuntu" alt="Ubuntu"/>
-</a>&nbsp;
-<a href="https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-GitFlow-414141?style=flat&logo=gitflow" alt="GitFlow"/>
-</a>
-<a href="https://www.postman.com/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Postman-414141?style=flat&logo=postman" alt="Postman"/>
-</a>
-<a href="https://insomnia.rest/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Insomnia-414141?style=flat&logo=insomnia" alt="Insomnia"/>
-</a>
+> Design UI/UX:
 <a href="https://www.figma.com/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Figma-414141?style=flat&logo=figma" alt="Figma"/>
-</a>
-<a href="https://slack.com" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Slack-414141?style=flat&logo=slack" alt="Slack"/>
-</a>
-<a href="https://trello.com/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Trello-414141?style=flat&logo=trello" alt="Trello"/>
-</a>
-<a href="https://zoom.us/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Zoom-414141?style=flat&logo=zoom" alt="Zoom"/>
+</a><br />&nbsp;
+
+> Metodologias Ágeis:
+<a href="https://www.scrum.org/resources/what-is-scrum" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-SCRUM-414141?style=flat&logo=scrum" alt="SCRUM"/>
+</a>&nbsp;
+<a href="https://kanbanize.com/kanban-resources/getting-started/what-is-kanban" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Kanban-414141?style=flat&logo=kanban" alt="Kanban"/>
+</a><br />&nbsp;
+
+> Outras:
+<a href="https://insomnia.rest/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Insomnia-414141?style=flat&logo=insomnia" alt="Insomnia"/>
+</a>&nbsp;
+<a href="https://www.postman.com/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Postman-414141?style=flat&logo=postman" alt="Postman"/>
+</a>&nbsp;
+<a href="https://git-scm.com/doc" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Git-414141?style=flat&logo=git" alt="Git"/>
+</a>&nbsp;
+<a href="https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Gitflow-414141?style=flat&logo=git" alt="Gitflow"/>
+</a>&nbsp;
+<a href="https://docs.gitlab.com/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-GitLab-414141?style=flat&logo=gitlab" alt="GitLab"/>
+</a>&nbsp;
+<a href="https://docs.docker.com/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Docker-414141?style=flat&logo=docker" alt="Docker"/>
 </a>
 <br><br>
 
