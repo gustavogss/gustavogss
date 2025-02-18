@@ -15,8 +15,8 @@
     
  >   Sobre mim: 
   
-  <p>Sou Mobile Developer e entusiasta de DevSecOps, com foco em criar soluções seguras, eficientes e escaláveis.</p>
-<p>Possuo forte senso de equipe, sou orientado a resultados e tenho paixão por inovação e aprendizado contínuo. Estou sempre em busca de aprimorar minhas habilidades e contribuir para o sucesso de projetos desafiadores. </p>     
+  <p>Sou Full Stack Developer Web e Mobile, com forte interesse em DevSecOps. Foco em criar soluções seguras, eficientes e escaláveis, sempre buscando inovação e aprendizado contínuo.</p>
+<p>Valorizo o trabalho em equipe e estou sempre aprimorando minhas habilidades para contribuir com projetos desafiadores e impactantes. </p>     
           
 </div>
 
