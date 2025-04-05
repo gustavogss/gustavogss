@@ -15,7 +15,7 @@
     
  >   Sobre mim: 
   
-  <p>Sou Desenvolvedor Mobile e entusiasta em Pentest, com grande interesse em atuar com AppSec para aplicações móveis. Meu foco é desenvolver soluções seguras desde as etapas iniciais do ciclo de desenvolvimento.</p> <p>Tenho experiências anteriores como Desenvolvedor Web e já atuei com práticas de DevSecOps, integrando segurança de forma contínua ao processo de desenvolvimento. Valorizo o trabalho em equipe e estou em constante evolução profissional, sempre buscando contribuir com projetos desafiadores na interseção entre desenvolvimento e segurança.</p>   
+  <p>Sou especialista em Desenvolvimento Mobile e entusiasta em Pentest, com grande interesse em atuar com AppSec para aplicativos móveis. Meu foco é desenvolver soluções seguras desde as etapas iniciais do ciclo de desenvolvimento.</p> <p>Tenho experiências anteriores como Desenvolvedor Web e já atuei com práticas de DevSecOps, integrando segurança de forma contínua ao processo de desenvolvimento. Valorizo o trabalho em equipe e estou em constante evolução profissional, sempre buscando contribuir com projetos desafiadores na interseção entre desenvolvimento e segurança.</p>   
           
 </div>
 
