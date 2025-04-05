@@ -25,7 +25,7 @@
   -   :mortar_board:  &nbsp; Imersão técnica:  &nbsp; Desenvolvimento Web Full Stack pela [Trybe](https://www.betrybe.com/)
   -   :mortar_board: &nbsp; Imersão técnica:  &nbsp; DevSecOps pelo programa [Hackers do Bem](https://conteudo.hackersdobem.org.br/)
   -   :handbag:  &nbsp; Estágio: &nbsp;  Analista de TI - [Projeto Cooperar](https://cooperar.pb.gov.br/)
-  -   :handbag:  &nbsp; Freelancer: Desenvolvedor de Software - Landpages, sites e aplicativos móveis.
+  -   :handbag:  &nbsp; Freelancer: Desenvolvedor de Software  - Landpages, sites e aplicativos móveis.
   
   -   :round_pushpin: João Pessoa, Paraiba, Brasil  
 
@@ -35,54 +35,51 @@
 
 ## :robot: &nbsp;Tech Stack 
 
-> Frontend:
+> Mobile:
 <a href="https://reactnative.dev/docs/getting-started" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-React%20Native-414141?style=flat&logo=react" alt="React Native"/>
-</a>&nbsp;
-<a href="https://www.typescriptlang.org/docs/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-TypeScript-414141?style=flat&logo=typescript" alt="TypeScript"/>
-</a>&nbsp;
-<a href="https://styled-components.com/docs" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Styled--components-414141?style=flat&logo=styled-components" alt="Styled-components"/>
-</a>&nbsp;
-<a href="https://tailwindcss.com/docs" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-TailwindCSS-414141?style=flat&logo=tailwindcss" alt="Tailwind"/>
 </a>&nbsp;
 <a href="https://developer.android.com/docs" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Android-414141?style=flat&logo=android" alt="Android"/>
 </a>&nbsp;
 <a href="https://docs.flutter.dev/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Flutter-414141?style=flat&logo=flutter" alt="Flutter"/>
-</a><br />&nbsp;
-
-> Backend:
-<a href="https://nodejs.org/en/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-NodeJs-414141?style=flat&logo=node.js" alt="Node"/>
-</a>&nbsp;
-<a href="https://expressjs.com/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Express-414141?style=flat&logo=express" alt="Express"/>
-</a>&nbsp;
-<a href="https://www.fastify.io/docs/latest/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Fastify-414141?style=flat&logo=fastify" alt="Fastify"/>
 </a>&nbsp;
 <a href="https://firebase.google.com/docs" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Firebase-414141?style=flat&logo=firebase" alt="Firebase"/>
+</a>
+<a href="https://www.sqlite.org/docs.html" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-SQLite-414141?style=flat&logo=sqlite&logoColor=white" alt="SQLite"/>
+</a><br/>&nbsp;
+
+> Pentest:
+<a href="https://portswigger.net/burp" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Burp%20Suite-414141?style=flat&logo=burpsuite&logoColor=orange" alt="Burp Suite"/>
 </a>&nbsp;
-<a href="https://supabase.com/docs" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Supabase-414141?style=flat&logo=supabase" alt="Supabase"/>
+<a href="https://www.wireshark.org/docs/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Wireshark-414141?style=flat&logo=wireshark" alt="Wireshark"/>
 </a>&nbsp;
-<a href="https://www.mysql.com/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-MySQL-414141?style=flat&logo=mysql" alt="MySQL"/>
+<a href="https://nmap.org/book/man.html" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Nmap-414141?style=flat&logo=nmap" alt="Nmap"/>
 </a>&nbsp;
-<a href="https://docs.docker.com/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Docker-414141?style=flat&logo=docker" alt="Docker"/>
+<a href="https://docs.rapid7.com/metasploit/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Metasploit-414141?style=flat&logo=metasploit" alt="Metasploit"/>
 </a>&nbsp;
-<a href="https://sqlite.org/docs.html" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-SQLite-414141?style=flat&logo=sqlite" alt="SQLite"/>
+<a href="https://www.zaproxy.org/docs/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-OWASP%20ZAP-414141?style=flat&logo=OWASP" alt="OWASP ZAP"/>
 </a>&nbsp;
-<a href="https://strapi.io/documentation" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Strapi-414141?style=flat&logo=strapi" alt="Strapi"/>
-</a><br />&nbsp;
+<a href="https://www.kali.org/docs/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Kali%20Linux-414141?style=flat&logo=kalilinux" alt="Kali Linux"/>
+</a>&nbsp;
+<a href="https://man7.org/linux/man-pages/man1/nc.1.html" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Netcat-414141?style=flat&logo=gnu-bash" alt="Netcat"/>
+</a>&nbsp;
+<a href="https://www.gnu.org/software/bash/manual/bash.html" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Shell%20Script-414141?style=flat&logo=gnu-bash" alt="Shell Script"/>
+</a>&nbsp;
+<a href="https://www.python.org/doc/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Python-414141?style=flat&logo=python" alt="Python"/>
+</a><br/>&nbsp;
 
 > DevSecOps:
 <a href="https://developer.hashicorp.com/terraform/docs" target="_blank">
@@ -97,15 +94,48 @@
 <a href="https://sonarqube.org/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-SonarQube-414141?style=flat&logo=sonarqube" alt="SonarQube"/>
 </a>&nbsp;
-<a href="https://www.zaproxy.org/docs/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-OWASP_ZAP-414141?style=flat&logo=owasp" alt="OWASP ZAP"/>
-</a>&nbsp;
-<a href="https://owasp.org/www-project-dependency-check/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-OWASP_Dependency_Check-414141?style=flat&logo=owasp" alt="OWASP Dependency Check"/>
-</a>&nbsp;
 <a href="https://bandit.readthedocs.io/en/latest/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Bandit-414141?style=flat&logo=python" alt="Bandit"/>
 </a><br />&nbsp;
+
+> Web:
+<a href="https://reactjs.org/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-React-414141?style=flat&logo=react" alt="React"/>
+</a>&nbsp;
+<a href="https://nextjs.org/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Next.js-414141?style=flat&logo=next.js" alt="Next.js"/>
+</a>&nbsp;
+<a href="https://www.typescriptlang.org/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-TypeScript-414141?style=flat&logo=typescript" alt="TypeScript"/>
+</a>&nbsp;
+<a href="https://tailwindcss.com/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-TailwindCSS-414141?style=flat&logo=tailwindcss" alt="Tailwind CSS"/>
+</a><br />&nbsp;
+
+> Backend:
+<a href="https://nodejs.org/en/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-NodeJs-414141?style=flat&logo=node.js" alt="Node"/>
+</a>&nbsp;
+<a href="https://expressjs.com/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Express-414141?style=flat&logo=express" alt="Express"/>
+</a>&nbsp;
+<a href="https://www.fastify.io/docs/latest/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Fastify-414141?style=flat&logo=fastify" alt="Fastify"/>
+</a>&nbsp;
+<a href="https://supabase.com/docs" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Supabase-414141?style=flat&logo=supabase" alt="Supabase"/>
+</a>&nbsp;
+<a href="https://www.mysql.com/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-MySQL-414141?style=flat&logo=mysql" alt="MySQL"/>
+</a>&nbsp;
+<a href="https://docs.docker.com/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Docker-414141?style=flat&logo=docker" alt="Docker"/>
+</a>&nbsp;
+<a href="https://strapi.io/documentation" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Strapi-414141?style=flat&logo=strapi" alt="Strapi"/>
+</a><br />&nbsp;
+
+
 
 > Design UI/UX:
 <a href="https://www.figma.com/" target="_blank">
@@ -136,9 +166,7 @@
 <a href="https://docs.gitlab.com/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-GitLab-414141?style=flat&logo=gitlab" alt="GitLab"/>
 </a>&nbsp;
-<a href="https://docs.docker.com/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Docker-414141?style=flat&logo=docker" alt="Docker"/>
-</a>
+
 <br><br>
 
          
