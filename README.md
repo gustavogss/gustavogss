@@ -15,7 +15,7 @@
     
  >   Sobre mim: 
   
-  <p>Sou especialista em Desenvolvimento Mobile e entusiasta em Pentest, com grande interesse em atuar com AppSec para aplicativos móveis. Meu foco é desenvolver soluções seguras desde as etapas iniciais do ciclo de desenvolvimento.</p> <p>Tenho experiências anteriores como Desenvolvedor Web Full Satck e já atuei com práticas de DevSecOps, integrando segurança de forma contínua ao processo de desenvolvimento. Valorizo o trabalho em equipe e estou em constante evolução profissional, sempre buscando contribuir com projetos desafiadores na interseção entre desenvolvimento e segurança.</p>   
+  <p>Sou Desenvolvedor Full Stack e entusiasta em Pentest, com grande interesse em atuar em AppSec com objetivo de desenvolver soluções seguras desde as etapas iniciais do ciclo de desenvolvimento.</p> <p>Já atuei com práticas de DevSecOps, integrando segurança de forma contínua ao processo de desenvolvimento. Valorizo o trabalho em equipe e estou em constante evolução profissional, sempre buscando contribuir com projetos desafiadores na interseção entre desenvolvimento e segurança.</p>   
           
 </div>
 
@@ -35,22 +35,42 @@
 
 ## :robot: &nbsp;Tech Stack 
 
-> Mobile:
-<a href="https://reactnative.dev/docs/getting-started" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-React%20Native-414141?style=flat&logo=react" alt="React Native"/>
+> Frontend:
+<a href="https://reactjs.org/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-React-414141?style=flat&logo=react" alt="React"/>
 </a>&nbsp;
-<a href="https://developer.android.com/docs" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Android-414141?style=flat&logo=android" alt="Android"/>
+<a href="https://nextjs.org/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Next.js-414141?style=flat&logo=next.js" alt="Next.js"/>
 </a>&nbsp;
-<a href="https://docs.flutter.dev/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Flutter-414141?style=flat&logo=flutter" alt="Flutter"/>
+<a href="https://www.typescriptlang.org/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-TypeScript-414141?style=flat&logo=typescript" alt="TypeScript"/>
 </a>&nbsp;
-<a href="https://firebase.google.com/docs" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Firebase-414141?style=flat&logo=firebase" alt="Firebase"/>
-</a>
-<a href="https://www.sqlite.org/docs.html" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-SQLite-414141?style=flat&logo=sqlite&logoColor=white" alt="SQLite"/>
-</a><br/>&nbsp;
+<a href="https://tailwindcss.com/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-TailwindCSS-414141?style=flat&logo=tailwindcss" alt="Tailwind CSS"/>
+</a><br />&nbsp;
+
+> Backend:
+<a href="https://nodejs.org/en/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-NodeJs-414141?style=flat&logo=node.js" alt="Node"/>
+</a>&nbsp;
+<a href="https://expressjs.com/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Express-414141?style=flat&logo=express" alt="Express"/>
+</a>&nbsp;
+<a href="https://www.fastify.io/docs/latest/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Fastify-414141?style=flat&logo=fastify" alt="Fastify"/>
+</a>&nbsp;
+<a href="https://supabase.com/docs" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Supabase-414141?style=flat&logo=supabase" alt="Supabase"/>
+</a>&nbsp;
+<a href="https://www.mysql.com/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-MySQL-414141?style=flat&logo=mysql" alt="MySQL"/>
+</a>&nbsp;
+<a href="https://docs.docker.com/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Docker-414141?style=flat&logo=docker" alt="Docker"/>
+</a>&nbsp;
+<a href="https://strapi.io/documentation" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Strapi-414141?style=flat&logo=strapi" alt="Strapi"/>
+</a><br />&nbsp;
 
 > Pentest:
 <a href="https://portswigger.net/burp" target="_blank">
@@ -97,45 +117,6 @@
 <a href="https://bandit.readthedocs.io/en/latest/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Bandit-414141?style=flat&logo=python" alt="Bandit"/>
 </a><br />&nbsp;
-
-> Web:
-<a href="https://reactjs.org/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-React-414141?style=flat&logo=react" alt="React"/>
-</a>&nbsp;
-<a href="https://nextjs.org/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Next.js-414141?style=flat&logo=next.js" alt="Next.js"/>
-</a>&nbsp;
-<a href="https://www.typescriptlang.org/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-TypeScript-414141?style=flat&logo=typescript" alt="TypeScript"/>
-</a>&nbsp;
-<a href="https://tailwindcss.com/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-TailwindCSS-414141?style=flat&logo=tailwindcss" alt="Tailwind CSS"/>
-</a><br />&nbsp;
-
-> Backend:
-<a href="https://nodejs.org/en/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-NodeJs-414141?style=flat&logo=node.js" alt="Node"/>
-</a>&nbsp;
-<a href="https://expressjs.com/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Express-414141?style=flat&logo=express" alt="Express"/>
-</a>&nbsp;
-<a href="https://www.fastify.io/docs/latest/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Fastify-414141?style=flat&logo=fastify" alt="Fastify"/>
-</a>&nbsp;
-<a href="https://supabase.com/docs" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Supabase-414141?style=flat&logo=supabase" alt="Supabase"/>
-</a>&nbsp;
-<a href="https://www.mysql.com/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-MySQL-414141?style=flat&logo=mysql" alt="MySQL"/>
-</a>&nbsp;
-<a href="https://docs.docker.com/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Docker-414141?style=flat&logo=docker" alt="Docker"/>
-</a>&nbsp;
-<a href="https://strapi.io/documentation" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Strapi-414141?style=flat&logo=strapi" alt="Strapi"/>
-</a><br />&nbsp;
-
-
 
 > Design UI/UX:
 <a href="https://www.figma.com/" target="_blank">
