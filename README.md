@@ -15,7 +15,7 @@
     
  >   Sobre mim: 
   
-  <p>Sou Desenvolvedor Full Stack e entusiasta em Pentest, com grande interesse em atuar no desenvolvimento de soluções seguras desde as etapas iniciais do ciclo de desenvolvimento.</p> <p>Já atuei com práticas de DevSecOps, integrando segurança de forma contínua ao processo de desenvolvimento. Valorizo o trabalho em equipe e estou em constante evolução profissional, sempre buscando contribuir com projetos desafiadores na interseção entre desenvolvimento e segurança.</p>   
+  <p>Sou Desenvolvedor Full Stack e entusiasta em Pentest, com grande interesse em atuar no desenvolvimento de soluções inovadoras e  seguras em todas as etapas do ciclo de desenvolvimento do software.</p> <p>Já atuei com práticas de DevSecOps, integrando segurança de forma contínua ao processo de desenvolvimento. Valorizo o trabalho em equipe e estou em constante evolução profissional, sempre buscando contribuir com projetos desafiadores na interseção entre desenvolvimento e segurança.</p>   
           
 </div>
 
