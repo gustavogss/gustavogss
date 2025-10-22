@@ -1,4 +1,7 @@
-# 👋 Olá! Eu sou Gustavo Souza
+<h1 align="center">Olá  <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+         alt="Waving hand animated gif"
+         height="45"
+         width="45" />, Eu sou Gustavo Souza</h1>
 
 **Full Stack & Mobile Developer | AppSec | DevSecOps | Entusiasta em IA**
 
@@ -8,7 +11,7 @@ Sou desenvolvedor full stack e mobile em transição para Application Security (
 
 ## 🤖 Tech Stack
 
-**Frontend:** Angular · Next.js · React · Tailwind CSS · TypeScript  
+**Frontend:** React · Next.js · Tailwind CSS · TypeScript  
 **Mobile:** Android (Java/Kotlin) · React Native · Flutter  
 **Backend:** Node.js · Express · Fastify · Firebase · Supabase · MySQL · Docker · PHP · Magento 2  
 **DevSecOps e Infraestrutura:** CI/CD com SAST (SonarQube, Dependency Check, Bandit) e DAST (OWASP ZAP) · GitFlow · Prometheus · Grafana · Terraform  
