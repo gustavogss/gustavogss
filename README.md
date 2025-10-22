@@ -33,14 +33,4 @@ Sou desenvolvedor web full stack e mobile em transição para Application Securi
 
 ---
 
-## 📫 Contatos
-
-- 🌐 Portfolio: [https://portfolio-one-beta-64.vercel.app/](https://portfolio-one-beta-64.vercel.app/)  
-- 💼 LinkedIn: [https://www.linkedin.com/in/gustavosouza-jp/](https://www.linkedin.com/in/gustavosouza-jp/)  
-- 📧 Email: gustavogss.dev@gmail.com  
-- 🎨 Behance: [https://www.behance.net/gustavogousa37](https://www.behance.net/gustavogousa37)  
-- 🐙 GitHub: [https://github.com/gustavogss](https://github.com/gustavogss)  
-
----
-
 > "Sempre buscando integrar desenvolvimento, segurança e inovação para entregar soluções completas e confiáveis."
