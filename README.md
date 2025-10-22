@@ -1,185 +1,76 @@
-<h1 align="center">Olá  <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
-         alt="Waving hand animated gif"
-         height="45"
-         width="45" />, Eu sou Gustavo Souza</h1>
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/gustavosouza-jp/" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-</a>
-<a href="mailto:gustavogss.dev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+## 🔹 Sobre mim
+Atualmente em **transição para Application Security (AppSec)**, integro minha experiência em **desenvolvimento full stack e mobile** com práticas de **DevSecOps** e exploração de **Inteligência Artificial** para criar soluções **seguras, escaláveis e eficientes**.  
 
-</div>
-<br />
-<div align="justify">
-    
- >   Sobre mim: 
-  
-  <p>Sou Desenvolvedor Full Stack e entusiasta em Pentest, com grande interesse em atuar no desenvolvimento de soluções inovadoras e  seguras em todas as etapas do ciclo de desenvolvimento do software.</p> <p>Já atuei com práticas de DevSecOps, integrando segurança de forma contínua ao processo de desenvolvimento. Valorizo o trabalho em equipe e estou em constante evolução profissional, sempre buscando contribuir com projetos desafiadores na interseção entre desenvolvimento e segurança.</p>   
-          
-</div>
+Experiência em **React Native, Flutter, Android Nativo**, **Magento 2, WordPress**, automação de processos (**Shell Script, Python, N8N**) e **simulações de ataques** (brute force, SQLi, IDOR, XSS).  
 
- 
-  
+Prototipo soluções no **Figma** e sigo metodologias ágeis (**Scrum, XP, Kanban**) para garantir **entregas de qualidade e resultados reais** ✅  
 
-  -   :mortar_board: &nbsp; Imersão técnica:  &nbsp; Ethical Hacking Penetration Testing - [Gohacking](https://gohacking.com.br/curso/ethical-hacking-penetration-testing) Membership 
-  -   :mortar_board: &nbsp; Imersão técnica:  &nbsp; DevSecOps pelo programa [Hackers do Bem](https://conteudo.hackersdobem.org.br/)
-  -   :handbag:  &nbsp; Freelancer: Desenvolvedor de Software  - Landpages, sites e aplicativos móveis.
-  -   :mortar_board:  &nbsp; Imersão técnica:  &nbsp; Desenvolvimento Web Full Stack pela [Trybe](https://www.betrybe.com/)
-  -   :mortar_board:  &nbsp; Especialização:  &nbsp; Desenvolvimento Mobile e Sistemas Embarcados pela [Estácio de Sá](https://estacio.br/)  
-  -   :handbag:  &nbsp; Estágio: &nbsp;  Analista de TI - [Projeto Cooperar](https://cooperar.pb.gov.br/)
-  -   :mortar_board: &nbsp; Graduação:  &nbsp; Processamento de Dados pela [ASPER](https://www.asper.edu.br/) 
-    
-  -   :round_pushpin: João Pessoa, Paraiba, Brasil  
+---
 
+## 🛠️ Tech Stack & Skills
 
+### Frontend
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 
-<br />
+### Mobile
+![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat&logo=react&logoColor=black)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat&logo=android&logoColor=white)
 
-## :robot: &nbsp;Tech Stack 
-> Frontend:
-<a href="https://angular.io/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Angular-414141?style=flat&logo=angular" alt="Angular"/>
-</a>&nbsp;
-<a href="https://nextjs.org/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Next.js-414141?style=flat&logo=next.js" alt="Next.js"/>
-</a>&nbsp;
-<a href="https://reactjs.org/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-React-414141?style=flat&logo=react" alt="React"/>
-</a>&nbsp;
-<a href="https://tailwindcss.com/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-TailwindCSS-414141?style=flat&logo=tailwindcss" alt="Tailwind CSS"/>
-</a>&nbsp;
-<a href="https://www.typescriptlang.org/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-TypeScript-414141?style=flat&logo=typescript" alt="TypeScript"/>
-</a><br />&nbsp;
+### Backend
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
-> Backend:
-<a href="https://docs.docker.com/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Docker-414141?style=flat&logo=docker" alt="Docker"/>
-</a>&nbsp;
-<a href="https://expressjs.com/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Express-414141?style=flat&logo=express" alt="Express"/>
-</a>&nbsp;
-<a href="https://www.fastify.io/docs/latest/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Fastify-414141?style=flat&logo=fastify" alt="Fastify"/>
-</a>&nbsp;
-<a href="https://kotlinlang.org/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Kotlin-414141?style=flat&logo=kotlin" alt="Kotlin"/>
-</a>&nbsp;
-<a href="https://www.mysql.com/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-MySQL-414141?style=flat&logo=mysql" alt="MySQL"/>
-</a>&nbsp;
-<a href="https://nextjs.org/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Next.js-414141?style=flat&logo=next.js" alt="Next.js"/>
-</a>&nbsp;
-<a href="https://nodejs.org/en/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-NodeJs-414141?style=flat&logo=node.js" alt="Node.js"/>
-</a>&nbsp;
-<a href="https://www.java.com/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Java-414141?style=flat&logo=openjdk" alt="Java"/>
-</a>&nbsp;
-<a href="https://spring.io/projects/spring-boot" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Spring Boot-414141?style=flat&logo=springboot" alt="Spring Boot"/>
-</a>&nbsp;
-<a href="https://strapi.io/documentation" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Strapi-414141?style=flat&logo=strapi" alt="Strapi"/>
-</a>&nbsp;
-<a href="https://supabase.com/docs" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Supabase-414141?style=flat&logo=supabase" alt="Supabase"/>
-</a><br />&nbsp;
+### DevSecOps & Infra
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![GitFlow](https://img.shields.io/badge/-GitFlow-FF8800?style=flat)
+![CI/CD](https://img.shields.io/badge/-CI/CD-0088CC?style=flat)
+![Terraform](https://img.shields.io/badge/-Terraform-623CE4?style=flat&logo=terraform&logoColor=white)
+![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat&logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
 
-> Pentest:
-<a href="https://portswigger.net/burp" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Burp%20Suite-414141?style=flat&logo=burpsuite&logoColor=orange" alt="Burp Suite"/>
-</a>&nbsp;
-<a href="https://www.kali.org/docs/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Kali%20Linux-414141?style=flat&logo=kalilinux" alt="Kali Linux"/>
-</a>&nbsp;
-<a href="https://docs.rapid7.com/metasploit/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Metasploit-414141?style=flat&logo=metasploit" alt="Metasploit"/>
-</a>&nbsp;
-<a href="https://man7.org/linux/man-pages/man1/nc.1.html" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Netcat-414141?style=flat&logo=gnu-bash" alt="Netcat"/>
-</a>&nbsp;
-<a href="https://nmap.org/book/man.html" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Nmap-414141?style=flat&logo=nmap" alt="Nmap"/>
-</a>&nbsp;
-<a href="https://www.zaproxy.org/docs/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-OWASP%20ZAP-414141?style=flat&logo=OWASP" alt="OWASP ZAP"/>
-</a>&nbsp;
-<a href="https://www.python.org/doc/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Python-414141?style=flat&logo=python" alt="Python"/>
-</a>&nbsp;
-<a href="https://www.gnu.org/software/bash/manual/bash.html" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Shell%20Script-414141?style=flat&logo=gnu-bash" alt="Shell Script"/>
-</a>&nbsp;
-<a href="https://www.wireshark.org/docs/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Wireshark-414141?style=flat&logo=wireshark" alt="Wireshark"/>
-</a><br />&nbsp;
+### Segurança & Pentest
+![Kali Linux](https://img.shields.io/badge/-Kali_Linux-557C94?style=flat&logo=kali-linux&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/-Burp_Suite-FF5722?style=flat)
+![OWASP ZAP](https://img.shields.io/badge/-OWASP_ZAP-0055CC?style=flat)
+![Metasploit](https://img.shields.io/badge/-Metasploit-FF0000?style=flat)
+Python, Shell Script, Netcat, Nmap, Wireshark
 
-> DevSecOps:
-<a href="https://bandit.readthedocs.io/en/latest/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Bandit-414141?style=flat&logo=python" alt="Bandit"/>
-</a>&nbsp;
-<a href="https://grafana.com/docs/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Grafana-414141?style=flat&logo=grafana" alt="Grafana"/>
-</a>&nbsp;
-<a href="https://prometheus.io/docs/introduction/overview/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Prometheus-414141?style=flat&logo=prometheus" alt="Prometheus"/>
-</a>&nbsp;
-<a href="https://sonarqube.org/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-SonarQube-414141?style=flat&logo=sonarqube" alt="SonarQube"/>
-</a>&nbsp;
-<a href="https://developer.hashicorp.com/terraform/docs" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Terraform-414141?style=flat&logo=terraform" alt="Terraform"/>
-</a><br />&nbsp;
+### UI/UX & Metodologias
+Figma, Scrum, XP (pair programming), Kanban
 
-> Design UI/UX:
-<a href="https://www.figma.com/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Figma-414141?style=flat&logo=figma" alt="Figma"/>
-</a><br />&nbsp;
+---
 
-> Metodologias Ágeis:
-<a href="https://kanbanize.com/kanban-resources/getting-started/what-is-kanban" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Kanban-414141?style=flat&logo=kanban" alt="Kanban"/>
-</a>&nbsp;
-<a href="https://www.scrum.org/resources/what-is-scrum" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-SCRUM-414141?style=flat&logo=scrum" alt="SCRUM"/>
-</a><br />&nbsp;
+## 🎓 Formação & Experiência
+- Ethical Hacking / Penetration Testing - Gohacking  
+- DevSecOps - Hackers do Bem  
+- Especialização: Desenvolvimento Mobile e Sistemas Embarcados - Estácio  
+- Desenvolvimento Web Full Stack - Trybe  
+- Estágio: Analista de TI - Projeto Cooperar  
+- Graduação: Processamento de Dados - ASPER  
+- Freelancer: Landpages, sites e apps  
 
-> Outras:
-<a href="https://git-scm.com/doc" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Git-414141?style=flat&logo=git" alt="Git"/>
-</a>&nbsp;
-<a href="https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Gitflow-414141?style=flat&logo=git" alt="Gitflow"/>
-</a>&nbsp;
-<a href="https://docs.gitlab.com/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-GitLab-414141?style=flat&logo=gitlab" alt="GitLab"/>
-</a>&nbsp;
-<a href="https://insomnia.rest/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Insomnia-414141?style=flat&logo=insomnia" alt="Insomnia"/>
-</a>&nbsp;
-<a href="https://www.postman.com/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Postman-414141?style=flat&logo=postman" alt="Postman"/>
-</a>&nbsp;
+---
 
-<br><br>
+## 🔹 Projetos em destaque
+Projetos **pinados** no meu perfil refletem meu trabalho em **Full Stack, Mobile e AppSec**, com foco em **segurança, automação e escalabilidade**.  
 
-         
-## ⚙️ &nbsp;GitHub Analytics
-         
- <div align="left">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gustavogss&color=yellow" alt="Profile views" /> </p>
-<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavogss&show_icons=true&theme=radical" /> -->
- </div>
- 
+---
 
-                                                                                                
+## 📊 GitHub Stats
 
+![Gustavo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gustavogss&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavogss&layout=compact&theme=radical)
 
+---
 
-
-
-
+## 🔹 Objetivo Profissional
+Atuar como **desenvolvedor full stack e mobile em transição para AppSec**, aplicando **DevSecOps e Inteligência Artificial** para criar soluções **seguras, eficientes e escaláveis**, integrando **desenvolvimento, automação, segurança e experiência do usuário** em todas as etapas do ciclo de vida do software, com foco em **entregas de alta qualidade e proteção efetiva** ➡️  
