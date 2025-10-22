@@ -1,76 +1,43 @@
+# 👋 Olá! Eu sou Gustavo Souza
 
-## 🔹 Sobre mim
-Atualmente em **transição para Application Security (AppSec)**, integro minha experiência em **desenvolvimento full stack e mobile** com práticas de **DevSecOps** e exploração de **Inteligência Artificial** para criar soluções **seguras, escaláveis e eficientes**.  
+**Full Stack & Mobile Developer | AppSec | DevSecOps | Entusiasta em IA**
 
-Experiência em **React Native, Flutter, Android Nativo**, **Magento 2, WordPress**, automação de processos (**Shell Script, Python, N8N**) e **simulações de ataques** (brute force, SQLi, IDOR, XSS).  
-
-Prototipo soluções no **Figma** e sigo metodologias ágeis (**Scrum, XP, Kanban**) para garantir **entregas de qualidade e resultados reais** ✅  
+Sou desenvolvedor full stack e mobile em transição para Application Security (AppSec), integrando minha experiência em DevSecOps e explorando Inteligência Artificial para criar soluções seguras, escaláveis e eficientes. Tenho foco em entregar qualidade e proteção em todas as etapas do ciclo de desenvolvimento de software.
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## 🤖 Tech Stack
 
-### Frontend
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-
-### Mobile
-![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat&logo=react&logoColor=black)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat&logo=android&logoColor=white)
-
-### Backend
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-
-### DevSecOps & Infra
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![GitFlow](https://img.shields.io/badge/-GitFlow-FF8800?style=flat)
-![CI/CD](https://img.shields.io/badge/-CI/CD-0088CC?style=flat)
-![Terraform](https://img.shields.io/badge/-Terraform-623CE4?style=flat&logo=terraform&logoColor=white)
-![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat&logo=grafana&logoColor=white)
-![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
-
-### Segurança & Pentest
-![Kali Linux](https://img.shields.io/badge/-Kali_Linux-557C94?style=flat&logo=kali-linux&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/-Burp_Suite-FF5722?style=flat)
-![OWASP ZAP](https://img.shields.io/badge/-OWASP_ZAP-0055CC?style=flat)
-![Metasploit](https://img.shields.io/badge/-Metasploit-FF0000?style=flat)
-Python, Shell Script, Netcat, Nmap, Wireshark
-
-### UI/UX & Metodologias
-Figma, Scrum, XP (pair programming), Kanban
+**Frontend:** Angular · Next.js · React · Tailwind CSS · TypeScript  
+**Mobile:** Android (Java/Kotlin) · React Native · Flutter  
+**Backend:** Node.js · Express · Fastify · Firebase · Supabase · MySQL · Docker · PHP · Magento 2  
+**DevSecOps e Infraestrutura:** CI/CD com SAST (SonarQube, Dependency Check, Bandit) e DAST (OWASP ZAP) · GitFlow · Prometheus · Grafana · Terraform  
+**Segurança & Pentest (em estudo / aplicação prática):** Burp Suite · Kali Linux · Metasploit · Netcat · Nmap · Hydra · SQLi, IDOR, XSS · Python · Shell Script  
+**Automação e Low-Code:** N8N · WordPress · Engenharia de Prompt e Engenharia Reversa de IA  
+**UI/UX:** Prototipação e design de soluções com Figma  
+**Metodologias Ágeis:** Scrum · XP (pair programming) · Kanban  
 
 ---
 
-## 🎓 Formação & Experiência
-- Ethical Hacking / Penetration Testing - Gohacking  
-- DevSecOps - Hackers do Bem  
-- Especialização: Desenvolvimento Mobile e Sistemas Embarcados - Estácio  
-- Desenvolvimento Web Full Stack - Trybe  
-- Estágio: Analista de TI - Projeto Cooperar  
-- Graduação: Processamento de Dados - ASPER  
-- Freelancer: Landpages, sites e apps  
+## 🎓 Formação & Certificações
+
+- **Imersão técnica:** Ethical Hacking / Penetration Testing – Gohacking Membership  
+- **Imersão técnica:** DevSecOps – Hackers do Bem  
+- **Especialização:** Desenvolvimento Mobile e Sistemas Embarcados – Estácio de Sá  
+- **Imersão técnica:** Desenvolvimento Web Full Stack – Trybe  
+- **Estágio:** Analista de TI – Projeto Cooperar  
+- **Graduação:** Tecnólogo em Processamento de Dados – ASPER  
 
 ---
 
-## 🔹 Projetos em destaque
-Projetos **pinados** no meu perfil refletem meu trabalho em **Full Stack, Mobile e AppSec**, com foco em **segurança, automação e escalabilidade**.  
+## 📫 Contatos
+
+- 🌐 Portfolio: [https://portfolio-one-beta-64.vercel.app/](https://portfolio-one-beta-64.vercel.app/)  
+- 💼 LinkedIn: [https://www.linkedin.com/in/gustavosouza-jp/](https://www.linkedin.com/in/gustavosouza-jp/)  
+- 📧 Email: gustavogss.dev@gmail.com  
+- 🎨 Behance: [https://www.behance.net/gustavogousa37](https://www.behance.net/gustavogousa37)  
+- 🐙 GitHub: [https://github.com/gustavogss](https://github.com/gustavogss)  
 
 ---
 
-## 📊 GitHub Stats
-
-![Gustavo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gustavogss&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavogss&layout=compact&theme=radical)
-
----
-
-## 🔹 Objetivo Profissional
-Atuar como **desenvolvedor full stack e mobile em transição para AppSec**, aplicando **DevSecOps e Inteligência Artificial** para criar soluções **seguras, eficientes e escaláveis**, integrando **desenvolvimento, automação, segurança e experiência do usuário** em todas as etapas do ciclo de vida do software, com foco em **entregas de alta qualidade e proteção efetiva** ➡️  
+> "Sempre buscando integrar desenvolvimento, segurança e inovação para entregar soluções completas e confiáveis."
