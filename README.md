@@ -3,9 +3,8 @@
          height="45"
          width="45" />, Eu sou Gustavo Souza</h1>
 
-**Web Full Stack & Mobile Developer | AppSec | DevSecOps | Entusiasta em IA**
-
-Sou desenvolvedor web full stack e mobile em transição para Application Security (AppSec), integrando minha experiência em DevSecOps e explorando Inteligência Artificial para criar soluções seguras, escaláveis e eficientes. Tenho foco em entregar qualidade e proteção em todas as etapas do ciclo de desenvolvimento de software.
+<p>Sou desenvolvedor web full stack e mobile, em transição para Application Security (AppSec), integrando minha experiência em DevSecOps com o uso de Inteligência Artificial para criar soluções seguras, escaláveis e eficientes.</p>
+Meu objetivo é garantir qualidade, segurança e conformidade em todas as etapas do ciclo de desenvolvimento de software, contribuindo para aplicações mais resilientes e de alto desempenho.
 
 ---
 
