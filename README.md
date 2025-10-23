@@ -10,14 +10,14 @@ Meu objetivo é garantir qualidade, segurança e conformidade em todas as etapas
 
 ## 🤖 Tech Stack
 
-**Frontend:** React · Next.js · Tailwind CSS · TypeScript  
-**Mobile:** Android (Java/Kotlin) · React Native · Flutter  
-**Backend:** Node.js · Express · Fastify · Firebase · Supabase · MySQL · Docker · PHP · Magento 2  
-**DevSecOps e Infraestrutura:** CI/CD com SAST (SonarQube, Dependency Check, Bandit) e DAST (OWASP ZAP) · GitFlow · Prometheus · Grafana · Terraform  
-**Segurança & Pentest (em estudo / aplicação prática):** Burp Suite · Kali Linux · Metasploit · Netcat · Nmap · Hydra · SQLi, IDOR, XSS · Python · Shell Script  
-**Automação e Low-Code:** N8N · WordPress · Engenharia de Prompt e Engenharia Reversa de IA  
-**UI/UX:** Prototipação e design de soluções com Figma  
-**Metodologias Ágeis:** Scrum · XP (pair programming) · Kanban  
+- **Frontend:** React · Next.js · Tailwind CSS · TypeScript
+- **Mobile:** Android (Java/Kotlin) · React Native · Flutter
+- **Backend:** Node.js · Express · Fastify · Firebase · Supabase · MySQL · Docker · PHP · Magento 2
+- **DevSecOps e Infraestrutura:** CI/CD com SAST (SonarQube, Dependency Check, Bandit) e DAST (OWASP ZAP) · GitFlow · Prometheus · Grafana · Terraform
+- **Segurança & Pentest (em estudo / aplicação prática):** Burp Suite · Kali Linux · Metasploit · Netcat · Nmap · Hydra · SQLi · IDOR · XSS · Python · Shell Script
+- **Automação e Low-Code:** N8N · WordPress · Engenharia de Prompt · Engenharia Reversa de IA
+- **UI/UX:** Prototipação e design de soluções com Figma
+- **Metodologias Ágeis:** Scrum · XP (pair programming) · Kanban
 
 ---
 
